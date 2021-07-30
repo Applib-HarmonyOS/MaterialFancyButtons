@@ -1,2 +1,2 @@
-# MaterialFancyButtonsHMOS
- Port of the Android Library MaterialFancyButtons to HMOS
+# MaterialFancyButtons
+ Port of MaterialFancyButtons to OHOS
