@@ -1,7 +1,7 @@
 {
  "string": [
 { "name": "define_mfb_font_mobirise_icons",
-"value": "com.rilixtech.mobirise_icons_typeface.MobiriseIcons"
+"value": "com.rilixtech.mobiriseiconstypeface.MobiriseIcons"
 },
 { "name": "mbri_add_submenu",
 "value": "mbri_add_submenu"

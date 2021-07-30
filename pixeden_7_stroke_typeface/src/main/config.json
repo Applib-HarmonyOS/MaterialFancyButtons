@@ -15,7 +15,7 @@
   "deviceConfig": {
   },
   "module": {
-    "package": "com.rilixtech.pixeden_7_stroke_typeface",
+    "package": "com.rilixtech.pixeden7stroketypeface",
     "deviceType": [
       "phone"
     ],

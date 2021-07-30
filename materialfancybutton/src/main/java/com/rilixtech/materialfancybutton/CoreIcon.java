@@ -1,7 +1,7 @@
 package com.rilixtech.materialfancybutton;
 
-import com.rilixtech.materialfancybutton.typeface.IIcon;
-import com.rilixtech.materialfancybutton.typeface.ITypeface;
+import com.rilixtech.materialfancybutton.typeface.MfbIcon;
+import com.rilixtech.materialfancybutton.typeface.MfbTypeface;
 import com.rilixtech.materialfancybutton.utils.GenericsUtil;
 import com.rilixtech.materialfancybutton.utils.LogHelper;
 import java.util.Collection;
@@ -18,7 +18,7 @@ public final class CoreIcon {
     private static boolean loggingEnabled = false;
 
     private static boolean initDone = false;
-    private static final HashMap<String, ITypeface> FONTS = new HashMap<>();
+    private static final HashMap<String, MfbTypeface> FONTS = new HashMap<>();
 
 
 
@@ -37,8 +37,8 @@ public final class CoreIcon {
             String[] fonts = GenericsUtil.getFields();
             for (String fontsClassPath : fonts) {
                 try {
-                    ITypeface typeface =
-                            (ITypeface) Class.forName(fontsClassPath).getDeclaredConstructor().newInstance();
+                    MfbTypeface typeface =
+                            (MfbTypeface) Class.forName(fontsClassPath).getDeclaredConstructor().newInstance();
                     validateFont(typeface);
                     FONTS.put(typeface.getMappingPrefix(), typeface);
                     logHelper.logDebug("Typeface = %{public}s", typeface.getAuthor());
@@ -61,7 +61,7 @@ public final class CoreIcon {
      */
     public static boolean iconExists(String icon) {
         try {
-            ITypeface font = findFont(icon.substring(0, FONT_MAPPING_PREFIX));
+            MfbTypeface font = findFont(icon.substring(0, FONT_MAPPING_PREFIX));
             icon = icon.replace("-", "_");
             font.getIcon(icon);
             return true;
@@ -76,7 +76,7 @@ public final class CoreIcon {
      *
      * @param font The font to be registered.
      */
-    public static boolean registerFont(ITypeface font) {
+    public static boolean registerFont(MfbTypeface font) {
         try {
             validateFont(font);
             FONTS.put(font.getMappingPrefix(), font);
@@ -91,7 +91,7 @@ public final class CoreIcon {
     /**
      * Perform a basic sanity check for a font.
      */
-    private static void validateFont(ITypeface font) throws IllegalArgumentException {
+    private static void validateFont(MfbTypeface font) throws IllegalArgumentException {
         final String mappingPrefix = font.getMappingPrefix();
         if (mappingPrefix == null) {
             throw new IllegalArgumentException("The mapping prefix of a font cannot be null.");
@@ -104,7 +104,7 @@ public final class CoreIcon {
     /**
      * return all registered FONTS.
      */
-    public static Collection<ITypeface> getRegisteredFonts() {
+    public static Collection<MfbTypeface> getRegisteredFonts() {
         init();
         return FONTS.values();
     }
@@ -114,17 +114,17 @@ public final class CoreIcon {
      *
      * @param key The key of the font to be found.
      */
-    public static ITypeface findFont(String key) {
+    public static MfbTypeface findFont(String key) {
         init();
         return FONTS.get(key);
     }
 
     /**
-     * fetches the {@link ITypeface} of an {@link IIcon}.
+     * fetches the {@link MfbTypeface} of an {@link MfbIcon}.
      *
-     * @param icon The {@link IIcon} from which the {@link ITypeface} is to be retrieved.
+     * @param icon The {@link MfbIcon} from which the {@link MfbTypeface} is to be retrieved.
      */
-    public static ITypeface findFont(IIcon icon) {
+    public static MfbTypeface findFont(MfbIcon icon) {
         return icon.getTypeface();
     }
 

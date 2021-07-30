@@ -15,7 +15,7 @@
   "deviceConfig": {
   },
   "module": {
-    "package": "com.rilixtech.glyphicons_halflings_typeface",
+    "package": "com.rilixtech.glyphiconshalflingstypeface",
     "deviceType": [
       "phone"
     ],

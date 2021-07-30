@@ -1,7 +1,7 @@
 {
   "string": [
     { "name": "define_mfb_font_materialdesigniconic",
-      "value": "com.rilixtech.material_design_iconic_typeface.MaterialDesignIconic"
+      "value": "com.rilixtech.materialdesigniconictypeface.MaterialDesignIconic"
     },
     { "name": "mdii_3d_rotation",
       "value": "mdii_3d_rotation"

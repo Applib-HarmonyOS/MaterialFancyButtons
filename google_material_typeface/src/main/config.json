@@ -15,7 +15,7 @@
   "deviceConfig": {
   },
   "module": {
-    "package": "com.rilixtech.google_material_typeface",
+    "package": "com.rilixtech.googlematerialtypeface",
     "deviceType": [
       "phone"
     ],

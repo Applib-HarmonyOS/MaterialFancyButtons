@@ -1,7 +1,7 @@
 {
  "string": [
 { "name": "define_mfb_font_themify_icons",
-"value": "com.rilixtech.themify_icons_typeface.ThemifyIcons"
+"value": "com.rilixtech.themifyiconstypeface.ThemifyIcons"
 },
 { "name": "thei_wand",
 "value": "thei_wand"

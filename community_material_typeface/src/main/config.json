@@ -15,7 +15,7 @@
   "deviceConfig": {
   },
   "module": {
-    "package": "com.rilixtech.community_material_typeface",
+    "package": "com.rilixtech.communitymaterialtypeface",
     "deviceType": [
       "phone"
     ],

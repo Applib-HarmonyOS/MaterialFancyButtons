@@ -15,7 +15,7 @@
   "deviceConfig": {
   },
   "module": {
-    "package": "com.rilixtech.weather_icons_typeface",
+    "package": "com.rilixtech.weathericonstypeface",
     "deviceType": [
       "phone"
     ],

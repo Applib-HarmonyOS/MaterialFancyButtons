@@ -1,7 +1,7 @@
 {
  "string": [
 { "name": "define_mfb_font_weather_icons",
-"value": "com.rilixtech.weather_icons_typeface.WeatherIcons"
+"value": "com.rilixtech.weathericonstypeface.WeatherIcons"
 },
 { "name": "wici_day_sunny",
 "value": "wici_day_sunny"

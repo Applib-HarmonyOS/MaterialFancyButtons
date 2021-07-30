@@ -20,8 +20,8 @@ import ohos.app.AbilityContext;
 import ohos.app.Context;
 import ohos.hiviewdfx.HiLog;
 import ohos.hiviewdfx.HiLogLabel;
-import com.rilixtech.materialfancybutton.typeface.IIcon;
-import com.rilixtech.materialfancybutton.typeface.ITypeface;
+import com.rilixtech.materialfancybutton.typeface.MfbIcon;
+import com.rilixtech.materialfancybutton.typeface.MfbTypeface;
 import com.rilixtech.materialfancybutton.utils.AttrEnumUtil;
 import com.rilixtech.materialfancybutton.utils.FontUtil;
 import com.rilixtech.materialfancybutton.utils.TextUtils;
@@ -31,8 +31,8 @@ import java.util.Optional;
 
 /**
  * This class is used to define a Button-type UI Component that may be customized using a variety of attributes.
- * Apart from button {@link Text}, it may have an associated {@link Element} or {@link ITypeface} style icon that can be
- * positioned beside the text as required. It supports a set of custom attributes that can be used to customize the
+ * Apart from button {@link Text}, it may have an associated {@link Element} or {@link MfbTypeface} style icon that can
+ * be positioned beside the text as required. It supports a set of custom attributes that can be used to customize the
  * component. Refer to example code and documentation for the list of supported attributes.
  */
 public class MaterialFancyButton extends DirectionalLayout {
@@ -76,8 +76,8 @@ public class MaterialFancyButton extends DirectionalLayout {
     private int mRadiusBottomLeft = 0;
     private int mRadiusBottomRight = 0;
 
-    private boolean mEnabled;
-    private boolean mTextAllCaps;
+    private boolean mEnabled = true;
+    private boolean mTextAllCaps = false;
 
     private Font mTextTypeFace = null;
     private Font mIconTypeFace = null;
@@ -928,13 +928,13 @@ public class MaterialFancyButton extends DirectionalLayout {
     /**
      * Sets the icon-font of the button by finding an icon-font with the given key.
      *
-     * @param icon The key of the button icon to be set. Must correspond to a {@link IIcon} field, and the prefix of
-     *             the {@link IIcon} should match with the prefix of the icon key.
+     * @param icon The key of the button icon to be set. Must correspond to a {@link MfbIcon} field, and the prefix of
+     *             the {@link MfbIcon} should match with the prefix of the icon key.
      */
     public void setIcon(String icon) {
         String modifiedIconKey;
         try {
-            ITypeface font =
+            MfbTypeface font =
                     CoreIcon.findFont(icon.substring(0, CoreIcon.FONT_MAPPING_PREFIX));
             modifiedIconKey = icon.replace("-", "_");
             setIcon(font.getIcon(modifiedIconKey));
@@ -944,12 +944,12 @@ public class MaterialFancyButton extends DirectionalLayout {
     }
 
     /**
-     * Sets the icon-font of the button to the given {@link IIcon}.
+     * Sets the icon-font of the button to the given {@link MfbIcon}.
      *
-     * @param icon The {@link IIcon} to be used as the icon of the button.
+     * @param icon The {@link MfbIcon} to be used as the icon of the button.
      */
-    public void setIcon(IIcon icon) {
-        ITypeface typeface = icon.getTypeface();
+    public void setIcon(MfbIcon icon) {
+        MfbTypeface typeface = icon.getTypeface();
         HiLog.debug(LABEL, "Typeface = %{public}s", icon.getTypeface().getFontName());
 
         Context callerContext = getContext();
@@ -1190,7 +1190,12 @@ public class MaterialFancyButton extends DirectionalLayout {
         if (callerContext instanceof AbilityContext) {
             mIconTypeFace = FontUtil.findFont((AbilityContext) callerContext, fontName, null);
             setupFontIconView();
+            if (mFontIconView == null) {
+                mFontIconView = new Text(getContext());
+                needsUpdate = true;
+            }
             mFontIconView.setFont(mIconTypeFace);
+            setupView();
         }
     }
 

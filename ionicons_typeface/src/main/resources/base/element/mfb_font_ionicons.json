@@ -1,7 +1,7 @@
 {
   "string": [
     { "name": "define_mfb_font_ionicons",
-      "value": "com.rilixtech.ionicons_typeface.Ionicons"
+      "value": "com.rilixtech.ioniconstypeface.Ionicons"
     },
     { "name": "ioni_alert",
       "value": "ioni_alert"

@@ -15,7 +15,7 @@
   "deviceConfig": {
   },
   "module": {
-    "package": "com.rilixtech.octicons_typeface",
+    "package": "com.rilixtech.octiconstypeface",
     "deviceType": [
       "phone"
     ],

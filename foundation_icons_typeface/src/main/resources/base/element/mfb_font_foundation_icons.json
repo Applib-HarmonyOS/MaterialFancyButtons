@@ -1,7 +1,7 @@
 {
   "string": [
     { "name": "define_mfb_font_foundation_icons",
-      "value": "com.rilixtech.foundation_icons_typeface.FoundationIcons"
+      "value": "com.rilixtech.foundationiconstypeface.FoundationIcons"
     },
     { "name": "foui_address_book",
       "value": "foui_address_book"

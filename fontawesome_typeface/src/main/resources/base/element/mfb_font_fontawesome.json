@@ -1,7 +1,7 @@
 {
   "string": [
     { "name": "define_mfb_font_fontawesome",
-      "value": "com.rilixtech.fontawesome_typeface.FontAwesome"
+      "value": "com.rilixtech.fontawesometypeface.FontAwesome"
     },
     { "name": "fawi_glass",
       "value": "fawi_glass"

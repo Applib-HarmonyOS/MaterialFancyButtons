@@ -15,7 +15,7 @@
   "deviceConfig": {
   },
   "module": {
-    "package": "com.rilixtech.entypo_typeface",
+    "package": "com.rilixtech.entypotypeface",
     "deviceType": [
       "phone"
     ],

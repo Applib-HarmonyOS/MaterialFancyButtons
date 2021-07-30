@@ -15,7 +15,7 @@
   "deviceConfig": {
   },
   "module": {
-    "package": "com.rilixtech.vaadin_icons_typeface",
+    "package": "com.rilixtech.vaadiniconstypeface",
     "deviceType": [
       "phone"
     ],

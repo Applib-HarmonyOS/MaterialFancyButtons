@@ -15,7 +15,7 @@
   "deviceConfig": {
   },
   "module": {
-    "package": "com.rilixtech.foundation_icons_typeface",
+    "package": "com.rilixtech.foundationiconstypeface",
     "deviceType": [
       "phone"
     ],

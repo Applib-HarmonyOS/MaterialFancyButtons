@@ -15,7 +15,7 @@
   "deviceConfig": {
   },
   "module": {
-    "package": "com.rilixtech.ionicons_typeface",
+    "package": "com.rilixtech.ioniconstypeface",
     "deviceType": [
       "phone"
     ],

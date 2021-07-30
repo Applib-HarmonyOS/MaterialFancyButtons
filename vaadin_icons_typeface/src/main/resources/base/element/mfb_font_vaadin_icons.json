@@ -1,7 +1,7 @@
 {
  "string": [
 { "name": "define_mfb_font_vaadin_icons",
-"value": "com.rilixtech.vaadin_icons_typeface.VaadinIcons"
+"value": "com.rilixtech.vaadiniconstypeface.VaadinIcons"
 },
 { "name": "vaai_abacus",
 "value": "vaai_abacus"

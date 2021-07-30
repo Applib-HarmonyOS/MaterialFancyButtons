@@ -15,7 +15,7 @@
   "deviceConfig": {
   },
   "module": {
-    "package": "com.rilixtech.picol_typeface",
+    "package": "com.rilixtech.picoltypeface",
     "deviceType": [
       "phone"
     ],

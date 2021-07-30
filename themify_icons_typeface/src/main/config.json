@@ -15,7 +15,7 @@
   "deviceConfig": {
   },
   "module": {
-    "package": "com.rilixtech.themify_icons_typeface",
+    "package": "com.rilixtech.themifyiconstypeface",
     "deviceType": [
       "phone"
     ],

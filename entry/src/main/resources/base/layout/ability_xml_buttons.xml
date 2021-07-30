@@ -105,12 +105,12 @@
                 >
 
                 <com.rilixtech.materialfancybutton.MaterialFancyButton
-                    ohos:id="$+id:btn_ohos"
+                    ohos:id="$+id:btn_twitter"
                     ohos:width="64vp"
                     ohos:height="64vp"
                     ohos:right_margin="10vp"
                     ohos:end_margin="10vp"
-                    ohos:padding="20vp"
+                    ohos:padding="10vp"
                     fancy:mfb_defaultColor="#55acee"
                     fancy:mfb_focusColor="#313131"
                     fancy:mfb_iconPaddingLeft="0vp"
@@ -220,7 +220,30 @@
                 </com.rilixtech.materialfancybutton.MaterialFancyButton>
             </DirectionalLayout>
         </DirectionalLayout>
-
+        <DirectionalLayout
+            ohos:height="match_content"
+            ohos:width="match_parent"
+            ohos:orientation="vertical"
+            ohos:alignment="horizontal_center">
+            <com.rilixtech.materialfancybutton.MaterialFancyButton
+                ohos:id="$+id:btn_spotify"
+                ohos:width="match_content"
+                ohos:height="match_content"
+                ohos:bottom_padding="10vp"
+                ohos:left_padding="20vp"
+                ohos:right_padding="20vp"
+                ohos:top_padding="10vp"
+                fancy:mfb_borderColor="#FFFFFF"
+                fancy:mfb_borderWidth="1vp"
+                fancy:mfb_defaultColor="#7ab800"
+                fancy:mfb_focusColor="#9bd823"
+                fancy:mfb_iconFont="fontawesome-font-v4.7.ttf"
+                fancy:mfb_fontIconResource="&#xf04b;"
+                fancy:mfb_iconPosition="left"
+                fancy:mfb_radius="30vp"
+                fancy:mfb_text="SHUFFLE PLAY"
+                fancy:mfb_textColor="#FFFFFF" />
+        </DirectionalLayout>
     </DirectionalLayout>
 
 </ScrollView>

@@ -15,7 +15,7 @@
   "deviceConfig": {
   },
   "module": {
-    "package": "com.rilixtech.mfglabs_iconset_typeface",
+    "package": "com.rilixtech.mfglabsiconsettypeface",
     "deviceType": [
       "phone"
     ],

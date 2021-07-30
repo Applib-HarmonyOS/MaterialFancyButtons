@@ -15,7 +15,7 @@
   "deviceConfig": {
   },
   "module": {
-    "package": "com.rilixtech.material_design_iconic_typeface",
+    "package": "com.rilixtech.materialdesigniconictypeface",
     "deviceType": [
       "phone"
     ],

@@ -1,7 +1,7 @@
 {
   "string": [
     { "name": "define_mfb_font_community_material",
-      "value": "com.rilixtech.community_material_typeface.CommunityMaterial"
+      "value": "com.rilixtech.communitymaterialtypeface.CommunityMaterial"
     },
     { "name": "cmdi_access_point",
       "value": "cmdi_access_point"

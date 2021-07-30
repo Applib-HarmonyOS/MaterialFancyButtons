@@ -1,7 +1,7 @@
 {
  "string": [
 { "name": "define_mfb_font_pixeden7stroke",
-"value": "com.rilixtech.pixeden_7_stroke_typeface.Pixeden7Stroke"
+"value": "com.rilixtech.pixeden7stroketypeface.Pixeden7Stroke"
 },
 { "name": "pe7i_7s_album",
 "value": "pe7i_7s_album"

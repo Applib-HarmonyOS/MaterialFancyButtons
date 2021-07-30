@@ -1,7 +1,7 @@
 {
   "string": [
     { "name": "define_mfb_font_dripicons",
-      "value": "com.rilixtech.dripicons_typeface.Dripicons"
+      "value": "com.rilixtech.dripiconstypeface.Dripicons"
     },
     { "name": "drpi_alarm",
       "value": "drpi_alarm"

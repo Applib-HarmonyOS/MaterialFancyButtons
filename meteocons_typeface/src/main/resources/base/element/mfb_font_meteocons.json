@@ -1,7 +1,7 @@
 {
   "string": [
     { "name": "define_mfb_font_meteocons",
-      "value": "com.rilixtech.meteocons_typeface.Meteocons"
+      "value": "com.rilixtech.meteoconstypeface.Meteocons"
     },
     { "name": "meti_windy_rain_inv",
       "value": "meti_windy_rain_inv"

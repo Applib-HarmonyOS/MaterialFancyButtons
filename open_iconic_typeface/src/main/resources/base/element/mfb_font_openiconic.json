@@ -1,7 +1,7 @@
 {
  "string": [
 { "name": "define_mfb_font_openiconic",
-"value": "com.rilixtech.open_iconic_typeface.OpenIconic"
+"value": "com.rilixtech.openiconictypeface.OpenIconic"
 },
 { "name": "opic_account_login",
 "value": "opic_account_login"

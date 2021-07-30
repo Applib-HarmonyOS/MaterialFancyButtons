@@ -1,7 +1,7 @@
 {
   "string": [
     { "name": "define_mfb_font_devicon",
-      "value": "com.rilixtech.devicon_typeface.DevIcon"
+      "value": "com.rilixtech.devicontypeface.DevIcon"
     },
     { "name": "devi_ssh_plain_wordmark",
       "value": "devi_ssh_plain_wordmark"

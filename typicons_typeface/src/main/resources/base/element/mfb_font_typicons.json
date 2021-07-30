@@ -1,7 +1,7 @@
 {
  "string": [
 { "name": "define_mfb_font_typicons",
-"value": "com.rilixtech.typicons_typeface.Typicons"
+"value": "com.rilixtech.typiconstypeface.Typicons"
 },
 { "name": "typi_adjust_brightness",
 "value": "typi_adjust_brightness"

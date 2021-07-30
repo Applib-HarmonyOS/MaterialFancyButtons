@@ -1,7 +1,7 @@
 {
   "string": [
     { "name": "define_mfb_font_google_material",
-      "value": "com.rilixtech.google_material_typeface.GoogleMaterial"
+      "value": "com.rilixtech.googlematerialtypeface.GoogleMaterial"
     },
     { "name": "gmdi_3d_rotation",
       "value": "gmdi_3d_rotation"

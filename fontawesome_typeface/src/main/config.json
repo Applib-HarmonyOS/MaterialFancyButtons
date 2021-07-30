@@ -15,7 +15,7 @@
   "deviceConfig": {
   },
   "module": {
-    "package": "com.rilixtech.fontawesome_typeface",
+    "package": "com.rilixtech.fontawesometypeface",
     "deviceType": [
       "phone"
     ],

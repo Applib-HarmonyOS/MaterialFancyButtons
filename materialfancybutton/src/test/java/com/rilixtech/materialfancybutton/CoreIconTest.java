@@ -16,8 +16,8 @@
 
 package com.rilixtech.materialfancybutton;
 
-import com.rilixtech.materialfancybutton.typeface.IIcon;
-import com.rilixtech.materialfancybutton.typeface.ITypeface;
+import com.rilixtech.materialfancybutton.typeface.MfbIcon;
+import com.rilixtech.materialfancybutton.typeface.MfbTypeface;
 import ohos.agp.text.Font;
 import ohos.app.AbilityContext;
 import org.junit.Before;
@@ -50,9 +50,9 @@ public class CoreIconTest {
 
     @Test
     public void testRegisterFont() {
-        ITypeface iTypeface = new ITypeface() {
+        MfbTypeface mfbTypeface = new MfbTypeface() {
             @Override
-            public IIcon getIcon(String key) {
+            public MfbIcon getIcon(String key) {
                 return null;
             }
 
@@ -116,7 +116,7 @@ public class CoreIconTest {
                 return null;
             }
         };
-        assertFalse(CoreIcon.registerFont(iTypeface));
+        assertFalse(CoreIcon.registerFont(mfbTypeface));
     }
 
     @Test
@@ -131,7 +131,7 @@ public class CoreIconTest {
 
     @Test
     public void testFindFont2() {
-        IIcon iIcon = new IIcon() {
+        MfbIcon mfbIcon = new MfbIcon() {
             @Override
             public String getFormattedName() {
                 return null;
@@ -148,11 +148,11 @@ public class CoreIconTest {
             }
 
             @Override
-            public ITypeface getTypeface() {
+            public MfbTypeface getTypeface() {
                 return null;
             }
         };
-        assertNull(CoreIcon.findFont(iIcon));
+        assertNull(CoreIcon.findFont(mfbIcon));
     }
 
     @Test

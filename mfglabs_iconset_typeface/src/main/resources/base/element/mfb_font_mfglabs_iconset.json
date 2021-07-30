@@ -1,7 +1,7 @@
 {
   "string": [
     { "name": "define_mfb_font_mfglabs_iconset",
-      "value": "com.rilixtech.mfglabs_iconset_typeface.MFGLabsIconset"
+      "value": "com.rilixtech.mfglabsiconsettypeface.MfgLabsIconset"
     },
     { "name": "mfgi_icon_cloud",
       "value": "mfgi_icon_cloud"

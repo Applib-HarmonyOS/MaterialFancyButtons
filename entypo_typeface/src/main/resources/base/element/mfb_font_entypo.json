@@ -1,7 +1,7 @@
 {
   "string": [
     { "name": "define_mfb_font_entypo",
-      "value": "com.rilixtech.entypo_typeface.Entypo"
+      "value": "com.rilixtech.entypotypeface.Entypo"
     },
     { "name": "enti_add_to_list",
       "value": "enti_add_to_list"
