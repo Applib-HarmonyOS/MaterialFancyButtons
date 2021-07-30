@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:ohos="http://schemas.huawei.com/res/ohos"
+    xmlns:fancy="http://schemas.huawei.com/hap/res-auto"
+    ohos:height="match_parent"
+    ohos:width="match_parent"
+    ohos:orientation="vertical">
+
+    <DirectionalLayout
+        ohos:id="$+id:section1"
+        ohos:width="match_parent"
+        ohos:height="match_content"
+        ohos:orientation="vertical"
+        >
+
+        <DirectionalLayout
+            ohos:id="$+id:section_facebook"
+            ohos:width="match_parent"
+            ohos:height="match_content"
+            ohos:background_element="#3b5998"
+            ohos:alignment="horizontal_center"
+            ohos:orientation="vertical"
+            ohos:padding="20vp"
+            ohos:visibility="visible"
+            >
+
+            <com.rilixtech.materialfancybutton.MaterialFancyButton
+                ohos:id="$+id:btn_facebook_like"
+                ohos:width="match_content"
+                ohos:height="match_content"
+                ohos:bottom_margin="10vp"
+                ohos:padding="10vp"
+                fancy:mfb_borderColor="#FFFFFF"
+                fancy:mfb_borderWidth="1vp"
+                fancy:mfb_defaultColor="#3b5998"
+                fancy:mfb_focusColor="#5577bd"
+                fancy:mfb_fontIconSize="40fp"
+                fancy:mfb_icon="FAWI_FACEBOOK"
+                fancy:mfb_iconPosition="RIGHT"
+                fancy:mfb_text="Like my facebook page"
+                fancy:mfb_textColor="#FFFFFF"
+                fancy:mfb_radius="30vp"
+                fancy:rd_enable="true"
+                />
+
+            <com.rilixtech.materialfancybutton.MaterialFancyButton
+                ohos:id="$+id:btn_facebook_share"
+                ohos:width="match_content"
+                ohos:height="match_content"
+                ohos:bottom_margin="10vp"
+                ohos:padding="10vp"
+                fancy:mfb_borderColor="#FFFFFF"
+                fancy:mfb_borderWidth="1vp"
+                fancy:mfb_defaultColor="#3b5998"
+                fancy:mfb_focusColor="#5577bd"
+                fancy:mfb_fontIconSize="40fp"
+                fancy:mfb_icon="FAWI_SHARE"
+                fancy:mfb_iconPaddingLeft="20vp"
+                fancy:mfb_iconPaddingRight="0vp"
+                fancy:mfb_iconPosition="RIGHT"
+                fancy:mfb_text="Share the link"
+                fancy:mfb_textColor="#FFFFFF"
+                fancy:mfb_radius="30vp"
+                fancy:mfb_radiusTopLeft="10vp"
+                fancy:mfb_radiusTopRight="10vp"
+                />
+
+            <com.rilixtech.materialfancybutton.MaterialFancyButton
+                ohos:id="$+id:btn_facebook_follow"
+                ohos:width="match_content"
+                ohos:height="match_content"
+                ohos:bottom_margin="10vp"
+                ohos:padding="10vp"
+                fancy:mfb_borderColor="#FFFFFF"
+                fancy:mfb_borderWidth="1vp"
+                fancy:mfb_defaultColor="#3b5998"
+                fancy:mfb_focusColor="#5577bd"
+                fancy:mfb_fontIconSize="40fp"
+                fancy:mfb_icon="FAWI_STAR"
+                fancy:mfb_iconPosition="RIGHT"
+                fancy:mfb_text="Follow Joielechong"
+                fancy:mfb_textColor="#FFFFFF"
+                fancy:mfb_radius="30vp"
+                />
+        </DirectionalLayout>
+
+
+        <DirectionalLayout
+            ohos:id="$+id:section_socialnetworks"
+            ohos:width="match_parent"
+            ohos:height="match_content"
+            ohos:background_element="#ffffff"
+            ohos:alignment="horizontal_center"
+            ohos:min_height="200vp"
+            ohos:orientation="vertical"
+            ohos:padding="20vp"
+            >
+
+            <DirectionalLayout
+                ohos:width="match_parent"
+                ohos:height="match_parent"
+                ohos:bottom_margin="15vp"
+                ohos:alignment="center"
+                ohos:orientation="horizontal"
+                >
+
+                <com.rilixtech.materialfancybutton.MaterialFancyButton
+                    ohos:id="$+id:btn_ohos"
+                    ohos:width="64vp"
+                    ohos:height="64vp"
+                    ohos:right_margin="10vp"
+                    ohos:end_margin="10vp"
+                    ohos:padding="20vp"
+                    fancy:mfb_defaultColor="#55acee"
+                    fancy:mfb_focusColor="#313131"
+                    fancy:mfb_iconPaddingLeft="0vp"
+                    fancy:mfb_iconPaddingRight="0vp"
+                    fancy:mfb_iconResource="$media:twitter"
+                    fancy:mfb_textColor="#FFFFFF"
+                    fancy:mfb_radius="64vp"
+                    ohos:text=""
+                    />
+                <com.rilixtech.materialfancybutton.MaterialFancyButton
+                    ohos:id="$+id:btn_dropbox"
+                    ohos:width="64vp"
+                    ohos:height="64vp"
+                    ohos:right_margin="10vp"
+                    ohos:padding="10vp"
+                    fancy:mfb_defaultColor="#007ee5"
+                    fancy:mfb_focusColor="#313131"
+                    fancy:mfb_iconPaddingLeft="0vp"
+                    fancy:mfb_iconPaddingRight="0vp"
+                    fancy:mfb_iconResource="$media:dropbox"
+                    fancy:mfb_radius="64vp"
+                    ohos:text=""
+                    >
+                </com.rilixtech.materialfancybutton.MaterialFancyButton>
+            </DirectionalLayout>
+
+            <DirectionalLayout
+                ohos:id="$+id:sn_pos2"
+                ohos:width="match_parent"
+                ohos:height="match_parent"
+                ohos:bottom_margin="15vp"
+                ohos:alignment="center"
+                ohos:orientation="horizontal"
+                >
+
+                <com.rilixtech.materialfancybutton.MaterialFancyButton
+                    ohos:id="$+id:btn_instagram"
+                    ohos:width="64vp"
+                    ohos:height="64vp"
+                    ohos:right_margin="10vp"
+                    ohos:padding="10vp"
+                    fancy:mfb_defaultColor="#3f729b"
+                    fancy:mfb_focusColor="#313131"
+                    fancy:mfb_iconPaddingLeft="0vp"
+                    fancy:mfb_iconPaddingRight="0vp"
+                    fancy:mfb_iconResource="$media:instagram"
+                    fancy:mfb_radius="64vp"
+                    ohos:text=""
+                    >
+                </com.rilixtech.materialfancybutton.MaterialFancyButton>
+
+                <com.rilixtech.materialfancybutton.MaterialFancyButton
+                    ohos:id="$+id:btn_sound"
+                    ohos:width="64vp"
+                    ohos:height="64vp"
+                    ohos:right_margin="10vp"
+                    ohos:padding="10vp"
+                    fancy:mfb_defaultColor="#ff8800"
+                    fancy:mfb_focusColor="#313131"
+                    fancy:mfb_iconPaddingLeft="0vp"
+                    fancy:mfb_iconPaddingRight="0vp"
+                    fancy:mfb_iconResource="$media:soundcloud"
+                    fancy:mfb_radius="64vp"
+                    ohos:text=""
+                    >
+                </com.rilixtech.materialfancybutton.MaterialFancyButton>
+            </DirectionalLayout>
+
+            <DirectionalLayout
+                ohos:id="$+id:DirectionalLayout1"
+                ohos:width="match_parent"
+                ohos:height="match_parent"
+                ohos:alignment="center"
+                ohos:orientation="horizontal"
+                >
+
+                <com.rilixtech.materialfancybutton.MaterialFancyButton
+                    ohos:id="$+id:btn_gplus"
+                    ohos:width="64vp"
+                    ohos:height="64vp"
+                    ohos:right_margin="10vp"
+                    ohos:padding="10vp"
+                    fancy:mfb_defaultColor="#dd4b39"
+                    fancy:mfb_focusColor="#313131"
+                    fancy:mfb_iconPaddingLeft="0vp"
+                    fancy:mfb_iconPaddingRight="0vp"
+                    fancy:mfb_iconResource="$media:gplus"
+                    fancy:mfb_radius="64vp"
+                    ohos:text=""
+                    >
+                </com.rilixtech.materialfancybutton.MaterialFancyButton>
+
+                <com.rilixtech.materialfancybutton.MaterialFancyButton
+                    ohos:id="$+id:btn_facebook"
+                    ohos:width="64vp"
+                    ohos:height="64vp"
+                    ohos:right_margin="10vp"
+                    ohos:padding="10vp"
+                    fancy:mfb_defaultColor="#000000"
+                    fancy:mfb_focusColor="#313131"
+                    fancy:mfb_iconPaddingLeft="0vp"
+                    fancy:mfb_iconPaddingRight="0vp"
+                    fancy:mfb_iconResource="$media:github"
+                    fancy:mfb_radius="64vp"
+                    ohos:text=""
+                    >
+                </com.rilixtech.materialfancybutton.MaterialFancyButton>
+            </DirectionalLayout>
+        </DirectionalLayout>
+
+    </DirectionalLayout>
+
+</ScrollView>

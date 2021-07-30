@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:ohos="http://schemas.huawei.com/res/ohos"
+    xmlns:fancy="http://schemas.huawei.com/hap/res-auto"
+    ohos:height="match_parent"
+    ohos:width="match_parent"
+    ohos:orientation="vertical">
+
+    <DirectionalLayout
+        ohos:id="$+id:section1"
+        ohos:width="match_parent"
+        ohos:height="match_content"
+        ohos:orientation="vertical"
+        >
+
+        <DirectionalLayout
+            ohos:id="$+id:section_facebook"
+            ohos:width="match_parent"
+            ohos:height="match_content"
+            ohos:background_element="#3b5998"
+            ohos:alignment="horizontal_center"
+            ohos:orientation="vertical"
+            ohos:padding="20vp"
+            >
+
+            <com.rilixtech.materialfancybutton.MaterialFancyButton
+                ohos:id="$+id:btn_facebook_like"
+                ohos:width="match_content"
+                ohos:height="match_content"
+                ohos:bottom_margin="10vp"
+                ohos:padding="10vp"
+                fancy:mfb_borderColor="#FFFFFF"
+                fancy:mfb_borderWidth="1vp"
+                fancy:mfb_defaultColor="#3b5998"
+                fancy:mfb_focusColor="#5577bd"
+                fancy:mfb_fontIconResource="&#xe74d;"
+                fancy:mfb_fontIconSize="40fp"
+                fancy:mfb_iconFont="$string:font_themify_icons"
+                fancy:mfb_iconPosition="RIGHT"
+                fancy:mfb_text="Trello"
+                fancy:mfb_textColor="#FFFFFF"
+                fancy:mfb_radius="30vp"
+                />
+
+            <com.rilixtech.materialfancybutton.MaterialFancyButton
+                ohos:id="$+id:btn_facebook_share"
+                ohos:width="match_content"
+                ohos:height="match_content"
+                ohos:bottom_margin="10vp"
+                ohos:padding="10vp"
+                fancy:mfb_borderColor="#FFFFFF"
+                fancy:mfb_borderWidth="1vp"
+                fancy:mfb_defaultColor="#3b5998"
+                fancy:mfb_focusColor="#5577bd"
+                fancy:mfb_fontIconResource="&#xe755;"
+                fancy:mfb_fontIconSize="40fp"
+                fancy:mfb_iconFont="$string:font_themify_icons"
+                fancy:mfb_iconPaddingLeft="20vp"
+                fancy:mfb_iconPaddingRight="0vp"
+                fancy:mfb_iconPosition="RIGHT"
+                fancy:mfb_text="Linux"
+                fancy:mfb_textColor="#FFFFFF"
+                fancy:mfb_radius="30vp"
+                />
+
+            <com.rilixtech.materialfancybutton.MaterialFancyButton
+                ohos:id="$+id:btn_facebook_follow"
+                ohos:width="match_content"
+                ohos:height="match_content"
+                ohos:bottom_margin="10vp"
+                ohos:padding="10vp"
+                fancy:mfb_borderColor="#FFFFFF"
+                fancy:mfb_borderWidth="1vp"
+                fancy:mfb_defaultColor="#3b5998"
+                fancy:mfb_focusColor="#5577bd"
+                fancy:mfb_fontIconResource="&#xe752;"
+                fancy:mfb_fontIconSize="40fp"
+                fancy:mfb_iconFont="$string:font_themify_icons"
+                fancy:mfb_iconPosition="RIGHT"
+                fancy:mfb_text="Reddit"
+                fancy:mfb_textColor="#FFFFFF"
+                fancy:mfb_radius="30vp"
+                />
+        </DirectionalLayout>
+
+
+        <DirectionalLayout
+            ohos:id="$+id:section_spotify"
+            ohos:width="match_parent"
+            ohos:height="match_content"
+            ohos:background_element="#222326"
+            ohos:alignment="horizontal_center"
+            ohos:orientation="vertical"
+            ohos:padding="20vp"
+            >
+            <com.rilixtech.materialfancybutton.MaterialFancyButton
+                ohos:id="$+id:btn_spotify"
+                ohos:width="match_content"
+                ohos:height="match_content"
+                ohos:bottom_margin="10vp"
+                ohos:bottom_padding="10vp"
+                ohos:left_padding="20vp"
+                ohos:right_padding="20vp"
+                ohos:top_padding="10vp"
+                fancy:mfb_defaultColor="#7ab800"
+                fancy:mfb_focusColor="#9bd823"
+                fancy:mfb_icon="THEI_AGENDA"
+                fancy:mfb_iconPosition="LEFT"
+                fancy:mfb_text="Agenda"
+                fancy:mfb_textColor="#FFFFFF"
+                fancy:mfb_radius="30vp"
+                />
+
+            <com.rilixtech.materialfancybutton.MaterialFancyButton
+                ohos:id="$+id:btn_spotify_pause"
+                ohos:width="match_content"
+                ohos:height="match_content"
+                ohos:bottom_margin="10vp"
+                ohos:bottom_padding="10vp"
+                ohos:left_padding="20vp"
+                ohos:right_padding="20vp"
+                ohos:top_padding="10vp"
+                fancy:mfb_defaultColor="#7ab800"
+                fancy:mfb_focusColor="#9bd823"
+                fancy:mfb_icon="THEI_GALLERY"
+                fancy:mfb_iconPosition="LEFT"
+                fancy:mfb_text="Gallery"
+                fancy:mfb_textColor="#FFFFFF"
+                fancy:mfb_radius="30vp"
+                />
+            <com.rilixtech.materialfancybutton.MaterialFancyButton
+                ohos:id="$+id:btn_spotify_follow"
+                ohos:width="match_content"
+                ohos:height="match_content"
+                ohos:bottom_padding="10vp"
+                ohos:left_padding="20vp"
+                ohos:right_padding="20vp"
+                ohos:top_padding="10vp"
+                fancy:mfb_borderColor="#88898c"
+                fancy:mfb_borderWidth="1vp"
+                fancy:mfb_defaultColor="#222326"
+                fancy:mfb_focusColor="#424243"
+                fancy:mfb_icon="THEI_HARDDRIVE"
+                fancy:mfb_text="Hard Drive"
+                fancy:mfb_textColor="#dfe0d9"
+                fancy:mfb_radius="30vp"
+                />
+        </DirectionalLayout>
+
+    </DirectionalLayout>
+
+</ScrollView>

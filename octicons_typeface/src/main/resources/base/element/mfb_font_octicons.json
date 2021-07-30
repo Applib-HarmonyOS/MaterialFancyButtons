@@ -1,0 +1,586 @@
+{
+ "string": [
+{ "name": "define_mfb_font_octicons",
+"value": "com.rilixtech.octicons_typeface.Octicons"
+},
+{ "name": "octi_alert",
+"value": "octi_alert"
+},
+{ "name": "octi_arrow_down",
+"value": "octi_arrow_down"
+},
+{ "name": "octi_arrow_left",
+"value": "octi_arrow_left"
+},
+{ "name": "octi_arrow_right",
+"value": "octi_arrow_right"
+},
+{ "name": "octi_arrow_small_down",
+"value": "octi_arrow_small_down"
+},
+{ "name": "octi_arrow_small_left",
+"value": "octi_arrow_small_left"
+},
+{ "name": "octi_arrow_small_right",
+"value": "octi_arrow_small_right"
+},
+{ "name": "octi_arrow_small_up",
+"value": "octi_arrow_small_up"
+},
+{ "name": "octi_arrow_up",
+"value": "octi_arrow_up"
+},
+{ "name": "octi_microscope",
+"value": "octi_microscope"
+},
+{ "name": "octi_beaker",
+"value": "octi_beaker"
+},
+{ "name": "octi_bell",
+"value": "octi_bell"
+},
+{ "name": "octi_bold",
+"value": "octi_bold"
+},
+{ "name": "octi_book",
+"value": "octi_book"
+},
+{ "name": "octi_bookmark",
+"value": "octi_bookmark"
+},
+{ "name": "octi_briefcase",
+"value": "octi_briefcase"
+},
+{ "name": "octi_broadcast",
+"value": "octi_broadcast"
+},
+{ "name": "octi_browser",
+"value": "octi_browser"
+},
+{ "name": "octi_bug",
+"value": "octi_bug"
+},
+{ "name": "octi_calendar",
+"value": "octi_calendar"
+},
+{ "name": "octi_check",
+"value": "octi_check"
+},
+{ "name": "octi_checklist",
+"value": "octi_checklist"
+},
+{ "name": "octi_chevron_down",
+"value": "octi_chevron_down"
+},
+{ "name": "octi_chevron_left",
+"value": "octi_chevron_left"
+},
+{ "name": "octi_chevron_right",
+"value": "octi_chevron_right"
+},
+{ "name": "octi_chevron_up",
+"value": "octi_chevron_up"
+},
+{ "name": "octi_circle_slash",
+"value": "octi_circle_slash"
+},
+{ "name": "octi_circuit_board",
+"value": "octi_circuit_board"
+},
+{ "name": "octi_clippy",
+"value": "octi_clippy"
+},
+{ "name": "octi_clock",
+"value": "octi_clock"
+},
+{ "name": "octi_cloud_download",
+"value": "octi_cloud_download"
+},
+{ "name": "octi_cloud_upload",
+"value": "octi_cloud_upload"
+},
+{ "name": "octi_code",
+"value": "octi_code"
+},
+{ "name": "octi_color_mode",
+"value": "octi_color_mode"
+},
+{ "name": "octi_commenti_add",
+"value": "octi_commenti_add"
+},
+{ "name": "octi_comment",
+"value": "octi_comment"
+},
+{ "name": "octi_commenti_discussion",
+"value": "octi_commenti_discussion"
+},
+{ "name": "octi_credit_card",
+"value": "octi_credit_card"
+},
+{ "name": "octi_dash",
+"value": "octi_dash"
+},
+{ "name": "octi_dashboard",
+"value": "octi_dashboard"
+},
+{ "name": "octi_database",
+"value": "octi_database"
+},
+{ "name": "octi_clone",
+"value": "octi_clone"
+},
+{ "name": "octi_desktop_download",
+"value": "octi_desktop_download"
+},
+{ "name": "octi_device_camera",
+"value": "octi_device_camera"
+},
+{ "name": "octi_device_camera_video",
+"value": "octi_device_camera_video"
+},
+{ "name": "octi_device_desktop",
+"value": "octi_device_desktop"
+},
+{ "name": "octi_device_mobile",
+"value": "octi_device_mobile"
+},
+{ "name": "octi_diff",
+"value": "octi_diff"
+},
+{ "name": "octi_diff_added",
+"value": "octi_diff_added"
+},
+{ "name": "octi_diff_ignored",
+"value": "octi_diff_ignored"
+},
+{ "name": "octi_diff_modified",
+"value": "octi_diff_modified"
+},
+{ "name": "octi_diff_removed",
+"value": "octi_diff_removed"
+},
+{ "name": "octi_diff_renamed",
+"value": "octi_diff_renamed"
+},
+{ "name": "octi_ellipsis",
+"value": "octi_ellipsis"
+},
+{ "name": "octi_eye_unwatch",
+"value": "octi_eye_unwatch"
+},
+{ "name": "octi_eye_watch",
+"value": "octi_eye_watch"
+},
+{ "name": "octi_eye",
+"value": "octi_eye"
+},
+{ "name": "octi_file_binary",
+"value": "octi_file_binary"
+},
+{ "name": "octi_file_code",
+"value": "octi_file_code"
+},
+{ "name": "octi_file_directory",
+"value": "octi_file_directory"
+},
+{ "name": "octi_file_media",
+"value": "octi_file_media"
+},
+{ "name": "octi_file_pdf",
+"value": "octi_file_pdf"
+},
+{ "name": "octi_file_submodule",
+"value": "octi_file_submodule"
+},
+{ "name": "octi_file_symlink_directory",
+"value": "octi_file_symlink_directory"
+},
+{ "name": "octi_file_symlink_file",
+"value": "octi_file_symlink_file"
+},
+{ "name": "octi_file_text",
+"value": "octi_file_text"
+},
+{ "name": "octi_file_zip",
+"value": "octi_file_zip"
+},
+{ "name": "octi_flame",
+"value": "octi_flame"
+},
+{ "name": "octi_fold",
+"value": "octi_fold"
+},
+{ "name": "octi_gear",
+"value": "octi_gear"
+},
+{ "name": "octi_gift",
+"value": "octi_gift"
+},
+{ "name": "octi_gist",
+"value": "octi_gist"
+},
+{ "name": "octi_gist_secret",
+"value": "octi_gist_secret"
+},
+{ "name": "octi_git_branch_create",
+"value": "octi_git_branch_create"
+},
+{ "name": "octi_git_branch_delete",
+"value": "octi_git_branch_delete"
+},
+{ "name": "octi_git_branch",
+"value": "octi_git_branch"
+},
+{ "name": "octi_git_commit",
+"value": "octi_git_commit"
+},
+{ "name": "octi_git_compare",
+"value": "octi_git_compare"
+},
+{ "name": "octi_git_merge",
+"value": "octi_git_merge"
+},
+{ "name": "octi_git_pull_request_abandoned",
+"value": "octi_git_pull_request_abandoned"
+},
+{ "name": "octi_git_pull_request",
+"value": "octi_git_pull_request"
+},
+{ "name": "octi_globe",
+"value": "octi_globe"
+},
+{ "name": "octi_graph",
+"value": "octi_graph"
+},
+{ "name": "octi_heart",
+"value": "octi_heart"
+},
+{ "name": "octi_history",
+"value": "octi_history"
+},
+{ "name": "octi_home",
+"value": "octi_home"
+},
+{ "name": "octi_horizontal_rule",
+"value": "octi_horizontal_rule"
+},
+{ "name": "octi_hubot",
+"value": "octi_hubot"
+},
+{ "name": "octi_inbox",
+"value": "octi_inbox"
+},
+{ "name": "octi_info",
+"value": "octi_info"
+},
+{ "name": "octi_issue_closed",
+"value": "octi_issue_closed"
+},
+{ "name": "octi_issue_opened",
+"value": "octi_issue_opened"
+},
+{ "name": "octi_issue_reopened",
+"value": "octi_issue_reopened"
+},
+{ "name": "octi_italic",
+"value": "octi_italic"
+},
+{ "name": "octi_jersey",
+"value": "octi_jersey"
+},
+{ "name": "octi_key",
+"value": "octi_key"
+},
+{ "name": "octi_keyboard",
+"value": "octi_keyboard"
+},
+{ "name": "octi_law",
+"value": "octi_law"
+},
+{ "name": "octi_light_bulb",
+"value": "octi_light_bulb"
+},
+{ "name": "octi_link",
+"value": "octi_link"
+},
+{ "name": "octi_link_external",
+"value": "octi_link_external"
+},
+{ "name": "octi_list_ordered",
+"value": "octi_list_ordered"
+},
+{ "name": "octi_list_unordered",
+"value": "octi_list_unordered"
+},
+{ "name": "octi_location",
+"value": "octi_location"
+},
+{ "name": "octi_gist_private",
+"value": "octi_gist_private"
+},
+{ "name": "octi_mirror_private",
+"value": "octi_mirror_private"
+},
+{ "name": "octi_git_fork_private",
+"value": "octi_git_fork_private"
+},
+{ "name": "octi_lock",
+"value": "octi_lock"
+},
+{ "name": "octi_logo_github",
+"value": "octi_logo_github"
+},
+{ "name": "octi_mail",
+"value": "octi_mail"
+},
+{ "name": "octi_mail_read",
+"value": "octi_mail_read"
+},
+{ "name": "octi_mail_reply",
+"value": "octi_mail_reply"
+},
+{ "name": "octi_mark_github",
+"value": "octi_mark_github"
+},
+{ "name": "octi_markdown",
+"value": "octi_markdown"
+},
+{ "name": "octi_megaphone",
+"value": "octi_megaphone"
+},
+{ "name": "octi_mention",
+"value": "octi_mention"
+},
+{ "name": "octi_milestone",
+"value": "octi_milestone"
+},
+{ "name": "octi_mirror_public",
+"value": "octi_mirror_public"
+},
+{ "name": "octi_mirror",
+"value": "octi_mirror"
+},
+{ "name": "octi_mortar_board",
+"value": "octi_mortar_board"
+},
+{ "name": "octi_mute",
+"value": "octi_mute"
+},
+{ "name": "octi_no_newline",
+"value": "octi_no_newline"
+},
+{ "name": "octi_octoface",
+"value": "octi_octoface"
+},
+{ "name": "octi_organization",
+"value": "octi_organization"
+},
+{ "name": "octi_package",
+"value": "octi_package"
+},
+{ "name": "octi_paintcan",
+"value": "octi_paintcan"
+},
+{ "name": "octi_pencil",
+"value": "octi_pencil"
+},
+{ "name": "octi_person_add",
+"value": "octi_person_add"
+},
+{ "name": "octi_person_follow",
+"value": "octi_person_follow"
+},
+{ "name": "octi_person",
+"value": "octi_person"
+},
+{ "name": "octi_pin",
+"value": "octi_pin"
+},
+{ "name": "octi_plug",
+"value": "octi_plug"
+},
+{ "name": "octi_repo_create",
+"value": "octi_repo_create"
+},
+{ "name": "octi_gist_new",
+"value": "octi_gist_new"
+},
+{ "name": "octi_file_directory_create",
+"value": "octi_file_directory_create"
+},
+{ "name": "octi_file_add",
+"value": "octi_file_add"
+},
+{ "name": "octi_plus",
+"value": "octi_plus"
+},
+{ "name": "octi_primitive_dot",
+"value": "octi_primitive_dot"
+},
+{ "name": "octi_primitive_square",
+"value": "octi_primitive_square"
+},
+{ "name": "octi_pulse",
+"value": "octi_pulse"
+},
+{ "name": "octi_question",
+"value": "octi_question"
+},
+{ "name": "octi_quote",
+"value": "octi_quote"
+},
+{ "name": "octi_radio_tower",
+"value": "octi_radio_tower"
+},
+{ "name": "octi_repo_delete",
+"value": "octi_repo_delete"
+},
+{ "name": "octi_repo",
+"value": "octi_repo"
+},
+{ "name": "octi_repo_clone",
+"value": "octi_repo_clone"
+},
+{ "name": "octi_repo_force_push",
+"value": "octi_repo_force_push"
+},
+{ "name": "octi_gist_fork",
+"value": "octi_gist_fork"
+},
+{ "name": "octi_repo_forked",
+"value": "octi_repo_forked"
+},
+{ "name": "octi_repo_pull",
+"value": "octi_repo_pull"
+},
+{ "name": "octi_repo_push",
+"value": "octi_repo_push"
+},
+{ "name": "octi_rocket",
+"value": "octi_rocket"
+},
+{ "name": "octi_rss",
+"value": "octi_rss"
+},
+{ "name": "octi_ruby",
+"value": "octi_ruby"
+},
+{ "name": "octi_search_save",
+"value": "octi_search_save"
+},
+{ "name": "octi_search",
+"value": "octi_search"
+},
+{ "name": "octi_server",
+"value": "octi_server"
+},
+{ "name": "octi_settings",
+"value": "octi_settings"
+},
+{ "name": "octi_shield",
+"value": "octi_shield"
+},
+{ "name": "octi_log_in",
+"value": "octi_log_in"
+},
+{ "name": "octi_sign_in",
+"value": "octi_sign_in"
+},
+{ "name": "octi_log_out",
+"value": "octi_log_out"
+},
+{ "name": "octi_sign_out",
+"value": "octi_sign_out"
+},
+{ "name": "octi_squirrel",
+"value": "octi_squirrel"
+},
+{ "name": "octi_star_add",
+"value": "octi_star_add"
+},
+{ "name": "octi_star_delete",
+"value": "octi_star_delete"
+},
+{ "name": "octi_star",
+"value": "octi_star"
+},
+{ "name": "octi_stop",
+"value": "octi_stop"
+},
+{ "name": "octi_repo_sync",
+"value": "octi_repo_sync"
+},
+{ "name": "octi_sync",
+"value": "octi_sync"
+},
+{ "name": "octi_tag_remove",
+"value": "octi_tag_remove"
+},
+{ "name": "octi_tag_add",
+"value": "octi_tag_add"
+},
+{ "name": "octi_tag",
+"value": "octi_tag"
+},
+{ "name": "octi_tasklist",
+"value": "octi_tasklist"
+},
+{ "name": "octi_telescope",
+"value": "octi_telescope"
+},
+{ "name": "octi_terminal",
+"value": "octi_terminal"
+},
+{ "name": "octi_text_size",
+"value": "octi_text_size"
+},
+{ "name": "octi_three_bars",
+"value": "octi_three_bars"
+},
+{ "name": "octi_thumbsdown",
+"value": "octi_thumbsdown"
+},
+{ "name": "octi_thumbsup",
+"value": "octi_thumbsup"
+},
+{ "name": "octi_tools",
+"value": "octi_tools"
+},
+{ "name": "octi_trashcan",
+"value": "octi_trashcan"
+},
+{ "name": "octi_triangle_down",
+"value": "octi_triangle_down"
+},
+{ "name": "octi_triangle_left",
+"value": "octi_triangle_left"
+},
+{ "name": "octi_triangle_right",
+"value": "octi_triangle_right"
+},
+{ "name": "octi_triangle_up",
+"value": "octi_triangle_up"
+},
+{ "name": "octi_unfold",
+"value": "octi_unfold"
+},
+{ "name": "octi_unmute",
+"value": "octi_unmute"
+},
+{ "name": "octi_versions",
+"value": "octi_versions"
+},
+{ "name": "octi_watch",
+"value": "octi_watch"
+},
+{ "name": "octi_remove_close",
+"value": "octi_remove_close"
+},
+{ "name": "octi_x",
+"value": "octi_x"
+},
+{ "name": "octi_zap",
+"value": "octi_zap"
+}
+]
+}

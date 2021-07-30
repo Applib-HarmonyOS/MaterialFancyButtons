@@ -1,0 +1,1915 @@
+{
+ "string": [
+{ "name": "define_mfb_font_vaadin_icons",
+"value": "com.rilixtech.vaadin_icons_typeface.VaadinIcons"
+},
+{ "name": "vaai_abacus",
+"value": "vaai_abacus"
+},
+{ "name": "vaai_absolute_position",
+"value": "vaai_absolute_position"
+},
+{ "name": "vaai_accessibility",
+"value": "vaai_accessibility"
+},
+{ "name": "vaai_accordion_menu",
+"value": "vaai_accordion_menu"
+},
+{ "name": "vaai_add_dock",
+"value": "vaai_add_dock"
+},
+{ "name": "vaai_adjust",
+"value": "vaai_adjust"
+},
+{ "name": "vaai_airplane",
+"value": "vaai_airplane"
+},
+{ "name": "vaai_align_center",
+"value": "vaai_align_center"
+},
+{ "name": "vaai_align_justify",
+"value": "vaai_align_justify"
+},
+{ "name": "vaai_align_left",
+"value": "vaai_align_left"
+},
+{ "name": "vaai_align_right",
+"value": "vaai_align_right"
+},
+{ "name": "vaai_anchor",
+"value": "vaai_anchor"
+},
+{ "name": "vaai_angle_double_down",
+"value": "vaai_angle_double_down"
+},
+{ "name": "vaai_angle_double_left",
+"value": "vaai_angle_double_left"
+},
+{ "name": "vaai_angle_double_right",
+"value": "vaai_angle_double_right"
+},
+{ "name": "vaai_angle_double_up",
+"value": "vaai_angle_double_up"
+},
+{ "name": "vaai_angle_down",
+"value": "vaai_angle_down"
+},
+{ "name": "vaai_angle_left",
+"value": "vaai_angle_left"
+},
+{ "name": "vaai_angle_right",
+"value": "vaai_angle_right"
+},
+{ "name": "vaai_angle_up",
+"value": "vaai_angle_up"
+},
+{ "name": "vaai_archive",
+"value": "vaai_archive"
+},
+{ "name": "vaai_archives",
+"value": "vaai_archives"
+},
+{ "name": "vaai_area_select",
+"value": "vaai_area_select"
+},
+{ "name": "vaai_arrow_backward",
+"value": "vaai_arrow_backward"
+},
+{ "name": "vaai_arrow_circle_down",
+"value": "vaai_arrow_circle_down"
+},
+{ "name": "vaai_arrow_circle_down_o",
+"value": "vaai_arrow_circle_down_o"
+},
+{ "name": "vaai_arrow_circle_left",
+"value": "vaai_arrow_circle_left"
+},
+{ "name": "vaai_arrow_circle_left_o",
+"value": "vaai_arrow_circle_left_o"
+},
+{ "name": "vaai_arrow_circle_right",
+"value": "vaai_arrow_circle_right"
+},
+{ "name": "vaai_arrow_circle_right_o",
+"value": "vaai_arrow_circle_right_o"
+},
+{ "name": "vaai_arrow_circle_up",
+"value": "vaai_arrow_circle_up"
+},
+{ "name": "vaai_arrow_circle_up_o",
+"value": "vaai_arrow_circle_up_o"
+},
+{ "name": "vaai_arrow_down",
+"value": "vaai_arrow_down"
+},
+{ "name": "vaai_arrow_forward",
+"value": "vaai_arrow_forward"
+},
+{ "name": "vaai_arrow_left",
+"value": "vaai_arrow_left"
+},
+{ "name": "vaai_arrow_long_down",
+"value": "vaai_arrow_long_down"
+},
+{ "name": "vaai_arrow_long_left",
+"value": "vaai_arrow_long_left"
+},
+{ "name": "vaai_arrow_right",
+"value": "vaai_arrow_right"
+},
+{ "name": "vaai_arrow_up",
+"value": "vaai_arrow_up"
+},
+{ "name": "vaai_arrows",
+"value": "vaai_arrows"
+},
+{ "name": "vaai_arrows_cross",
+"value": "vaai_arrows_cross"
+},
+{ "name": "vaai_arrows_long_h",
+"value": "vaai_arrows_long_h"
+},
+{ "name": "vaai_arrows_long_right",
+"value": "vaai_arrows_long_right"
+},
+{ "name": "vaai_arrows_long_up",
+"value": "vaai_arrows_long_up"
+},
+{ "name": "vaai_arrows_long_v",
+"value": "vaai_arrows_long_v"
+},
+{ "name": "vaai_asterisk",
+"value": "vaai_asterisk"
+},
+{ "name": "vaai_at",
+"value": "vaai_at"
+},
+{ "name": "vaai_automation",
+"value": "vaai_automation"
+},
+{ "name": "vaai_backwards",
+"value": "vaai_backwards"
+},
+{ "name": "vaai_ban",
+"value": "vaai_ban"
+},
+{ "name": "vaai_bar_chart",
+"value": "vaai_bar_chart"
+},
+{ "name": "vaai_barcode",
+"value": "vaai_barcode"
+},
+{ "name": "vaai_menu",
+"value": "vaai_menu"
+},
+{ "name": "vaai_bell",
+"value": "vaai_bell"
+},
+{ "name": "vaai_bell_o",
+"value": "vaai_bell_o"
+},
+{ "name": "vaai_bell_slash",
+"value": "vaai_bell_slash"
+},
+{ "name": "vaai_bell_slash_o",
+"value": "vaai_bell_slash_o"
+},
+{ "name": "vaai_boat",
+"value": "vaai_boat"
+},
+{ "name": "vaai_bold",
+"value": "vaai_bold"
+},
+{ "name": "vaai_bolt",
+"value": "vaai_bolt"
+},
+{ "name": "vaai_bomb",
+"value": "vaai_bomb"
+},
+{ "name": "vaai_book",
+"value": "vaai_book"
+},
+{ "name": "vaai_book_dollar",
+"value": "vaai_book_dollar"
+},
+{ "name": "vaai_book_percent",
+"value": "vaai_book_percent"
+},
+{ "name": "vaai_bookmark",
+"value": "vaai_bookmark"
+},
+{ "name": "vaai_bookmark_o",
+"value": "vaai_bookmark_o"
+},
+{ "name": "vaai_briefcase",
+"value": "vaai_briefcase"
+},
+{ "name": "vaai_browser",
+"value": "vaai_browser"
+},
+{ "name": "vaai_bug",
+"value": "vaai_bug"
+},
+{ "name": "vaai_bug_o",
+"value": "vaai_bug_o"
+},
+{ "name": "vaai_building",
+"value": "vaai_building"
+},
+{ "name": "vaai_building_o",
+"value": "vaai_building_o"
+},
+{ "name": "vaai_bullets",
+"value": "vaai_bullets"
+},
+{ "name": "vaai_bullseye",
+"value": "vaai_bullseye"
+},
+{ "name": "vaai_button",
+"value": "vaai_button"
+},
+{ "name": "vaai_calc",
+"value": "vaai_calc"
+},
+{ "name": "vaai_calc_book",
+"value": "vaai_calc_book"
+},
+{ "name": "vaai_calendar",
+"value": "vaai_calendar"
+},
+{ "name": "vaai_calendar_briefcase",
+"value": "vaai_calendar_briefcase"
+},
+{ "name": "vaai_calendar_clock",
+"value": "vaai_calendar_clock"
+},
+{ "name": "vaai_calendar_envelope",
+"value": "vaai_calendar_envelope"
+},
+{ "name": "vaai_calendar_o",
+"value": "vaai_calendar_o"
+},
+{ "name": "vaai_calendar_user",
+"value": "vaai_calendar_user"
+},
+{ "name": "vaai_camera",
+"value": "vaai_camera"
+},
+{ "name": "vaai_car",
+"value": "vaai_car"
+},
+{ "name": "vaai_caret_down",
+"value": "vaai_caret_down"
+},
+{ "name": "vaai_caret_left",
+"value": "vaai_caret_left"
+},
+{ "name": "vaai_caret_right",
+"value": "vaai_caret_right"
+},
+{ "name": "vaai_caret_square_down_o",
+"value": "vaai_caret_square_down_o"
+},
+{ "name": "vaai_caret_square_left_o",
+"value": "vaai_caret_square_left_o"
+},
+{ "name": "vaai_caret_square_right_o",
+"value": "vaai_caret_square_right_o"
+},
+{ "name": "vaai_caret_square_up_o",
+"value": "vaai_caret_square_up_o"
+},
+{ "name": "vaai_caret_up",
+"value": "vaai_caret_up"
+},
+{ "name": "vaai_cart",
+"value": "vaai_cart"
+},
+{ "name": "vaai_cart_o",
+"value": "vaai_cart_o"
+},
+{ "name": "vaai_chart",
+"value": "vaai_chart"
+},
+{ "name": "vaai_chart_line",
+"value": "vaai_chart_line"
+},
+{ "name": "vaai_chat",
+"value": "vaai_chat"
+},
+{ "name": "vaai_check",
+"value": "vaai_check"
+},
+{ "name": "vaai_check_circle",
+"value": "vaai_check_circle"
+},
+{ "name": "vaai_check_circle_o",
+"value": "vaai_check_circle_o"
+},
+{ "name": "vaai_check_square",
+"value": "vaai_check_square"
+},
+{ "name": "vaai_check_square_o",
+"value": "vaai_check_square_o"
+},
+{ "name": "vaai_chevron_circle_down",
+"value": "vaai_chevron_circle_down"
+},
+{ "name": "vaai_chevron_circle_down_o",
+"value": "vaai_chevron_circle_down_o"
+},
+{ "name": "vaai_chevron_circle_left",
+"value": "vaai_chevron_circle_left"
+},
+{ "name": "vaai_chevron_circle_left_o",
+"value": "vaai_chevron_circle_left_o"
+},
+{ "name": "vaai_chevron_circle_right",
+"value": "vaai_chevron_circle_right"
+},
+{ "name": "vaai_chevron_circle_right_o",
+"value": "vaai_chevron_circle_right_o"
+},
+{ "name": "vaai_chevron_circle_up",
+"value": "vaai_chevron_circle_up"
+},
+{ "name": "vaai_chevron_circle_up_o",
+"value": "vaai_chevron_circle_up_o"
+},
+{ "name": "vaai_chevron_down",
+"value": "vaai_chevron_down"
+},
+{ "name": "vaai_chevron_left",
+"value": "vaai_chevron_left"
+},
+{ "name": "vaai_chevron_right",
+"value": "vaai_chevron_right"
+},
+{ "name": "vaai_chevron_up",
+"value": "vaai_chevron_up"
+},
+{ "name": "vaai_child",
+"value": "vaai_child"
+},
+{ "name": "vaai_circle",
+"value": "vaai_circle"
+},
+{ "name": "vaai_circle_thin",
+"value": "vaai_circle_thin"
+},
+{ "name": "vaai_clipboard",
+"value": "vaai_clipboard"
+},
+{ "name": "vaai_clipboard_cross",
+"value": "vaai_clipboard_cross"
+},
+{ "name": "vaai_clipboard_heart",
+"value": "vaai_clipboard_heart"
+},
+{ "name": "vaai_clipboard_pulse",
+"value": "vaai_clipboard_pulse"
+},
+{ "name": "vaai_clipboard_text",
+"value": "vaai_clipboard_text"
+},
+{ "name": "vaai_clipboard_user",
+"value": "vaai_clipboard_user"
+},
+{ "name": "vaai_clock",
+"value": "vaai_clock"
+},
+{ "name": "vaai_cloud",
+"value": "vaai_cloud"
+},
+{ "name": "vaai_cloud_download",
+"value": "vaai_cloud_download"
+},
+{ "name": "vaai_cloud_download_o",
+"value": "vaai_cloud_download_o"
+},
+{ "name": "vaai_cloud_o",
+"value": "vaai_cloud_o"
+},
+{ "name": "vaai_cloud_upload",
+"value": "vaai_cloud_upload"
+},
+{ "name": "vaai_cloud_upload_o",
+"value": "vaai_cloud_upload_o"
+},
+{ "name": "vaai_code",
+"value": "vaai_code"
+},
+{ "name": "vaai_coffee",
+"value": "vaai_coffee"
+},
+{ "name": "vaai_cog",
+"value": "vaai_cog"
+},
+{ "name": "vaai_cog_o",
+"value": "vaai_cog_o"
+},
+{ "name": "vaai_cogs",
+"value": "vaai_cogs"
+},
+{ "name": "vaai_combobox",
+"value": "vaai_combobox"
+},
+{ "name": "vaai_comment",
+"value": "vaai_comment"
+},
+{ "name": "vaai_comment_ellipsis",
+"value": "vaai_comment_ellipsis"
+},
+{ "name": "vaai_comment_ellipsis_o",
+"value": "vaai_comment_ellipsis_o"
+},
+{ "name": "vaai_comment_o",
+"value": "vaai_comment_o"
+},
+{ "name": "vaai_comments",
+"value": "vaai_comments"
+},
+{ "name": "vaai_comments_o",
+"value": "vaai_comments_o"
+},
+{ "name": "vaai_compress",
+"value": "vaai_compress"
+},
+{ "name": "vaai_compress_square",
+"value": "vaai_compress_square"
+},
+{ "name": "vaai_connect",
+"value": "vaai_connect"
+},
+{ "name": "vaai_connect_o",
+"value": "vaai_connect_o"
+},
+{ "name": "vaai_controller",
+"value": "vaai_controller"
+},
+{ "name": "vaai_copy",
+"value": "vaai_copy"
+},
+{ "name": "vaai_copy_o",
+"value": "vaai_copy_o"
+},
+{ "name": "vaai_copyright",
+"value": "vaai_copyright"
+},
+{ "name": "vaai_corner_lower_left",
+"value": "vaai_corner_lower_left"
+},
+{ "name": "vaai_corner_lower_right",
+"value": "vaai_corner_lower_right"
+},
+{ "name": "vaai_corner_upper_left",
+"value": "vaai_corner_upper_left"
+},
+{ "name": "vaai_corner_upper_right",
+"value": "vaai_corner_upper_right"
+},
+{ "name": "vaai_credit_card",
+"value": "vaai_credit_card"
+},
+{ "name": "vaai_crop",
+"value": "vaai_crop"
+},
+{ "name": "vaai_cross_cutlery",
+"value": "vaai_cross_cutlery"
+},
+{ "name": "vaai_crosshairs",
+"value": "vaai_crosshairs"
+},
+{ "name": "vaai_css",
+"value": "vaai_css"
+},
+{ "name": "vaai_cube",
+"value": "vaai_cube"
+},
+{ "name": "vaai_cubes",
+"value": "vaai_cubes"
+},
+{ "name": "vaai_curly_brackets",
+"value": "vaai_curly_brackets"
+},
+{ "name": "vaai_cutlery",
+"value": "vaai_cutlery"
+},
+{ "name": "vaai_dashboard",
+"value": "vaai_dashboard"
+},
+{ "name": "vaai_date_input",
+"value": "vaai_date_input"
+},
+{ "name": "vaai_deindent",
+"value": "vaai_deindent"
+},
+{ "name": "vaai_dental_chair",
+"value": "vaai_dental_chair"
+},
+{ "name": "vaai_desktop",
+"value": "vaai_desktop"
+},
+{ "name": "vaai_disc",
+"value": "vaai_disc"
+},
+{ "name": "vaai_doctor",
+"value": "vaai_doctor"
+},
+{ "name": "vaai_doctor_briefcase",
+"value": "vaai_doctor_briefcase"
+},
+{ "name": "vaai_dollar",
+"value": "vaai_dollar"
+},
+{ "name": "vaai_dot_circle",
+"value": "vaai_dot_circle"
+},
+{ "name": "vaai_download",
+"value": "vaai_download"
+},
+{ "name": "vaai_download_alt",
+"value": "vaai_download_alt"
+},
+{ "name": "vaai_insert",
+"value": "vaai_insert"
+},
+{ "name": "vaai_drop",
+"value": "vaai_drop"
+},
+{ "name": "vaai_edit",
+"value": "vaai_edit"
+},
+{ "name": "vaai_eject",
+"value": "vaai_eject"
+},
+{ "name": "vaai_elastic",
+"value": "vaai_elastic"
+},
+{ "name": "vaai_ellipsis_circle",
+"value": "vaai_ellipsis_circle"
+},
+{ "name": "vaai_ellipsis_circle_o",
+"value": "vaai_ellipsis_circle_o"
+},
+{ "name": "vaai_ellipsis_h",
+"value": "vaai_ellipsis_h"
+},
+{ "name": "vaai_ellipsis_v",
+"value": "vaai_ellipsis_v"
+},
+{ "name": "vaai_envelope",
+"value": "vaai_envelope"
+},
+{ "name": "vaai_envelope_o",
+"value": "vaai_envelope_o"
+},
+{ "name": "vaai_envelope_open",
+"value": "vaai_envelope_open"
+},
+{ "name": "vaai_envelope_open_o",
+"value": "vaai_envelope_open_o"
+},
+{ "name": "vaai_eraser",
+"value": "vaai_eraser"
+},
+{ "name": "vaai_exchange",
+"value": "vaai_exchange"
+},
+{ "name": "vaai_exclamation",
+"value": "vaai_exclamation"
+},
+{ "name": "vaai_exclamation_circle",
+"value": "vaai_exclamation_circle"
+},
+{ "name": "vaai_exclamation_circle_o",
+"value": "vaai_exclamation_circle_o"
+},
+{ "name": "vaai_exit",
+"value": "vaai_exit"
+},
+{ "name": "vaai_exit_o",
+"value": "vaai_exit_o"
+},
+{ "name": "vaai_expand",
+"value": "vaai_expand"
+},
+{ "name": "vaai_expand_full",
+"value": "vaai_expand_full"
+},
+{ "name": "vaai_expand_square",
+"value": "vaai_expand_square"
+},
+{ "name": "vaai_external_browser",
+"value": "vaai_external_browser"
+},
+{ "name": "vaai_external_link",
+"value": "vaai_external_link"
+},
+{ "name": "vaai_eye",
+"value": "vaai_eye"
+},
+{ "name": "vaai_eye_slash",
+"value": "vaai_eye_slash"
+},
+{ "name": "vaai_eyedropper",
+"value": "vaai_eyedropper"
+},
+{ "name": "vaai_facebook",
+"value": "vaai_facebook"
+},
+{ "name": "vaai_facebook_square",
+"value": "vaai_facebook_square"
+},
+{ "name": "vaai_factory",
+"value": "vaai_factory"
+},
+{ "name": "vaai_fast_backward",
+"value": "vaai_fast_backward"
+},
+{ "name": "vaai_fast_forward",
+"value": "vaai_fast_forward"
+},
+{ "name": "vaai_female",
+"value": "vaai_female"
+},
+{ "name": "vaai_file",
+"value": "vaai_file"
+},
+{ "name": "vaai_file_code",
+"value": "vaai_file_code"
+},
+{ "name": "vaai_file_font",
+"value": "vaai_file_font"
+},
+{ "name": "vaai_file_movie",
+"value": "vaai_file_movie"
+},
+{ "name": "vaai_file_o",
+"value": "vaai_file_o"
+},
+{ "name": "vaai_file_picture",
+"value": "vaai_file_picture"
+},
+{ "name": "vaai_file_presentation",
+"value": "vaai_file_presentation"
+},
+{ "name": "vaai_file_process",
+"value": "vaai_file_process"
+},
+{ "name": "vaai_file_refresh",
+"value": "vaai_file_refresh"
+},
+{ "name": "vaai_file_sound",
+"value": "vaai_file_sound"
+},
+{ "name": "vaai_file_start",
+"value": "vaai_file_start"
+},
+{ "name": "vaai_file_table",
+"value": "vaai_file_table"
+},
+{ "name": "vaai_file_text",
+"value": "vaai_file_text"
+},
+{ "name": "vaai_file_text_o",
+"value": "vaai_file_text_o"
+},
+{ "name": "vaai_file_tree",
+"value": "vaai_file_tree"
+},
+{ "name": "vaai_file_tree_small",
+"value": "vaai_file_tree_small"
+},
+{ "name": "vaai_file_tree_sub",
+"value": "vaai_file_tree_sub"
+},
+{ "name": "vaai_file_zip",
+"value": "vaai_file_zip"
+},
+{ "name": "vaai_fill",
+"value": "vaai_fill"
+},
+{ "name": "vaai_film",
+"value": "vaai_film"
+},
+{ "name": "vaai_filter",
+"value": "vaai_filter"
+},
+{ "name": "vaai_fire",
+"value": "vaai_fire"
+},
+{ "name": "vaai_flag",
+"value": "vaai_flag"
+},
+{ "name": "vaai_flag_checkered",
+"value": "vaai_flag_checkered"
+},
+{ "name": "vaai_flag_o",
+"value": "vaai_flag_o"
+},
+{ "name": "vaai_adobe_flash",
+"value": "vaai_adobe_flash"
+},
+{ "name": "vaai_flash",
+"value": "vaai_flash"
+},
+{ "name": "vaai_flask",
+"value": "vaai_flask"
+},
+{ "name": "vaai_flip_h",
+"value": "vaai_flip_h"
+},
+{ "name": "vaai_flip_v",
+"value": "vaai_flip_v"
+},
+{ "name": "vaai_folder",
+"value": "vaai_folder"
+},
+{ "name": "vaai_folder_o",
+"value": "vaai_folder_o"
+},
+{ "name": "vaai_folder_open",
+"value": "vaai_folder_open"
+},
+{ "name": "vaai_folder_open_o",
+"value": "vaai_folder_open_o"
+},
+{ "name": "vaai_font",
+"value": "vaai_font"
+},
+{ "name": "vaai_form",
+"value": "vaai_form"
+},
+{ "name": "vaai_forward",
+"value": "vaai_forward"
+},
+{ "name": "vaai_frown_o",
+"value": "vaai_frown_o"
+},
+{ "name": "vaai_funcion",
+"value": "vaai_funcion"
+},
+{ "name": "vaai_gamepad",
+"value": "vaai_gamepad"
+},
+{ "name": "vaai_gavel",
+"value": "vaai_gavel"
+},
+{ "name": "vaai_gift",
+"value": "vaai_gift"
+},
+{ "name": "vaai_glass",
+"value": "vaai_glass"
+},
+{ "name": "vaai_globe",
+"value": "vaai_globe"
+},
+{ "name": "vaai_glasses",
+"value": "vaai_glasses"
+},
+{ "name": "vaai_golf",
+"value": "vaai_golf"
+},
+{ "name": "vaai_google_plus",
+"value": "vaai_google_plus"
+},
+{ "name": "vaai_google_plus_square",
+"value": "vaai_google_plus_square"
+},
+{ "name": "vaai_grab",
+"value": "vaai_grab"
+},
+{ "name": "vaai_grid",
+"value": "vaai_grid"
+},
+{ "name": "vaai_grid_bevel",
+"value": "vaai_grid_bevel"
+},
+{ "name": "vaai_grid_big",
+"value": "vaai_grid_big"
+},
+{ "name": "vaai_grid_big_o",
+"value": "vaai_grid_big_o"
+},
+{ "name": "vaai_grid_h",
+"value": "vaai_grid_h"
+},
+{ "name": "vaai_grid_small",
+"value": "vaai_grid_small"
+},
+{ "name": "vaai_grid_small_o",
+"value": "vaai_grid_small_o"
+},
+{ "name": "vaai_grid_v",
+"value": "vaai_grid_v"
+},
+{ "name": "vaai_group",
+"value": "vaai_group"
+},
+{ "name": "vaai_hand",
+"value": "vaai_hand"
+},
+{ "name": "vaai_handle_corner",
+"value": "vaai_handle_corner"
+},
+{ "name": "vaai_hands_up",
+"value": "vaai_hands_up"
+},
+{ "name": "vaai_harddrive",
+"value": "vaai_harddrive"
+},
+{ "name": "vaai_harddrive_o",
+"value": "vaai_harddrive_o"
+},
+{ "name": "vaai_hash",
+"value": "vaai_hash"
+},
+{ "name": "vaai_header",
+"value": "vaai_header"
+},
+{ "name": "vaai_headphones",
+"value": "vaai_headphones"
+},
+{ "name": "vaai_health_card",
+"value": "vaai_health_card"
+},
+{ "name": "vaai_heart",
+"value": "vaai_heart"
+},
+{ "name": "vaai_heart_o",
+"value": "vaai_heart_o"
+},
+{ "name": "vaai_home",
+"value": "vaai_home"
+},
+{ "name": "vaai_home_o",
+"value": "vaai_home_o"
+},
+{ "name": "vaai_inbox",
+"value": "vaai_inbox"
+},
+{ "name": "vaai_indent",
+"value": "vaai_indent"
+},
+{ "name": "vaai_info",
+"value": "vaai_info"
+},
+{ "name": "vaai_info_circle",
+"value": "vaai_info_circle"
+},
+{ "name": "vaai_info_circle_o",
+"value": "vaai_info_circle_o"
+},
+{ "name": "vaai_input",
+"value": "vaai_input"
+},
+{ "name": "vaai_institution",
+"value": "vaai_institution"
+},
+{ "name": "vaai_invoice",
+"value": "vaai_invoice"
+},
+{ "name": "vaai_list_ol",
+"value": "vaai_list_ol"
+},
+{ "name": "vaai_italic",
+"value": "vaai_italic"
+},
+{ "name": "vaai_key",
+"value": "vaai_key"
+},
+{ "name": "vaai_key_o",
+"value": "vaai_key_o"
+},
+{ "name": "vaai_keyboard",
+"value": "vaai_keyboard"
+},
+{ "name": "vaai_keyboard_o",
+"value": "vaai_keyboard_o"
+},
+{ "name": "vaai_laptop",
+"value": "vaai_laptop"
+},
+{ "name": "vaai_layout",
+"value": "vaai_layout"
+},
+{ "name": "vaai_level_down",
+"value": "vaai_level_down"
+},
+{ "name": "vaai_level_down_bold",
+"value": "vaai_level_down_bold"
+},
+{ "name": "vaai_level_left",
+"value": "vaai_level_left"
+},
+{ "name": "vaai_level_left_bold",
+"value": "vaai_level_left_bold"
+},
+{ "name": "vaai_level_right",
+"value": "vaai_level_right"
+},
+{ "name": "vaai_level_right_bold",
+"value": "vaai_level_right_bold"
+},
+{ "name": "vaai_level_up",
+"value": "vaai_level_up"
+},
+{ "name": "vaai_level_up_bold",
+"value": "vaai_level_up_bold"
+},
+{ "name": "vaai_lifebuoy",
+"value": "vaai_lifebuoy"
+},
+{ "name": "vaai_lightbulb",
+"value": "vaai_lightbulb"
+},
+{ "name": "vaai_line_h",
+"value": "vaai_line_h"
+},
+{ "name": "vaai_line_v",
+"value": "vaai_line_v"
+},
+{ "name": "vaai_lines",
+"value": "vaai_lines"
+},
+{ "name": "vaai_lines_list",
+"value": "vaai_lines_list"
+},
+{ "name": "vaai_link",
+"value": "vaai_link"
+},
+{ "name": "vaai_list",
+"value": "vaai_list"
+},
+{ "name": "vaai_list_select",
+"value": "vaai_list_select"
+},
+{ "name": "vaai_list_ul",
+"value": "vaai_list_ul"
+},
+{ "name": "vaai_location_arrow",
+"value": "vaai_location_arrow"
+},
+{ "name": "vaai_location_arrow_circle",
+"value": "vaai_location_arrow_circle"
+},
+{ "name": "vaai_location_arrow_circle_o",
+"value": "vaai_location_arrow_circle_o"
+},
+{ "name": "vaai_lock",
+"value": "vaai_lock"
+},
+{ "name": "vaai_magic",
+"value": "vaai_magic"
+},
+{ "name": "vaai_magnet",
+"value": "vaai_magnet"
+},
+{ "name": "vaai_mailbox",
+"value": "vaai_mailbox"
+},
+{ "name": "vaai_male",
+"value": "vaai_male"
+},
+{ "name": "vaai_map_marker",
+"value": "vaai_map_marker"
+},
+{ "name": "vaai_margin",
+"value": "vaai_margin"
+},
+{ "name": "vaai_margin_bottom",
+"value": "vaai_margin_bottom"
+},
+{ "name": "vaai_margin_left",
+"value": "vaai_margin_left"
+},
+{ "name": "vaai_margin_right",
+"value": "vaai_margin_right"
+},
+{ "name": "vaai_margin_top",
+"value": "vaai_margin_top"
+},
+{ "name": "vaai_medal",
+"value": "vaai_medal"
+},
+{ "name": "vaai_megafone",
+"value": "vaai_megafone"
+},
+{ "name": "vaai_meh_o",
+"value": "vaai_meh_o"
+},
+{ "name": "vaai_microphone",
+"value": "vaai_microphone"
+},
+{ "name": "vaai_minus",
+"value": "vaai_minus"
+},
+{ "name": "vaai_minus_circle",
+"value": "vaai_minus_circle"
+},
+{ "name": "vaai_minus_circle_o",
+"value": "vaai_minus_circle_o"
+},
+{ "name": "vaai_minus_square_o",
+"value": "vaai_minus_square_o"
+},
+{ "name": "vaai_mobile",
+"value": "vaai_mobile"
+},
+{ "name": "vaai_modal",
+"value": "vaai_modal"
+},
+{ "name": "vaai_modal_list",
+"value": "vaai_modal_list"
+},
+{ "name": "vaai_money",
+"value": "vaai_money"
+},
+{ "name": "vaai_moon",
+"value": "vaai_moon"
+},
+{ "name": "vaai_moon_o",
+"value": "vaai_moon_o"
+},
+{ "name": "vaai_movie",
+"value": "vaai_movie"
+},
+{ "name": "vaai_music",
+"value": "vaai_music"
+},
+{ "name": "vaai_mute",
+"value": "vaai_mute"
+},
+{ "name": "vaai_native_button",
+"value": "vaai_native_button"
+},
+{ "name": "vaai_notebook",
+"value": "vaai_notebook"
+},
+{ "name": "vaai_open_book",
+"value": "vaai_open_book"
+},
+{ "name": "vaai_options",
+"value": "vaai_options"
+},
+{ "name": "vaai_orientation",
+"value": "vaai_orientation"
+},
+{ "name": "vaai_out",
+"value": "vaai_out"
+},
+{ "name": "vaai_outbox",
+"value": "vaai_outbox"
+},
+{ "name": "vaai_package",
+"value": "vaai_package"
+},
+{ "name": "vaai_padding",
+"value": "vaai_padding"
+},
+{ "name": "vaai_padding_bottom",
+"value": "vaai_padding_bottom"
+},
+{ "name": "vaai_padding_left",
+"value": "vaai_padding_left"
+},
+{ "name": "vaai_padding_right",
+"value": "vaai_padding_right"
+},
+{ "name": "vaai_padding_top",
+"value": "vaai_padding_top"
+},
+{ "name": "vaai_paint_roll",
+"value": "vaai_paint_roll"
+},
+{ "name": "vaai_paintbrush",
+"value": "vaai_paintbrush"
+},
+{ "name": "vaai_palete",
+"value": "vaai_palete"
+},
+{ "name": "vaai_panel",
+"value": "vaai_panel"
+},
+{ "name": "vaai_paperclip",
+"value": "vaai_paperclip"
+},
+{ "name": "vaai_paperplane",
+"value": "vaai_paperplane"
+},
+{ "name": "vaai_paperplane_o",
+"value": "vaai_paperplane_o"
+},
+{ "name": "vaai_paragraph",
+"value": "vaai_paragraph"
+},
+{ "name": "vaai_password",
+"value": "vaai_password"
+},
+{ "name": "vaai_paste",
+"value": "vaai_paste"
+},
+{ "name": "vaai_pause",
+"value": "vaai_pause"
+},
+{ "name": "vaai_pencil",
+"value": "vaai_pencil"
+},
+{ "name": "vaai_phone",
+"value": "vaai_phone"
+},
+{ "name": "vaai_picture",
+"value": "vaai_picture"
+},
+{ "name": "vaai_pie_chart",
+"value": "vaai_pie_chart"
+},
+{ "name": "vaai_pill",
+"value": "vaai_pill"
+},
+{ "name": "vaai_pills",
+"value": "vaai_pills"
+},
+{ "name": "vaai_pin",
+"value": "vaai_pin"
+},
+{ "name": "vaai_pin_post",
+"value": "vaai_pin_post"
+},
+{ "name": "vaai_play",
+"value": "vaai_play"
+},
+{ "name": "vaai_play_circle",
+"value": "vaai_play_circle"
+},
+{ "name": "vaai_play_circle_o",
+"value": "vaai_play_circle_o"
+},
+{ "name": "vaai_plug",
+"value": "vaai_plug"
+},
+{ "name": "vaai_plus",
+"value": "vaai_plus"
+},
+{ "name": "vaai_plus_circle",
+"value": "vaai_plus_circle"
+},
+{ "name": "vaai_plus_circle_o",
+"value": "vaai_plus_circle_o"
+},
+{ "name": "vaai_plus_minus",
+"value": "vaai_plus_minus"
+},
+{ "name": "vaai_plus_square_o",
+"value": "vaai_plus_square_o"
+},
+{ "name": "vaai_pointer",
+"value": "vaai_pointer"
+},
+{ "name": "vaai_power_off",
+"value": "vaai_power_off"
+},
+{ "name": "vaai_presentation",
+"value": "vaai_presentation"
+},
+{ "name": "vaai_print",
+"value": "vaai_print"
+},
+{ "name": "vaai_progressbar",
+"value": "vaai_progressbar"
+},
+{ "name": "vaai_puzzle_piece",
+"value": "vaai_puzzle_piece"
+},
+{ "name": "vaai_qrcode",
+"value": "vaai_qrcode"
+},
+{ "name": "vaai_question",
+"value": "vaai_question"
+},
+{ "name": "vaai_question_circle",
+"value": "vaai_question_circle"
+},
+{ "name": "vaai_question_circle_o",
+"value": "vaai_question_circle_o"
+},
+{ "name": "vaai_quote_left",
+"value": "vaai_quote_left"
+},
+{ "name": "vaai_quote_right",
+"value": "vaai_quote_right"
+},
+{ "name": "vaai_random",
+"value": "vaai_random"
+},
+{ "name": "vaai_raster",
+"value": "vaai_raster"
+},
+{ "name": "vaai_raster_lower_left",
+"value": "vaai_raster_lower_left"
+},
+{ "name": "vaai_recycle",
+"value": "vaai_recycle"
+},
+{ "name": "vaai_refresh",
+"value": "vaai_refresh"
+},
+{ "name": "vaai_reply",
+"value": "vaai_reply"
+},
+{ "name": "vaai_reply_all",
+"value": "vaai_reply_all"
+},
+{ "name": "vaai_resize_h",
+"value": "vaai_resize_h"
+},
+{ "name": "vaai_resize_v",
+"value": "vaai_resize_v"
+},
+{ "name": "vaai_retweet",
+"value": "vaai_retweet"
+},
+{ "name": "vaai_rhombus",
+"value": "vaai_rhombus"
+},
+{ "name": "vaai_road",
+"value": "vaai_road"
+},
+{ "name": "vaai_road_branch",
+"value": "vaai_road_branch"
+},
+{ "name": "vaai_road_branches",
+"value": "vaai_road_branches"
+},
+{ "name": "vaai_road_split",
+"value": "vaai_road_split"
+},
+{ "name": "vaai_rocket",
+"value": "vaai_rocket"
+},
+{ "name": "vaai_rotate_left",
+"value": "vaai_rotate_left"
+},
+{ "name": "vaai_rotate_right",
+"value": "vaai_rotate_right"
+},
+{ "name": "vaai_rss",
+"value": "vaai_rss"
+},
+{ "name": "vaai_rss_square",
+"value": "vaai_rss_square"
+},
+{ "name": "vaai_safe",
+"value": "vaai_safe"
+},
+{ "name": "vaai_safe_lock",
+"value": "vaai_safe_lock"
+},
+{ "name": "vaai_scissors",
+"value": "vaai_scissors"
+},
+{ "name": "vaai_screwdriver",
+"value": "vaai_screwdriver"
+},
+{ "name": "vaai_search",
+"value": "vaai_search"
+},
+{ "name": "vaai_search_minus",
+"value": "vaai_search_minus"
+},
+{ "name": "vaai_search_plus",
+"value": "vaai_search_plus"
+},
+{ "name": "vaai_select",
+"value": "vaai_select"
+},
+{ "name": "vaai_database",
+"value": "vaai_database"
+},
+{ "name": "vaai_server",
+"value": "vaai_server"
+},
+{ "name": "vaai_share",
+"value": "vaai_share"
+},
+{ "name": "vaai_share_square",
+"value": "vaai_share_square"
+},
+{ "name": "vaai_shield",
+"value": "vaai_shield"
+},
+{ "name": "vaai_sign_in",
+"value": "vaai_sign_in"
+},
+{ "name": "vaai_sign_in_alt",
+"value": "vaai_sign_in_alt"
+},
+{ "name": "vaai_sign_out",
+"value": "vaai_sign_out"
+},
+{ "name": "vaai_sign_out_alt",
+"value": "vaai_sign_out_alt"
+},
+{ "name": "vaai_signal",
+"value": "vaai_signal"
+},
+{ "name": "vaai_sitemap",
+"value": "vaai_sitemap"
+},
+{ "name": "vaai_slider",
+"value": "vaai_slider"
+},
+{ "name": "vaai_sliders",
+"value": "vaai_sliders"
+},
+{ "name": "vaai_smiley_o",
+"value": "vaai_smiley_o"
+},
+{ "name": "vaai_sort",
+"value": "vaai_sort"
+},
+{ "name": "vaai_sound_disable",
+"value": "vaai_sound_disable"
+},
+{ "name": "vaai_specialist",
+"value": "vaai_specialist"
+},
+{ "name": "vaai_spinner",
+"value": "vaai_spinner"
+},
+{ "name": "vaai_spinner_arc",
+"value": "vaai_spinner_arc"
+},
+{ "name": "vaai_spinner_third",
+"value": "vaai_spinner_third"
+},
+{ "name": "vaai_split",
+"value": "vaai_split"
+},
+{ "name": "vaai_split_h",
+"value": "vaai_split_h"
+},
+{ "name": "vaai_split_v",
+"value": "vaai_split_v"
+},
+{ "name": "vaai_spoon",
+"value": "vaai_spoon"
+},
+{ "name": "vaai_square_shadow",
+"value": "vaai_square_shadow"
+},
+{ "name": "vaai_star",
+"value": "vaai_star"
+},
+{ "name": "vaai_star_half_left",
+"value": "vaai_star_half_left"
+},
+{ "name": "vaai_star_half_left_o",
+"value": "vaai_star_half_left_o"
+},
+{ "name": "vaai_star_half_right",
+"value": "vaai_star_half_right"
+},
+{ "name": "vaai_star_half_right_o",
+"value": "vaai_star_half_right_o"
+},
+{ "name": "vaai_star_o",
+"value": "vaai_star_o"
+},
+{ "name": "vaai_start_cog",
+"value": "vaai_start_cog"
+},
+{ "name": "vaai_step_backward",
+"value": "vaai_step_backward"
+},
+{ "name": "vaai_step_forward",
+"value": "vaai_step_forward"
+},
+{ "name": "vaai_stethoscope",
+"value": "vaai_stethoscope"
+},
+{ "name": "vaai_stop",
+"value": "vaai_stop"
+},
+{ "name": "vaai_stop_cog",
+"value": "vaai_stop_cog"
+},
+{ "name": "vaai_strikethrough",
+"value": "vaai_strikethrough"
+},
+{ "name": "vaai_subscript",
+"value": "vaai_subscript"
+},
+{ "name": "vaai_suitcase",
+"value": "vaai_suitcase"
+},
+{ "name": "vaai_sun_o",
+"value": "vaai_sun_o"
+},
+{ "name": "vaai_superscript",
+"value": "vaai_superscript"
+},
+{ "name": "vaai_sword",
+"value": "vaai_sword"
+},
+{ "name": "vaai_table",
+"value": "vaai_table"
+},
+{ "name": "vaai_tablet",
+"value": "vaai_tablet"
+},
+{ "name": "vaai_tabs",
+"value": "vaai_tabs"
+},
+{ "name": "vaai_tag",
+"value": "vaai_tag"
+},
+{ "name": "vaai_tags",
+"value": "vaai_tags"
+},
+{ "name": "vaai_tasks",
+"value": "vaai_tasks"
+},
+{ "name": "vaai_taxi",
+"value": "vaai_taxi"
+},
+{ "name": "vaai_terminal",
+"value": "vaai_terminal"
+},
+{ "name": "vaai_text_height",
+"value": "vaai_text_height"
+},
+{ "name": "vaai_text_input",
+"value": "vaai_text_input"
+},
+{ "name": "vaai_text_label",
+"value": "vaai_text_label"
+},
+{ "name": "vaai_text_width",
+"value": "vaai_text_width"
+},
+{ "name": "vaai_teeth",
+"value": "vaai_teeth"
+},
+{ "name": "vaai_thin_square",
+"value": "vaai_thin_square"
+},
+{ "name": "vaai_tooth",
+"value": "vaai_tooth"
+},
+{ "name": "vaai_thumbs_down",
+"value": "vaai_thumbs_down"
+},
+{ "name": "vaai_thumbs_down_o",
+"value": "vaai_thumbs_down_o"
+},
+{ "name": "vaai_thumbs_up",
+"value": "vaai_thumbs_up"
+},
+{ "name": "vaai_thumbs_up_o",
+"value": "vaai_thumbs_up_o"
+},
+{ "name": "vaai_ticket",
+"value": "vaai_ticket"
+},
+{ "name": "vaai_time_backward",
+"value": "vaai_time_backward"
+},
+{ "name": "vaai_time_forward",
+"value": "vaai_time_forward"
+},
+{ "name": "vaai_toolbox",
+"value": "vaai_toolbox"
+},
+{ "name": "vaai_tools",
+"value": "vaai_tools"
+},
+{ "name": "vaai_train",
+"value": "vaai_train"
+},
+{ "name": "vaai_trash",
+"value": "vaai_trash"
+},
+{ "name": "vaai_tree_table",
+"value": "vaai_tree_table"
+},
+{ "name": "vaai_trophy",
+"value": "vaai_trophy"
+},
+{ "name": "vaai_truck",
+"value": "vaai_truck"
+},
+{ "name": "vaai_twin_col_select",
+"value": "vaai_twin_col_select"
+},
+{ "name": "vaai_twitter",
+"value": "vaai_twitter"
+},
+{ "name": "vaai_twitter_square",
+"value": "vaai_twitter_square"
+},
+{ "name": "vaai_umbrella",
+"value": "vaai_umbrella"
+},
+{ "name": "vaai_underline",
+"value": "vaai_underline"
+},
+{ "name": "vaai_unlink",
+"value": "vaai_unlink"
+},
+{ "name": "vaai_unlock",
+"value": "vaai_unlock"
+},
+{ "name": "vaai_upload",
+"value": "vaai_upload"
+},
+{ "name": "vaai_upload_alt",
+"value": "vaai_upload_alt"
+},
+{ "name": "vaai_user",
+"value": "vaai_user"
+},
+{ "name": "vaai_user_card",
+"value": "vaai_user_card"
+},
+{ "name": "vaai_user_check",
+"value": "vaai_user_check"
+},
+{ "name": "vaai_user_clock",
+"value": "vaai_user_clock"
+},
+{ "name": "vaai_user_heart",
+"value": "vaai_user_heart"
+},
+{ "name": "vaai_users",
+"value": "vaai_users"
+},
+{ "name": "vaai_vaadin_h",
+"value": "vaai_vaadin_h"
+},
+{ "name": "vaai_vaadin_v",
+"value": "vaai_vaadin_v"
+},
+{ "name": "vaai_viewport",
+"value": "vaai_viewport"
+},
+{ "name": "vaai_vimeo",
+"value": "vaai_vimeo"
+},
+{ "name": "vaai_vimeo_square",
+"value": "vaai_vimeo_square"
+},
+{ "name": "vaai_volume",
+"value": "vaai_volume"
+},
+{ "name": "vaai_volume_down",
+"value": "vaai_volume_down"
+},
+{ "name": "vaai_volume_off",
+"value": "vaai_volume_off"
+},
+{ "name": "vaai_volume_up",
+"value": "vaai_volume_up"
+},
+{ "name": "vaai_warning",
+"value": "vaai_warning"
+},
+{ "name": "vaai_wrench",
+"value": "vaai_wrench"
+},
+{ "name": "vaai_close",
+"value": "vaai_close"
+},
+{ "name": "vaai_close_circle",
+"value": "vaai_close_circle"
+},
+{ "name": "vaai_close_circle_o",
+"value": "vaai_close_circle_o"
+},
+{ "name": "vaai_youtube",
+"value": "vaai_youtube"
+},
+{ "name": "vaai_youtube_square",
+"value": "vaai_youtube_square"
+},
+{ "name": "vaai_diploma",
+"value": "vaai_diploma"
+},
+{ "name": "vaai_chevron_down_small",
+"value": "vaai_chevron_down_small"
+},
+{ "name": "vaai_chevron_left_small",
+"value": "vaai_chevron_left_small"
+},
+{ "name": "vaai_chevron_right_small",
+"value": "vaai_chevron_right_small"
+},
+{ "name": "vaai_chevron_up_small",
+"value": "vaai_chevron_up_small"
+},
+{ "name": "vaai_diploma_scroll",
+"value": "vaai_diploma_scroll"
+},
+{ "name": "vaai_workplace",
+"value": "vaai_workplace"
+},
+{ "name": "vaai_cash",
+"value": "vaai_cash"
+},
+{ "name": "vaai_academy_cap",
+"value": "vaai_academy_cap"
+},
+{ "name": "vaai_alarm",
+"value": "vaai_alarm"
+},
+{ "name": "vaai_alt_a",
+"value": "vaai_alt_a"
+},
+{ "name": "vaai_alt",
+"value": "vaai_alt"
+},
+{ "name": "vaai_ambulance",
+"value": "vaai_ambulance"
+},
+{ "name": "vaai_backspace_a",
+"value": "vaai_backspace_a"
+},
+{ "name": "vaai_backspace",
+"value": "vaai_backspace"
+},
+{ "name": "vaai_bar_chart_h",
+"value": "vaai_bar_chart_h"
+},
+{ "name": "vaai_bar_chart_v",
+"value": "vaai_bar_chart_v"
+},
+{ "name": "vaai_bed",
+"value": "vaai_bed"
+},
+{ "name": "vaai_buss",
+"value": "vaai_buss"
+},
+{ "name": "vaai_chart_3d",
+"value": "vaai_chart_3d"
+},
+{ "name": "vaai_chart_grid",
+"value": "vaai_chart_grid"
+},
+{ "name": "vaai_chart_timeline",
+"value": "vaai_chart_timeline"
+},
+{ "name": "vaai_clipboard_check",
+"value": "vaai_clipboard_check"
+},
+{ "name": "vaai_close_small",
+"value": "vaai_close_small"
+},
+{ "name": "vaai_cluster",
+"value": "vaai_cluster"
+},
+{ "name": "vaai_coin_piles",
+"value": "vaai_coin_piles"
+},
+{ "name": "vaai_coins",
+"value": "vaai_coins"
+},
+{ "name": "vaai_compile",
+"value": "vaai_compile"
+},
+{ "name": "vaai_close_big",
+"value": "vaai_close_big"
+},
+{ "name": "vaai_ctrl_a",
+"value": "vaai_ctrl_a"
+},
+{ "name": "vaai_ctrl",
+"value": "vaai_ctrl"
+},
+{ "name": "vaai_cursor_o",
+"value": "vaai_cursor_o"
+},
+{ "name": "vaai_cursor",
+"value": "vaai_cursor"
+},
+{ "name": "vaai_del_a",
+"value": "vaai_del_a"
+},
+{ "name": "vaai_del",
+"value": "vaai_del"
+},
+{ "name": "vaai_diamond_o",
+"value": "vaai_diamond_o"
+},
+{ "name": "vaai_diamond",
+"value": "vaai_diamond"
+},
+{ "name": "vaai_ellipsis_dots_h",
+"value": "vaai_ellipsis_dots_h"
+},
+{ "name": "vaai_ellipsis_dots_v",
+"value": "vaai_ellipsis_dots_v"
+},
+{ "name": "vaai_enter_arrow",
+"value": "vaai_enter_arrow"
+},
+{ "name": "vaai_enter",
+"value": "vaai_enter"
+},
+{ "name": "vaai_envelopes_o",
+"value": "vaai_envelopes_o"
+},
+{ "name": "vaai_envelopes",
+"value": "vaai_envelopes"
+},
+{ "name": "vaai_esc_a",
+"value": "vaai_esc_a"
+},
+{ "name": "vaai_esc",
+"value": "vaai_esc"
+},
+{ "name": "vaai_euro",
+"value": "vaai_euro"
+},
+{ "name": "vaai_family",
+"value": "vaai_family"
+},
+{ "name": "vaai_file_add",
+"value": "vaai_file_add"
+},
+{ "name": "vaai_file_remove",
+"value": "vaai_file_remove"
+},
+{ "name": "vaai_file_search",
+"value": "vaai_file_search"
+},
+{ "name": "vaai_flight_landing",
+"value": "vaai_flight_landing"
+},
+{ "name": "vaai_flight_takeoff",
+"value": "vaai_flight_takeoff"
+},
+{ "name": "vaai_folder_add",
+"value": "vaai_folder_add"
+},
+{ "name": "vaai_folder_remove",
+"value": "vaai_folder_remove"
+},
+{ "name": "vaai_folder_search",
+"value": "vaai_folder_search"
+},
+{ "name": "vaai_funnel",
+"value": "vaai_funnel"
+},
+{ "name": "vaai_globe_wire",
+"value": "vaai_globe_wire"
+},
+{ "name": "vaai_hammer",
+"value": "vaai_hammer"
+},
+{ "name": "vaai_handshake",
+"value": "vaai_handshake"
+},
+{ "name": "vaai_headset",
+"value": "vaai_headset"
+},
+{ "name": "vaai_hospital",
+"value": "vaai_hospital"
+},
+{ "name": "vaai_hourglass_empty",
+"value": "vaai_hourglass_empty"
+},
+{ "name": "vaai_hourglass_end",
+"value": "vaai_hourglass_end"
+},
+{ "name": "vaai_hourglass_start",
+"value": "vaai_hourglass_start"
+},
+{ "name": "vaai_hourglass",
+"value": "vaai_hourglass"
+},
+{ "name": "vaai_line_bar_chart",
+"value": "vaai_line_bar_chart"
+},
+{ "name": "vaai_line_chart",
+"value": "vaai_line_chart"
+},
+{ "name": "vaai_mobile_browser",
+"value": "vaai_mobile_browser"
+},
+{ "name": "vaai_mobile_retro",
+"value": "vaai_mobile_retro"
+},
+{ "name": "vaai_money_deposit",
+"value": "vaai_money_deposit"
+},
+{ "name": "vaai_money_exchange",
+"value": "vaai_money_exchange"
+},
+{ "name": "vaai_money_withdraw",
+"value": "vaai_money_withdraw"
+},
+{ "name": "vaai_morning",
+"value": "vaai_morning"
+},
+{ "name": "vaai_newspaper",
+"value": "vaai_newspaper"
+},
+{ "name": "vaai_nurse",
+"value": "vaai_nurse"
+},
+{ "name": "vaai_office",
+"value": "vaai_office"
+},
+{ "name": "vaai_option_a",
+"value": "vaai_option_a"
+},
+{ "name": "vaai_option",
+"value": "vaai_option"
+},
+{ "name": "vaai_phone_landline",
+"value": "vaai_phone_landline"
+},
+{ "name": "vaai_pie_bar_chart",
+"value": "vaai_pie_bar_chart"
+},
+{ "name": "vaai_piggy_bank_coin",
+"value": "vaai_piggy_bank_coin"
+},
+{ "name": "vaai_piggy_bank",
+"value": "vaai_piggy_bank"
+},
+{ "name": "vaai_pyramid_chart",
+"value": "vaai_pyramid_chart"
+},
+{ "name": "vaai_records",
+"value": "vaai_records"
+},
+{ "name": "vaai_scale_unbalance",
+"value": "vaai_scale_unbalance"
+},
+{ "name": "vaai_scale",
+"value": "vaai_scale"
+},
+{ "name": "vaai_scatter_chart",
+"value": "vaai_scatter_chart"
+},
+{ "name": "vaai_shift_arrow",
+"value": "vaai_shift_arrow"
+},
+{ "name": "vaai_shift",
+"value": "vaai_shift"
+},
+{ "name": "vaai_shop",
+"value": "vaai_shop"
+},
+{ "name": "vaai_spark_line",
+"value": "vaai_spark_line"
+},
+{ "name": "vaai_spline_area_chart",
+"value": "vaai_spline_area_chart"
+},
+{ "name": "vaai_spline_chart",
+"value": "vaai_spline_chart"
+},
+{ "name": "vaai_stock",
+"value": "vaai_stock"
+},
+{ "name": "vaai_stopwatch",
+"value": "vaai_stopwatch"
+},
+{ "name": "vaai_storage",
+"value": "vaai_storage"
+},
+{ "name": "vaai_sun_down",
+"value": "vaai_sun_down"
+},
+{ "name": "vaai_sun_rise",
+"value": "vaai_sun_rise"
+},
+{ "name": "vaai_tab_a",
+"value": "vaai_tab_a"
+},
+{ "name": "vaai_tab",
+"value": "vaai_tab"
+},
+{ "name": "vaai_timer",
+"value": "vaai_timer"
+},
+{ "name": "vaai_touch",
+"value": "vaai_touch"
+},
+{ "name": "vaai_trending_down",
+"value": "vaai_trending_down"
+},
+{ "name": "vaai_trending_up",
+"value": "vaai_trending_up"
+},
+{ "name": "vaai_user_star",
+"value": "vaai_user_star"
+},
+{ "name": "vaai_wallet",
+"value": "vaai_wallet"
+}
+]
+}

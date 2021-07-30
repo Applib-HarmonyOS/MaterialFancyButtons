@@ -1,0 +1,37 @@
+{
+ "string": [
+{ "name": "define_Typicons",
+"value": "year;author;libraryName;libraryWebsite"
+},
+{ "name": "library_Typicons_author",
+"value": "Stephen Hutchings"
+},
+{ "name": "library_Typicons_authorWebsite",
+"value": "http://s-ings.com/"
+},
+{ "name": "library_Typicons_libraryName",
+"value": "Typicons"
+},
+{ "name": "library_Typicons_libraryDescription",
+"value": ""
+},
+{ "name": "library_Typicons_libraryWebsite",
+"value": "http://typicons.com/"
+},
+{ "name": "library_Typicons_libraryVersion",
+"value": "2.0.7.2"
+},
+{ "name": "library_Typicons_licenseId",
+"value": "sil_ofl_1_1"
+},
+{ "name": "library_Typicons_isOpenSource",
+"value": "true"
+},
+{ "name": "library_Typicons_repositoryLink",
+"value": "https://github.com/stephenhutchings/typicons.font"
+},
+{ "name": "library_Typicons_year",
+"value": " "
+}
+]
+}

@@ -1,0 +1,565 @@
+{
+  "string": [
+    { "name": "define_mfb_font_mfglabs_iconset",
+      "value": "com.rilixtech.mfglabs_iconset_typeface.MFGLabsIconset"
+    },
+    { "name": "mfgi_icon_cloud",
+      "value": "mfgi_icon_cloud"
+    },
+    { "name": "mfgi_icon_at",
+      "value": "mfgi_icon_at"
+    },
+    { "name": "mfgi_icon_plus",
+      "value": "mfgi_icon_plus"
+    },
+    { "name": "mfgi_icon_minus",
+      "value": "mfgi_icon_minus"
+    },
+    { "name": "mfgi_icon_arrow_up",
+      "value": "mfgi_icon_arrow_up"
+    },
+    { "name": "mfgi_icon_arrow_down",
+      "value": "mfgi_icon_arrow_down"
+    },
+    { "name": "mfgi_icon_arrow_right",
+      "value": "mfgi_icon_arrow_right"
+    },
+    { "name": "mfgi_icon_arrow_left",
+      "value": "mfgi_icon_arrow_left"
+    },
+    { "name": "mfgi_icon_chevron_down",
+      "value": "mfgi_icon_chevron_down"
+    },
+    { "name": "mfgi_icon_chevron_up",
+      "value": "mfgi_icon_chevron_up"
+    },
+    { "name": "mfgi_icon_chevron_right",
+      "value": "mfgi_icon_chevron_right"
+    },
+    { "name": "mfgi_icon_chevron_left",
+      "value": "mfgi_icon_chevron_left"
+    },
+    { "name": "mfgi_icon_reorder",
+      "value": "mfgi_icon_reorder"
+    },
+    { "name": "mfgi_icon_list",
+      "value": "mfgi_icon_list"
+    },
+    { "name": "mfgi_icon_reorder_square",
+      "value": "mfgi_icon_reorder_square"
+    },
+    { "name": "mfgi_icon_reorder_square_line",
+      "value": "mfgi_icon_reorder_square_line"
+    },
+    { "name": "mfgi_icon_coverflow",
+      "value": "mfgi_icon_coverflow"
+    },
+    { "name": "mfgi_icon_coverflow_line",
+      "value": "mfgi_icon_coverflow_line"
+    },
+    { "name": "mfgi_icon_pause",
+      "value": "mfgi_icon_pause"
+    },
+    { "name": "mfgi_icon_play",
+      "value": "mfgi_icon_play"
+    },
+    { "name": "mfgi_icon_step_forward",
+      "value": "mfgi_icon_step_forward"
+    },
+    { "name": "mfgi_icon_step_backward",
+      "value": "mfgi_icon_step_backward"
+    },
+    { "name": "mfgi_icon_fast_forward",
+      "value": "mfgi_icon_fast_forward"
+    },
+    { "name": "mfgi_icon_fast_backward",
+      "value": "mfgi_icon_fast_backward"
+    },
+    { "name": "mfgi_icon_cloud_upload",
+      "value": "mfgi_icon_cloud_upload"
+    },
+    { "name": "mfgi_icon_cloud_download",
+      "value": "mfgi_icon_cloud_download"
+    },
+    { "name": "mfgi_icon_data_science",
+      "value": "mfgi_icon_data_science"
+    },
+    { "name": "mfgi_icon_data_science_black",
+      "value": "mfgi_icon_data_science_black"
+    },
+    { "name": "mfgi_icon_globe",
+      "value": "mfgi_icon_globe"
+    },
+    { "name": "mfgi_icon_globe_black",
+      "value": "mfgi_icon_globe_black"
+    },
+    { "name": "mfgi_icon_math_ico",
+      "value": "mfgi_icon_math_ico"
+    },
+    { "name": "mfgi_icon_math",
+      "value": "mfgi_icon_math"
+    },
+    { "name": "mfgi_icon_math_black",
+      "value": "mfgi_icon_math_black"
+    },
+    { "name": "mfgi_icon_paperplane_ico",
+      "value": "mfgi_icon_paperplane_ico"
+    },
+    { "name": "mfgi_icon_paperplane",
+      "value": "mfgi_icon_paperplane"
+    },
+    { "name": "mfgi_icon_paperplane_black",
+      "value": "mfgi_icon_paperplane_black"
+    },
+    { "name": "mfgi_icon_color_balance",
+      "value": "mfgi_icon_color_balance"
+    },
+    { "name": "mfgi_icon_star",
+      "value": "mfgi_icon_star"
+    },
+    { "name": "mfgi_icon_star_half",
+      "value": "mfgi_icon_star_half"
+    },
+    { "name": "mfgi_icon_star_empty",
+      "value": "mfgi_icon_star_empty"
+    },
+    { "name": "mfgi_icon_star_half_empty",
+      "value": "mfgi_icon_star_half_empty"
+    },
+    { "name": "mfgi_icon_reload",
+      "value": "mfgi_icon_reload"
+    },
+    { "name": "mfgi_icon_heart",
+      "value": "mfgi_icon_heart"
+    },
+    { "name": "mfgi_icon_heart_broken",
+      "value": "mfgi_icon_heart_broken"
+    },
+    { "name": "mfgi_icon_hashtag",
+      "value": "mfgi_icon_hashtag"
+    },
+    { "name": "mfgi_icon_reply",
+      "value": "mfgi_icon_reply"
+    },
+    { "name": "mfgi_icon_retweet",
+      "value": "mfgi_icon_retweet"
+    },
+    { "name": "mfgi_icon_signin",
+      "value": "mfgi_icon_signin"
+    },
+    { "name": "mfgi_icon_signout",
+      "value": "mfgi_icon_signout"
+    },
+    { "name": "mfgi_icon_download",
+      "value": "mfgi_icon_download"
+    },
+    { "name": "mfgi_icon_upload",
+      "value": "mfgi_icon_upload"
+    },
+    { "name": "mfgi_icon_placepin",
+      "value": "mfgi_icon_placepin"
+    },
+    { "name": "mfgi_icon_display_screen",
+      "value": "mfgi_icon_display_screen"
+    },
+    { "name": "mfgi_icon_tablet",
+      "value": "mfgi_icon_tablet"
+    },
+    { "name": "mfgi_icon_smartphone",
+      "value": "mfgi_icon_smartphone"
+    },
+    { "name": "mfgi_icon_connected_object",
+      "value": "mfgi_icon_connected_object"
+    },
+    { "name": "mfgi_icon_lock",
+      "value": "mfgi_icon_lock"
+    },
+    { "name": "mfgi_icon_unlock",
+      "value": "mfgi_icon_unlock"
+    },
+    { "name": "mfgi_icon_camera",
+      "value": "mfgi_icon_camera"
+    },
+    { "name": "mfgi_icon_isight",
+      "value": "mfgi_icon_isight"
+    },
+    { "name": "mfgi_icon_video_camera",
+      "value": "mfgi_icon_video_camera"
+    },
+    { "name": "mfgi_icon_random",
+      "value": "mfgi_icon_random"
+    },
+    { "name": "mfgi_icon_message",
+      "value": "mfgi_icon_message"
+    },
+    { "name": "mfgi_icon_discussion",
+      "value": "mfgi_icon_discussion"
+    },
+    { "name": "mfgi_icon_calendar",
+      "value": "mfgi_icon_calendar"
+    },
+    { "name": "mfgi_icon_ringbell",
+      "value": "mfgi_icon_ringbell"
+    },
+    { "name": "mfgi_icon_movie",
+      "value": "mfgi_icon_movie"
+    },
+    { "name": "mfgi_icon_mail",
+      "value": "mfgi_icon_mail"
+    },
+    { "name": "mfgi_icon_pen",
+      "value": "mfgi_icon_pen"
+    },
+    { "name": "mfgi_icon_settings",
+      "value": "mfgi_icon_settings"
+    },
+    { "name": "mfgi_icon_measure",
+      "value": "mfgi_icon_measure"
+    },
+    { "name": "mfgi_icon_vector",
+      "value": "mfgi_icon_vector"
+    },
+    { "name": "mfgi_icon_vector_pen",
+      "value": "mfgi_icon_vector_pen"
+    },
+    { "name": "mfgi_icon_mute_on",
+      "value": "mfgi_icon_mute_on"
+    },
+    { "name": "mfgi_icon_mute_off",
+      "value": "mfgi_icon_mute_off"
+    },
+    { "name": "mfgi_icon_home",
+      "value": "mfgi_icon_home"
+    },
+    { "name": "mfgi_icon_sheet",
+      "value": "mfgi_icon_sheet"
+    },
+    { "name": "mfgi_icon_arrow_big_right",
+      "value": "mfgi_icon_arrow_big_right"
+    },
+    { "name": "mfgi_icon_arrow_big_left",
+      "value": "mfgi_icon_arrow_big_left"
+    },
+    { "name": "mfgi_icon_arrow_big_down",
+      "value": "mfgi_icon_arrow_big_down"
+    },
+    { "name": "mfgi_icon_arrow_big_up",
+      "value": "mfgi_icon_arrow_big_up"
+    },
+    { "name": "mfgi_icon_dribbble_circle",
+      "value": "mfgi_icon_dribbble_circle"
+    },
+    { "name": "mfgi_icon_dribbble",
+      "value": "mfgi_icon_dribbble"
+    },
+    { "name": "mfgi_icon_facebook_circle",
+      "value": "mfgi_icon_facebook_circle"
+    },
+    { "name": "mfgi_icon_facebook",
+      "value": "mfgi_icon_facebook"
+    },
+    { "name": "mfgi_icon_git_circle_alt",
+      "value": "mfgi_icon_git_circle_alt"
+    },
+    { "name": "mfgi_icon_git_circle",
+      "value": "mfgi_icon_git_circle"
+    },
+    { "name": "mfgi_icon_git",
+      "value": "mfgi_icon_git"
+    },
+    { "name": "mfgi_icon_octopus",
+      "value": "mfgi_icon_octopus"
+    },
+    { "name": "mfgi_icon_twitter_circle",
+      "value": "mfgi_icon_twitter_circle"
+    },
+    { "name": "mfgi_icon_twitter",
+      "value": "mfgi_icon_twitter"
+    },
+    { "name": "mfgi_icon_google_plus_circle",
+      "value": "mfgi_icon_google_plus_circle"
+    },
+    { "name": "mfgi_icon_google_plus",
+      "value": "mfgi_icon_google_plus"
+    },
+    { "name": "mfgi_icon_linked_in_circle",
+      "value": "mfgi_icon_linked_in_circle"
+    },
+    { "name": "mfgi_icon_linked_in",
+      "value": "mfgi_icon_linked_in"
+    },
+    { "name": "mfgi_icon_instagram",
+      "value": "mfgi_icon_instagram"
+    },
+    { "name": "mfgi_icon_instagram_circle",
+      "value": "mfgi_icon_instagram_circle"
+    },
+    { "name": "mfgi_icon_mfg_icon",
+      "value": "mfgi_icon_mfg_icon"
+    },
+    { "name": "mfgi_icon_xing",
+      "value": "mfgi_icon_xing"
+    },
+    { "name": "mfgi_icon_xing_circle",
+      "value": "mfgi_icon_xing_circle"
+    },
+    { "name": "mfgi_icon_mfg_icon_circle",
+      "value": "mfgi_icon_mfg_icon_circle"
+    },
+    { "name": "mfgi_icon_user",
+      "value": "mfgi_icon_user"
+    },
+    { "name": "mfgi_icon_user_male",
+      "value": "mfgi_icon_user_male"
+    },
+    { "name": "mfgi_icon_user_female",
+      "value": "mfgi_icon_user_female"
+    },
+    { "name": "mfgi_icon_users",
+      "value": "mfgi_icon_users"
+    },
+    { "name": "mfgi_icon_file_open",
+      "value": "mfgi_icon_file_open"
+    },
+    { "name": "mfgi_icon_file_close",
+      "value": "mfgi_icon_file_close"
+    },
+    { "name": "mfgi_icon_file_alt",
+      "value": "mfgi_icon_file_alt"
+    },
+    { "name": "mfgi_icon_file_close_alt",
+      "value": "mfgi_icon_file_close_alt"
+    },
+    { "name": "mfgi_icon_attachment",
+      "value": "mfgi_icon_attachment"
+    },
+    { "name": "mfgi_icon_check",
+      "value": "mfgi_icon_check"
+    },
+    { "name": "mfgi_icon_cross_mark",
+      "value": "mfgi_icon_cross_mark"
+    },
+    { "name": "mfgi_icon_cancel_circle",
+      "value": "mfgi_icon_cancel_circle"
+    },
+    { "name": "mfgi_icon_check_circle",
+      "value": "mfgi_icon_check_circle"
+    },
+    { "name": "mfgi_icon_magnifying",
+      "value": "mfgi_icon_magnifying"
+    },
+    { "name": "mfgi_icon_inbox",
+      "value": "mfgi_icon_inbox"
+    },
+    { "name": "mfgi_icon_clock",
+      "value": "mfgi_icon_clock"
+    },
+    { "name": "mfgi_icon_stopwatch",
+      "value": "mfgi_icon_stopwatch"
+    },
+    { "name": "mfgi_icon_hourglass",
+      "value": "mfgi_icon_hourglass"
+    },
+    { "name": "mfgi_icon_trophy",
+      "value": "mfgi_icon_trophy"
+    },
+    { "name": "mfgi_icon_unlock_alt",
+      "value": "mfgi_icon_unlock_alt"
+    },
+    { "name": "mfgi_icon_lock_alt",
+      "value": "mfgi_icon_lock_alt"
+    },
+    { "name": "mfgi_icon_arrow_doubled_right",
+      "value": "mfgi_icon_arrow_doubled_right"
+    },
+    { "name": "mfgi_icon_arrow_doubled_left",
+      "value": "mfgi_icon_arrow_doubled_left"
+    },
+    { "name": "mfgi_icon_arrow_doubled_down",
+      "value": "mfgi_icon_arrow_doubled_down"
+    },
+    { "name": "mfgi_icon_arrow_doubled_up",
+      "value": "mfgi_icon_arrow_doubled_up"
+    },
+    { "name": "mfgi_icon_link",
+      "value": "mfgi_icon_link"
+    },
+    { "name": "mfgi_icon_warning",
+      "value": "mfgi_icon_warning"
+    },
+    { "name": "mfgi_icon_warning_alt",
+      "value": "mfgi_icon_warning_alt"
+    },
+    { "name": "mfgi_icon_magnifying_plus",
+      "value": "mfgi_icon_magnifying_plus"
+    },
+    { "name": "mfgi_icon_magnifying_minus",
+      "value": "mfgi_icon_magnifying_minus"
+    },
+    { "name": "mfgi_icon_white_question",
+      "value": "mfgi_icon_white_question"
+    },
+    { "name": "mfgi_icon_black_question",
+      "value": "mfgi_icon_black_question"
+    },
+    { "name": "mfgi_icon_stop",
+      "value": "mfgi_icon_stop"
+    },
+    { "name": "mfgi_icon_share",
+      "value": "mfgi_icon_share"
+    },
+    { "name": "mfgi_icon_eye",
+      "value": "mfgi_icon_eye"
+    },
+    { "name": "mfgi_icon_trash_can",
+      "value": "mfgi_icon_trash_can"
+    },
+    { "name": "mfgi_icon_hard_drive",
+      "value": "mfgi_icon_hard_drive"
+    },
+    { "name": "mfgi_icon_information_black",
+      "value": "mfgi_icon_information_black"
+    },
+    { "name": "mfgi_icon_information_white",
+      "value": "mfgi_icon_information_white"
+    },
+    { "name": "mfgi_icon_printer",
+      "value": "mfgi_icon_printer"
+    },
+    { "name": "mfgi_icon_letter",
+      "value": "mfgi_icon_letter"
+    },
+    { "name": "mfgi_icon_soundcloud",
+      "value": "mfgi_icon_soundcloud"
+    },
+    { "name": "mfgi_icon_soundcloud_circle",
+      "value": "mfgi_icon_soundcloud_circle"
+    },
+    { "name": "mfgi_icon_anchor",
+      "value": "mfgi_icon_anchor"
+    },
+    { "name": "mfgi_icon_female_sign",
+      "value": "mfgi_icon_female_sign"
+    },
+    { "name": "mfgi_icon_male_sign",
+      "value": "mfgi_icon_male_sign"
+    },
+    { "name": "mfgi_icon_joystick",
+      "value": "mfgi_icon_joystick"
+    },
+    { "name": "mfgi_icon_high_voltage",
+      "value": "mfgi_icon_high_voltage"
+    },
+    { "name": "mfgi_icon_fire",
+      "value": "mfgi_icon_fire"
+    },
+    { "name": "mfgi_icon_newspaper",
+      "value": "mfgi_icon_newspaper"
+    },
+    { "name": "mfgi_icon_chart",
+      "value": "mfgi_icon_chart"
+    },
+    { "name": "mfgi_icon_spread",
+      "value": "mfgi_icon_spread"
+    },
+    { "name": "mfgi_icon_spinner_1",
+      "value": "mfgi_icon_spinner_1"
+    },
+    { "name": "mfgi_icon_spinner_2",
+      "value": "mfgi_icon_spinner_2"
+    },
+    { "name": "mfgi_icon_chart_alt",
+      "value": "mfgi_icon_chart_alt"
+    },
+    { "name": "mfgi_icon_label",
+      "value": "mfgi_icon_label"
+    },
+    { "name": "mfgi_icon_brush",
+      "value": "mfgi_icon_brush"
+    },
+    { "name": "mfgi_icon_refresh",
+      "value": "mfgi_icon_refresh"
+    },
+    { "name": "mfgi_icon_node",
+      "value": "mfgi_icon_node"
+    },
+    { "name": "mfgi_icon_node_2",
+      "value": "mfgi_icon_node_2"
+    },
+    { "name": "mfgi_icon_node_3",
+      "value": "mfgi_icon_node_3"
+    },
+    { "name": "mfgi_icon_link_2_nodes",
+      "value": "mfgi_icon_link_2_nodes"
+    },
+    { "name": "mfgi_icon_link_3_nodes",
+      "value": "mfgi_icon_link_3_nodes"
+    },
+    { "name": "mfgi_icon_link_loop_nodes",
+      "value": "mfgi_icon_link_loop_nodes"
+    },
+    { "name": "mfgi_icon_node_size",
+      "value": "mfgi_icon_node_size"
+    },
+    { "name": "mfgi_icon_node_color",
+      "value": "mfgi_icon_node_color"
+    },
+    { "name": "mfgi_icon_layout_directed",
+      "value": "mfgi_icon_layout_directed"
+    },
+    { "name": "mfgi_icon_layout_radial",
+      "value": "mfgi_icon_layout_radial"
+    },
+    { "name": "mfgi_icon_layout_hierarchical",
+      "value": "mfgi_icon_layout_hierarchical"
+    },
+    { "name": "mfgi_icon_node_link_direction",
+      "value": "mfgi_icon_node_link_direction"
+    },
+    { "name": "mfgi_icon_node_link_short_path",
+      "value": "mfgi_icon_node_link_short_path"
+    },
+    { "name": "mfgi_icon_node_cluster",
+      "value": "mfgi_icon_node_cluster"
+    },
+    { "name": "mfgi_icon_display_graph",
+      "value": "mfgi_icon_display_graph"
+    },
+    { "name": "mfgi_icon_node_link_weight",
+      "value": "mfgi_icon_node_link_weight"
+    },
+    { "name": "mfgi_icon_more_node_links",
+      "value": "mfgi_icon_more_node_links"
+    },
+    { "name": "mfgi_icon_node_shape",
+      "value": "mfgi_icon_node_shape"
+    },
+    { "name": "mfgi_icon_node_icon",
+      "value": "mfgi_icon_node_icon"
+    },
+    { "name": "mfgi_icon_node_text",
+      "value": "mfgi_icon_node_text"
+    },
+    { "name": "mfgi_icon_node_link_text",
+      "value": "mfgi_icon_node_link_text"
+    },
+    { "name": "mfgi_icon_node_link_color",
+      "value": "mfgi_icon_node_link_color"
+    },
+    { "name": "mfgi_icon_node_link_shape",
+      "value": "mfgi_icon_node_link_shape"
+    },
+    { "name": "mfgi_icon_credit_card",
+      "value": "mfgi_icon_credit_card"
+    },
+    { "name": "mfgi_icon_disconnect",
+      "value": "mfgi_icon_disconnect"
+    },
+    { "name": "mfgi_icon_graph",
+      "value": "mfgi_icon_graph"
+    },
+    { "name": "mfgi_icon_new_user",
+      "value": "mfgi_icon_new_user"
+    }
+  ]
+}

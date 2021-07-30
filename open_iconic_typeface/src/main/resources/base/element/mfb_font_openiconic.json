@@ -1,0 +1,676 @@
+{
+ "string": [
+{ "name": "define_mfb_font_openiconic",
+"value": "com.rilixtech.open_iconic_typeface.OpenIconic"
+},
+{ "name": "opic_account_login",
+"value": "opic_account_login"
+},
+{ "name": "opic_account_logout",
+"value": "opic_account_logout"
+},
+{ "name": "opic_action_redo",
+"value": "opic_action_redo"
+},
+{ "name": "opic_action_undo",
+"value": "opic_action_undo"
+},
+{ "name": "opic_align_center",
+"value": "opic_align_center"
+},
+{ "name": "opic_align_left",
+"value": "opic_align_left"
+},
+{ "name": "opic_align_right",
+"value": "opic_align_right"
+},
+{ "name": "opic_aperture",
+"value": "opic_aperture"
+},
+{ "name": "opic_arrow_bottom",
+"value": "opic_arrow_bottom"
+},
+{ "name": "opic_arrow_circle_bottom",
+"value": "opic_arrow_circle_bottom"
+},
+{ "name": "opic_arrow_circle_left",
+"value": "opic_arrow_circle_left"
+},
+{ "name": "opic_arrow_circle_right",
+"value": "opic_arrow_circle_right"
+},
+{ "name": "opic_arrow_circle_top",
+"value": "opic_arrow_circle_top"
+},
+{ "name": "opic_arrow_left",
+"value": "opic_arrow_left"
+},
+{ "name": "opic_arrow_right",
+"value": "opic_arrow_right"
+},
+{ "name": "opic_arrow_thick_bottom",
+"value": "opic_arrow_thick_bottom"
+},
+{ "name": "opic_arrow_thick_left",
+"value": "opic_arrow_thick_left"
+},
+{ "name": "opic_arrow_thick_right",
+"value": "opic_arrow_thick_right"
+},
+{ "name": "opic_arrow_thick_top",
+"value": "opic_arrow_thick_top"
+},
+{ "name": "opic_arrow_top",
+"value": "opic_arrow_top"
+},
+{ "name": "opic_audio_spectrum",
+"value": "opic_audio_spectrum"
+},
+{ "name": "opic_audio",
+"value": "opic_audio"
+},
+{ "name": "opic_badge",
+"value": "opic_badge"
+},
+{ "name": "opic_ban",
+"value": "opic_ban"
+},
+{ "name": "opic_bar_chart",
+"value": "opic_bar_chart"
+},
+{ "name": "opic_basket",
+"value": "opic_basket"
+},
+{ "name": "opic_battery_empty",
+"value": "opic_battery_empty"
+},
+{ "name": "opic_battery_full",
+"value": "opic_battery_full"
+},
+{ "name": "opic_beaker",
+"value": "opic_beaker"
+},
+{ "name": "opic_bell",
+"value": "opic_bell"
+},
+{ "name": "opic_bluetooth",
+"value": "opic_bluetooth"
+},
+{ "name": "opic_bold",
+"value": "opic_bold"
+},
+{ "name": "opic_bolt",
+"value": "opic_bolt"
+},
+{ "name": "opic_book",
+"value": "opic_book"
+},
+{ "name": "opic_bookmark",
+"value": "opic_bookmark"
+},
+{ "name": "opic_box",
+"value": "opic_box"
+},
+{ "name": "opic_briefcase",
+"value": "opic_briefcase"
+},
+{ "name": "opic_british_pound",
+"value": "opic_british_pound"
+},
+{ "name": "opic_browser",
+"value": "opic_browser"
+},
+{ "name": "opic_brush",
+"value": "opic_brush"
+},
+{ "name": "opic_bug",
+"value": "opic_bug"
+},
+{ "name": "opic_bullhorn",
+"value": "opic_bullhorn"
+},
+{ "name": "opic_calculator",
+"value": "opic_calculator"
+},
+{ "name": "opic_calendar",
+"value": "opic_calendar"
+},
+{ "name": "opic_camera_slr",
+"value": "opic_camera_slr"
+},
+{ "name": "opic_caret_bottom",
+"value": "opic_caret_bottom"
+},
+{ "name": "opic_caret_left",
+"value": "opic_caret_left"
+},
+{ "name": "opic_caret_right",
+"value": "opic_caret_right"
+},
+{ "name": "opic_caret_top",
+"value": "opic_caret_top"
+},
+{ "name": "opic_cart",
+"value": "opic_cart"
+},
+{ "name": "opic_chat",
+"value": "opic_chat"
+},
+{ "name": "opic_check",
+"value": "opic_check"
+},
+{ "name": "opic_chevron_bottom",
+"value": "opic_chevron_bottom"
+},
+{ "name": "opic_chevron_left",
+"value": "opic_chevron_left"
+},
+{ "name": "opic_chevron_right",
+"value": "opic_chevron_right"
+},
+{ "name": "opic_chevron_top",
+"value": "opic_chevron_top"
+},
+{ "name": "opic_circle_check",
+"value": "opic_circle_check"
+},
+{ "name": "opic_circle_x",
+"value": "opic_circle_x"
+},
+{ "name": "opic_clipboard",
+"value": "opic_clipboard"
+},
+{ "name": "opic_clock",
+"value": "opic_clock"
+},
+{ "name": "opic_cloud_download",
+"value": "opic_cloud_download"
+},
+{ "name": "opic_cloud_upload",
+"value": "opic_cloud_upload"
+},
+{ "name": "opic_cloud",
+"value": "opic_cloud"
+},
+{ "name": "opic_cloudy",
+"value": "opic_cloudy"
+},
+{ "name": "opic_code",
+"value": "opic_code"
+},
+{ "name": "opic_cog",
+"value": "opic_cog"
+},
+{ "name": "opic_collapse_down",
+"value": "opic_collapse_down"
+},
+{ "name": "opic_collapse_left",
+"value": "opic_collapse_left"
+},
+{ "name": "opic_collapse_right",
+"value": "opic_collapse_right"
+},
+{ "name": "opic_collapse_up",
+"value": "opic_collapse_up"
+},
+{ "name": "opic_command",
+"value": "opic_command"
+},
+{ "name": "opic_comment_square",
+"value": "opic_comment_square"
+},
+{ "name": "opic_compass",
+"value": "opic_compass"
+},
+{ "name": "opic_contrast",
+"value": "opic_contrast"
+},
+{ "name": "opic_copywriting",
+"value": "opic_copywriting"
+},
+{ "name": "opic_credit_card",
+"value": "opic_credit_card"
+},
+{ "name": "opic_crop",
+"value": "opic_crop"
+},
+{ "name": "opic_dashboard",
+"value": "opic_dashboard"
+},
+{ "name": "opic_data_transfer_download",
+"value": "opic_data_transfer_download"
+},
+{ "name": "opic_data_transfer_upload",
+"value": "opic_data_transfer_upload"
+},
+{ "name": "opic_delete",
+"value": "opic_delete"
+},
+{ "name": "opic_dial",
+"value": "opic_dial"
+},
+{ "name": "opic_document",
+"value": "opic_document"
+},
+{ "name": "opic_dollar",
+"value": "opic_dollar"
+},
+{ "name": "opic_double_quote_sans_left",
+"value": "opic_double_quote_sans_left"
+},
+{ "name": "opic_double_quote_sans_right",
+"value": "opic_double_quote_sans_right"
+},
+{ "name": "opic_double_quote_serif_left",
+"value": "opic_double_quote_serif_left"
+},
+{ "name": "opic_double_quote_serif_right",
+"value": "opic_double_quote_serif_right"
+},
+{ "name": "opic_droplet",
+"value": "opic_droplet"
+},
+{ "name": "opic_eject",
+"value": "opic_eject"
+},
+{ "name": "opic_elevator",
+"value": "opic_elevator"
+},
+{ "name": "opic_ellipses",
+"value": "opic_ellipses"
+},
+{ "name": "opic_envelope_closed",
+"value": "opic_envelope_closed"
+},
+{ "name": "opic_envelope_open",
+"value": "opic_envelope_open"
+},
+{ "name": "opic_euro",
+"value": "opic_euro"
+},
+{ "name": "opic_excerpt",
+"value": "opic_excerpt"
+},
+{ "name": "opic_expand_down",
+"value": "opic_expand_down"
+},
+{ "name": "opic_expand_left",
+"value": "opic_expand_left"
+},
+{ "name": "opic_expand_right",
+"value": "opic_expand_right"
+},
+{ "name": "opic_expand_up",
+"value": "opic_expand_up"
+},
+{ "name": "opic_external_link",
+"value": "opic_external_link"
+},
+{ "name": "opic_eye",
+"value": "opic_eye"
+},
+{ "name": "opic_eyedropper",
+"value": "opic_eyedropper"
+},
+{ "name": "opic_file",
+"value": "opic_file"
+},
+{ "name": "opic_fire",
+"value": "opic_fire"
+},
+{ "name": "opic_flag",
+"value": "opic_flag"
+},
+{ "name": "opic_flash",
+"value": "opic_flash"
+},
+{ "name": "opic_folder",
+"value": "opic_folder"
+},
+{ "name": "opic_fork",
+"value": "opic_fork"
+},
+{ "name": "opic_fullscreen_enter",
+"value": "opic_fullscreen_enter"
+},
+{ "name": "opic_fullscreen_exit",
+"value": "opic_fullscreen_exit"
+},
+{ "name": "opic_globe",
+"value": "opic_globe"
+},
+{ "name": "opic_graph",
+"value": "opic_graph"
+},
+{ "name": "opic_grid_four_up",
+"value": "opic_grid_four_up"
+},
+{ "name": "opic_grid_three_up",
+"value": "opic_grid_three_up"
+},
+{ "name": "opic_grid_two_up",
+"value": "opic_grid_two_up"
+},
+{ "name": "opic_hard_drive",
+"value": "opic_hard_drive"
+},
+{ "name": "opic_header",
+"value": "opic_header"
+},
+{ "name": "opic_headphones",
+"value": "opic_headphones"
+},
+{ "name": "opic_heart",
+"value": "opic_heart"
+},
+{ "name": "opic_home",
+"value": "opic_home"
+},
+{ "name": "opic_image",
+"value": "opic_image"
+},
+{ "name": "opic_inbox",
+"value": "opic_inbox"
+},
+{ "name": "opic_infinity",
+"value": "opic_infinity"
+},
+{ "name": "opic_info",
+"value": "opic_info"
+},
+{ "name": "opic_italic",
+"value": "opic_italic"
+},
+{ "name": "opic_justify_center",
+"value": "opic_justify_center"
+},
+{ "name": "opic_justify_left",
+"value": "opic_justify_left"
+},
+{ "name": "opic_justify_right",
+"value": "opic_justify_right"
+},
+{ "name": "opic_key",
+"value": "opic_key"
+},
+{ "name": "opic_laptop",
+"value": "opic_laptop"
+},
+{ "name": "opic_layers",
+"value": "opic_layers"
+},
+{ "name": "opic_lightbulb",
+"value": "opic_lightbulb"
+},
+{ "name": "opic_link_broken",
+"value": "opic_link_broken"
+},
+{ "name": "opic_link_intact",
+"value": "opic_link_intact"
+},
+{ "name": "opic_list_rich",
+"value": "opic_list_rich"
+},
+{ "name": "opic_list",
+"value": "opic_list"
+},
+{ "name": "opic_location",
+"value": "opic_location"
+},
+{ "name": "opic_lock_locked",
+"value": "opic_lock_locked"
+},
+{ "name": "opic_lock_unlocked",
+"value": "opic_lock_unlocked"
+},
+{ "name": "opic_loop_circular",
+"value": "opic_loop_circular"
+},
+{ "name": "opic_loop_square",
+"value": "opic_loop_square"
+},
+{ "name": "opic_loop",
+"value": "opic_loop"
+},
+{ "name": "opic_magnifying_glass",
+"value": "opic_magnifying_glass"
+},
+{ "name": "opic_map_marker",
+"value": "opic_map_marker"
+},
+{ "name": "opic_map",
+"value": "opic_map"
+},
+{ "name": "opic_media_pause",
+"value": "opic_media_pause"
+},
+{ "name": "opic_media_play",
+"value": "opic_media_play"
+},
+{ "name": "opic_media_record",
+"value": "opic_media_record"
+},
+{ "name": "opic_media_skip_backward",
+"value": "opic_media_skip_backward"
+},
+{ "name": "opic_media_skip_forward",
+"value": "opic_media_skip_forward"
+},
+{ "name": "opic_media_step_backward",
+"value": "opic_media_step_backward"
+},
+{ "name": "opic_media_step_forward",
+"value": "opic_media_step_forward"
+},
+{ "name": "opic_media_stop",
+"value": "opic_media_stop"
+},
+{ "name": "opic_medical_cross",
+"value": "opic_medical_cross"
+},
+{ "name": "opic_menu",
+"value": "opic_menu"
+},
+{ "name": "opic_microphone",
+"value": "opic_microphone"
+},
+{ "name": "opic_minus",
+"value": "opic_minus"
+},
+{ "name": "opic_monitor",
+"value": "opic_monitor"
+},
+{ "name": "opic_moon",
+"value": "opic_moon"
+},
+{ "name": "opic_move",
+"value": "opic_move"
+},
+{ "name": "opic_musical_note",
+"value": "opic_musical_note"
+},
+{ "name": "opic_paperclip",
+"value": "opic_paperclip"
+},
+{ "name": "opic_pencil",
+"value": "opic_pencil"
+},
+{ "name": "opic_people",
+"value": "opic_people"
+},
+{ "name": "opic_person",
+"value": "opic_person"
+},
+{ "name": "opic_phone",
+"value": "opic_phone"
+},
+{ "name": "opic_pie_chart",
+"value": "opic_pie_chart"
+},
+{ "name": "opic_pin",
+"value": "opic_pin"
+},
+{ "name": "opic_play_circle",
+"value": "opic_play_circle"
+},
+{ "name": "opic_plus",
+"value": "opic_plus"
+},
+{ "name": "opic_power_standby",
+"value": "opic_power_standby"
+},
+{ "name": "opic_print",
+"value": "opic_print"
+},
+{ "name": "opic_project",
+"value": "opic_project"
+},
+{ "name": "opic_pulse",
+"value": "opic_pulse"
+},
+{ "name": "opic_puzzle_piece",
+"value": "opic_puzzle_piece"
+},
+{ "name": "opic_question_mark",
+"value": "opic_question_mark"
+},
+{ "name": "opic_rain",
+"value": "opic_rain"
+},
+{ "name": "opic_random",
+"value": "opic_random"
+},
+{ "name": "opic_reload",
+"value": "opic_reload"
+},
+{ "name": "opic_resize_both",
+"value": "opic_resize_both"
+},
+{ "name": "opic_resize_height",
+"value": "opic_resize_height"
+},
+{ "name": "opic_resize_width",
+"value": "opic_resize_width"
+},
+{ "name": "opic_rss_alt",
+"value": "opic_rss_alt"
+},
+{ "name": "opic_rss",
+"value": "opic_rss"
+},
+{ "name": "opic_script",
+"value": "opic_script"
+},
+{ "name": "opic_share_boxed",
+"value": "opic_share_boxed"
+},
+{ "name": "opic_share",
+"value": "opic_share"
+},
+{ "name": "opic_shield",
+"value": "opic_shield"
+},
+{ "name": "opic_signal",
+"value": "opic_signal"
+},
+{ "name": "opic_signpost",
+"value": "opic_signpost"
+},
+{ "name": "opic_sort_ascending",
+"value": "opic_sort_ascending"
+},
+{ "name": "opic_sort_descending",
+"value": "opic_sort_descending"
+},
+{ "name": "opic_spreadsheet",
+"value": "opic_spreadsheet"
+},
+{ "name": "opic_star",
+"value": "opic_star"
+},
+{ "name": "opic_sun",
+"value": "opic_sun"
+},
+{ "name": "opic_tablet",
+"value": "opic_tablet"
+},
+{ "name": "opic_tag",
+"value": "opic_tag"
+},
+{ "name": "opic_tags",
+"value": "opic_tags"
+},
+{ "name": "opic_target",
+"value": "opic_target"
+},
+{ "name": "opic_task",
+"value": "opic_task"
+},
+{ "name": "opic_terminal",
+"value": "opic_terminal"
+},
+{ "name": "opic_text",
+"value": "opic_text"
+},
+{ "name": "opic_thumb_down",
+"value": "opic_thumb_down"
+},
+{ "name": "opic_thumb_up",
+"value": "opic_thumb_up"
+},
+{ "name": "opic_timer",
+"value": "opic_timer"
+},
+{ "name": "opic_transfer",
+"value": "opic_transfer"
+},
+{ "name": "opic_trash",
+"value": "opic_trash"
+},
+{ "name": "opic_underline",
+"value": "opic_underline"
+},
+{ "name": "opic_vertical_align_bottom",
+"value": "opic_vertical_align_bottom"
+},
+{ "name": "opic_vertical_align_center",
+"value": "opic_vertical_align_center"
+},
+{ "name": "opic_vertical_align_top",
+"value": "opic_vertical_align_top"
+},
+{ "name": "opic_video",
+"value": "opic_video"
+},
+{ "name": "opic_volume_high",
+"value": "opic_volume_high"
+},
+{ "name": "opic_volume_low",
+"value": "opic_volume_low"
+},
+{ "name": "opic_volume_off",
+"value": "opic_volume_off"
+},
+{ "name": "opic_warning",
+"value": "opic_warning"
+},
+{ "name": "opic_wifi",
+"value": "opic_wifi"
+},
+{ "name": "opic_wrench",
+"value": "opic_wrench"
+},
+{ "name": "opic_x",
+"value": "opic_x"
+},
+{ "name": "opic_yen",
+"value": "opic_yen"
+},
+{ "name": "opic_zoom_in",
+"value": "opic_zoom_in"
+},
+{ "name": "opic_zoom_out",
+"value": "opic_zoom_out"
+}
+]
+}

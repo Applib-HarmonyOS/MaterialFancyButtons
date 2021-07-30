@@ -1,0 +1,149 @@
+{
+  "string": [
+    { "name": "define_mfb_font_meteocons",
+      "value": "com.rilixtech.meteocons_typeface.Meteocons"
+    },
+    { "name": "meti_windy_rain_inv",
+      "value": "meti_windy_rain_inv"
+    },
+    { "name": "meti_snow_inv",
+      "value": "meti_snow_inv"
+    },
+    { "name": "meti_snow_heavy_inv",
+      "value": "meti_snow_heavy_inv"
+    },
+    { "name": "meti_hail_inv",
+      "value": "meti_hail_inv"
+    },
+    { "name": "meti_clouds_inv",
+      "value": "meti_clouds_inv"
+    },
+    { "name": "meti_clouds_flash_inv",
+      "value": "meti_clouds_flash_inv"
+    },
+    { "name": "meti_temperature",
+      "value": "meti_temperature"
+    },
+    { "name": "meti_compass",
+      "value": "meti_compass"
+    },
+    { "name": "meti_na",
+      "value": "meti_na"
+    },
+    { "name": "meti_celcius",
+      "value": "meti_celcius"
+    },
+    { "name": "meti_fahrenheit",
+      "value": "meti_fahrenheit"
+    },
+    { "name": "meti_clouds_flash_alt",
+      "value": "meti_clouds_flash_alt"
+    },
+    { "name": "meti_sun_inv",
+      "value": "meti_sun_inv"
+    },
+    { "name": "meti_moon_inv",
+      "value": "meti_moon_inv"
+    },
+    { "name": "meti_cloud_sun_inv",
+      "value": "meti_cloud_sun_inv"
+    },
+    { "name": "meti_cloud_moon_inv",
+      "value": "meti_cloud_moon_inv"
+    },
+    { "name": "meti_cloud_inv",
+      "value": "meti_cloud_inv"
+    },
+    { "name": "meti_cloud_flash_inv",
+      "value": "meti_cloud_flash_inv"
+    },
+    { "name": "meti_drizzle_inv",
+      "value": "meti_drizzle_inv"
+    },
+    { "name": "meti_rain_inv",
+      "value": "meti_rain_inv"
+    },
+    { "name": "meti_windy_inv",
+      "value": "meti_windy_inv"
+    },
+    { "name": "meti_sunrise",
+      "value": "meti_sunrise"
+    },
+    { "name": "meti_sun",
+      "value": "meti_sun"
+    },
+    { "name": "meti_moon",
+      "value": "meti_moon"
+    },
+    { "name": "meti_eclipse",
+      "value": "meti_eclipse"
+    },
+    { "name": "meti_mist",
+      "value": "meti_mist"
+    },
+    { "name": "meti_wind",
+      "value": "meti_wind"
+    },
+    { "name": "meti_snowflake",
+      "value": "meti_snowflake"
+    },
+    { "name": "meti_cloud_sun",
+      "value": "meti_cloud_sun"
+    },
+    { "name": "meti_cloud_moon",
+      "value": "meti_cloud_moon"
+    },
+    { "name": "meti_fog_sun",
+      "value": "meti_fog_sun"
+    },
+    { "name": "meti_fog_moon",
+      "value": "meti_fog_moon"
+    },
+    { "name": "meti_fog_cloud",
+      "value": "meti_fog_cloud"
+    },
+    { "name": "meti_fog",
+      "value": "meti_fog"
+    },
+    { "name": "meti_cloud",
+      "value": "meti_cloud"
+    },
+    { "name": "meti_cloud_flash",
+      "value": "meti_cloud_flash"
+    },
+    { "name": "meti_cloud_flash_alt",
+      "value": "meti_cloud_flash_alt"
+    },
+    { "name": "meti_drizzle",
+      "value": "meti_drizzle"
+    },
+    { "name": "meti_rain",
+      "value": "meti_rain"
+    },
+    { "name": "meti_windy",
+      "value": "meti_windy"
+    },
+    { "name": "meti_windy_rain",
+      "value": "meti_windy_rain"
+    },
+    { "name": "meti_snow",
+      "value": "meti_snow"
+    },
+    { "name": "meti_snow_alt",
+      "value": "meti_snow_alt"
+    },
+    { "name": "meti_snow_heavy",
+      "value": "meti_snow_heavy"
+    },
+    { "name": "meti_hail",
+      "value": "meti_hail"
+    },
+    { "name": "meti_clouds",
+      "value": "meti_clouds"
+    },
+    { "name": "meti_clouds_flash",
+      "value": "meti_clouds_flash"
+    }
+
+  ]
+}

@@ -1,0 +1,1777 @@
+{
+ "string": [
+{ "name": "define_mfb_font_weather_icons",
+"value": "com.rilixtech.weather_icons_typeface.WeatherIcons"
+},
+{ "name": "wici_day_sunny",
+"value": "wici_day_sunny"
+},
+{ "name": "wici_day_cloudy",
+"value": "wici_day_cloudy"
+},
+{ "name": "wici_day_cloudy_gusts",
+"value": "wici_day_cloudy_gusts"
+},
+{ "name": "wici_day_cloudy_windy",
+"value": "wici_day_cloudy_windy"
+},
+{ "name": "wici_day_fog",
+"value": "wici_day_fog"
+},
+{ "name": "wici_day_hail",
+"value": "wici_day_hail"
+},
+{ "name": "wici_day_haze",
+"value": "wici_day_haze"
+},
+{ "name": "wici_day_lightning",
+"value": "wici_day_lightning"
+},
+{ "name": "wici_day_rain",
+"value": "wici_day_rain"
+},
+{ "name": "wici_day_rain_mix",
+"value": "wici_day_rain_mix"
+},
+{ "name": "wici_day_rain_wind",
+"value": "wici_day_rain_wind"
+},
+{ "name": "wici_day_showers",
+"value": "wici_day_showers"
+},
+{ "name": "wici_day_sleet",
+"value": "wici_day_sleet"
+},
+{ "name": "wici_day_sleet_storm",
+"value": "wici_day_sleet_storm"
+},
+{ "name": "wici_day_snow",
+"value": "wici_day_snow"
+},
+{ "name": "wici_day_snow_thunderstorm",
+"value": "wici_day_snow_thunderstorm"
+},
+{ "name": "wici_day_snow_wind",
+"value": "wici_day_snow_wind"
+},
+{ "name": "wici_day_sprinkle",
+"value": "wici_day_sprinkle"
+},
+{ "name": "wici_day_storm_showers",
+"value": "wici_day_storm_showers"
+},
+{ "name": "wici_day_sunny_overcast",
+"value": "wici_day_sunny_overcast"
+},
+{ "name": "wici_day_thunderstorm",
+"value": "wici_day_thunderstorm"
+},
+{ "name": "wici_day_windy",
+"value": "wici_day_windy"
+},
+{ "name": "wici_solar_eclipse",
+"value": "wici_solar_eclipse"
+},
+{ "name": "wici_hot",
+"value": "wici_hot"
+},
+{ "name": "wici_day_cloudy_high",
+"value": "wici_day_cloudy_high"
+},
+{ "name": "wici_day_light_wind",
+"value": "wici_day_light_wind"
+},
+{ "name": "wici_night_clear",
+"value": "wici_night_clear"
+},
+{ "name": "wici_night_alt_cloudy",
+"value": "wici_night_alt_cloudy"
+},
+{ "name": "wici_night_alt_cloudy_gusts",
+"value": "wici_night_alt_cloudy_gusts"
+},
+{ "name": "wici_night_alt_cloudy_windy",
+"value": "wici_night_alt_cloudy_windy"
+},
+{ "name": "wici_night_alt_hail",
+"value": "wici_night_alt_hail"
+},
+{ "name": "wici_night_alt_lightning",
+"value": "wici_night_alt_lightning"
+},
+{ "name": "wici_night_alt_rain",
+"value": "wici_night_alt_rain"
+},
+{ "name": "wici_night_alt_rain_mix",
+"value": "wici_night_alt_rain_mix"
+},
+{ "name": "wici_night_alt_rain_wind",
+"value": "wici_night_alt_rain_wind"
+},
+{ "name": "wici_night_alt_showers",
+"value": "wici_night_alt_showers"
+},
+{ "name": "wici_night_alt_sleet",
+"value": "wici_night_alt_sleet"
+},
+{ "name": "wici_night_alt_sleet_storm",
+"value": "wici_night_alt_sleet_storm"
+},
+{ "name": "wici_night_alt_snow",
+"value": "wici_night_alt_snow"
+},
+{ "name": "wici_night_alt_snow_thunderstorm",
+"value": "wici_night_alt_snow_thunderstorm"
+},
+{ "name": "wici_night_alt_snow_wind",
+"value": "wici_night_alt_snow_wind"
+},
+{ "name": "wici_night_alt_sprinkle",
+"value": "wici_night_alt_sprinkle"
+},
+{ "name": "wici_night_alt_storm_showers",
+"value": "wici_night_alt_storm_showers"
+},
+{ "name": "wici_night_alt_thunderstorm",
+"value": "wici_night_alt_thunderstorm"
+},
+{ "name": "wici_night_cloudy",
+"value": "wici_night_cloudy"
+},
+{ "name": "wici_night_cloudy_gusts",
+"value": "wici_night_cloudy_gusts"
+},
+{ "name": "wici_night_cloudy_windy",
+"value": "wici_night_cloudy_windy"
+},
+{ "name": "wici_night_fog",
+"value": "wici_night_fog"
+},
+{ "name": "wici_night_hail",
+"value": "wici_night_hail"
+},
+{ "name": "wici_night_lightning",
+"value": "wici_night_lightning"
+},
+{ "name": "wici_night_partly_cloudy",
+"value": "wici_night_partly_cloudy"
+},
+{ "name": "wici_night_rain",
+"value": "wici_night_rain"
+},
+{ "name": "wici_night_rain_mix",
+"value": "wici_night_rain_mix"
+},
+{ "name": "wici_night_rain_wind",
+"value": "wici_night_rain_wind"
+},
+{ "name": "wici_night_showers",
+"value": "wici_night_showers"
+},
+{ "name": "wici_night_sleet",
+"value": "wici_night_sleet"
+},
+{ "name": "wici_night_sleet_storm",
+"value": "wici_night_sleet_storm"
+},
+{ "name": "wici_night_snow",
+"value": "wici_night_snow"
+},
+{ "name": "wici_night_snow_thunderstorm",
+"value": "wici_night_snow_thunderstorm"
+},
+{ "name": "wici_night_snow_wind",
+"value": "wici_night_snow_wind"
+},
+{ "name": "wici_night_sprinkle",
+"value": "wici_night_sprinkle"
+},
+{ "name": "wici_night_storm_showers",
+"value": "wici_night_storm_showers"
+},
+{ "name": "wici_night_thunderstorm",
+"value": "wici_night_thunderstorm"
+},
+{ "name": "wici_lunar_eclipse",
+"value": "wici_lunar_eclipse"
+},
+{ "name": "wici_stars",
+"value": "wici_stars"
+},
+{ "name": "wici_night_alt_cloudy_high",
+"value": "wici_night_alt_cloudy_high"
+},
+{ "name": "wici_night_cloudy_high",
+"value": "wici_night_cloudy_high"
+},
+{ "name": "wici_night_alt_partly_cloudy",
+"value": "wici_night_alt_partly_cloudy"
+},
+{ "name": "wici_cloud",
+"value": "wici_cloud"
+},
+{ "name": "wici_cloudy",
+"value": "wici_cloudy"
+},
+{ "name": "wici_cloudy_gusts",
+"value": "wici_cloudy_gusts"
+},
+{ "name": "wici_cloudy_windy",
+"value": "wici_cloudy_windy"
+},
+{ "name": "wici_fog",
+"value": "wici_fog"
+},
+{ "name": "wici_hail",
+"value": "wici_hail"
+},
+{ "name": "wici_rain",
+"value": "wici_rain"
+},
+{ "name": "wici_rain_mix",
+"value": "wici_rain_mix"
+},
+{ "name": "wici_rain_wind",
+"value": "wici_rain_wind"
+},
+{ "name": "wici_showers",
+"value": "wici_showers"
+},
+{ "name": "wici_sleet",
+"value": "wici_sleet"
+},
+{ "name": "wici_sprinkle",
+"value": "wici_sprinkle"
+},
+{ "name": "wici_storm_showers",
+"value": "wici_storm_showers"
+},
+{ "name": "wici_thunderstorm",
+"value": "wici_thunderstorm"
+},
+{ "name": "wici_snow_wind",
+"value": "wici_snow_wind"
+},
+{ "name": "wici_snow",
+"value": "wici_snow"
+},
+{ "name": "wici_smog",
+"value": "wici_smog"
+},
+{ "name": "wici_smoke",
+"value": "wici_smoke"
+},
+{ "name": "wici_lightning",
+"value": "wici_lightning"
+},
+{ "name": "wici_raindrops",
+"value": "wici_raindrops"
+},
+{ "name": "wici_raindrop",
+"value": "wici_raindrop"
+},
+{ "name": "wici_dust",
+"value": "wici_dust"
+},
+{ "name": "wici_snowflake_cold",
+"value": "wici_snowflake_cold"
+},
+{ "name": "wici_windy",
+"value": "wici_windy"
+},
+{ "name": "wici_strong_wind",
+"value": "wici_strong_wind"
+},
+{ "name": "wici_sandstorm",
+"value": "wici_sandstorm"
+},
+{ "name": "wici_earthquake",
+"value": "wici_earthquake"
+},
+{ "name": "wici_fire",
+"value": "wici_fire"
+},
+{ "name": "wici_flood",
+"value": "wici_flood"
+},
+{ "name": "wici_meteor",
+"value": "wici_meteor"
+},
+{ "name": "wici_tsunami",
+"value": "wici_tsunami"
+},
+{ "name": "wici_volcano",
+"value": "wici_volcano"
+},
+{ "name": "wici_hurricane",
+"value": "wici_hurricane"
+},
+{ "name": "wici_tornado",
+"value": "wici_tornado"
+},
+{ "name": "wici_small_craft_advisory",
+"value": "wici_small_craft_advisory"
+},
+{ "name": "wici_gale_warning",
+"value": "wici_gale_warning"
+},
+{ "name": "wici_storm_warning",
+"value": "wici_storm_warning"
+},
+{ "name": "wici_hurricane_warning",
+"value": "wici_hurricane_warning"
+},
+{ "name": "wici_wind_direction",
+"value": "wici_wind_direction"
+},
+{ "name": "wici_alien",
+"value": "wici_alien"
+},
+{ "name": "wici_celsius",
+"value": "wici_celsius"
+},
+{ "name": "wici_fahrenheit",
+"value": "wici_fahrenheit"
+},
+{ "name": "wici_degrees",
+"value": "wici_degrees"
+},
+{ "name": "wici_thermometer",
+"value": "wici_thermometer"
+},
+{ "name": "wici_thermometer_exterior",
+"value": "wici_thermometer_exterior"
+},
+{ "name": "wici_thermometer_internal",
+"value": "wici_thermometer_internal"
+},
+{ "name": "wici_cloud_down",
+"value": "wici_cloud_down"
+},
+{ "name": "wici_cloud_up",
+"value": "wici_cloud_up"
+},
+{ "name": "wici_cloud_refresh",
+"value": "wici_cloud_refresh"
+},
+{ "name": "wici_horizon",
+"value": "wici_horizon"
+},
+{ "name": "wici_horizon_alt",
+"value": "wici_horizon_alt"
+},
+{ "name": "wici_sunrise",
+"value": "wici_sunrise"
+},
+{ "name": "wici_sunset",
+"value": "wici_sunset"
+},
+{ "name": "wici_moonrise",
+"value": "wici_moonrise"
+},
+{ "name": "wici_moonset",
+"value": "wici_moonset"
+},
+{ "name": "wici_refresh",
+"value": "wici_refresh"
+},
+{ "name": "wici_refresh_alt",
+"value": "wici_refresh_alt"
+},
+{ "name": "wici_umbrella",
+"value": "wici_umbrella"
+},
+{ "name": "wici_barometer",
+"value": "wici_barometer"
+},
+{ "name": "wici_humidity",
+"value": "wici_humidity"
+},
+{ "name": "wici_na",
+"value": "wici_na"
+},
+{ "name": "wici_train",
+"value": "wici_train"
+},
+{ "name": "wici_moon_new",
+"value": "wici_moon_new"
+},
+{ "name": "wici_moon_waxing_crescenti_1",
+"value": "wici_moon_waxing_crescenti_1"
+},
+{ "name": "wici_moon_waxing_crescenti_2",
+"value": "wici_moon_waxing_crescenti_2"
+},
+{ "name": "wici_moon_waxing_crescenti_3",
+"value": "wici_moon_waxing_crescenti_3"
+},
+{ "name": "wici_moon_waxing_crescenti_4",
+"value": "wici_moon_waxing_crescenti_4"
+},
+{ "name": "wici_moon_waxing_crescenti_5",
+"value": "wici_moon_waxing_crescenti_5"
+},
+{ "name": "wici_moon_waxing_crescenti_6",
+"value": "wici_moon_waxing_crescenti_6"
+},
+{ "name": "wici_moon_first_quarter",
+"value": "wici_moon_first_quarter"
+},
+{ "name": "wici_moon_waxing_gibbous_1",
+"value": "wici_moon_waxing_gibbous_1"
+},
+{ "name": "wici_moon_waxing_gibbous_2",
+"value": "wici_moon_waxing_gibbous_2"
+},
+{ "name": "wici_moon_waxing_gibbous_3",
+"value": "wici_moon_waxing_gibbous_3"
+},
+{ "name": "wici_moon_waxing_gibbous_4",
+"value": "wici_moon_waxing_gibbous_4"
+},
+{ "name": "wici_moon_waxing_gibbous_5",
+"value": "wici_moon_waxing_gibbous_5"
+},
+{ "name": "wici_moon_waxing_gibbous_6",
+"value": "wici_moon_waxing_gibbous_6"
+},
+{ "name": "wici_moon_full",
+"value": "wici_moon_full"
+},
+{ "name": "wici_moon_waning_gibbous_1",
+"value": "wici_moon_waning_gibbous_1"
+},
+{ "name": "wici_moon_waning_gibbous_2",
+"value": "wici_moon_waning_gibbous_2"
+},
+{ "name": "wici_moon_waning_gibbous_3",
+"value": "wici_moon_waning_gibbous_3"
+},
+{ "name": "wici_moon_waning_gibbous_4",
+"value": "wici_moon_waning_gibbous_4"
+},
+{ "name": "wici_moon_waning_gibbous_5",
+"value": "wici_moon_waning_gibbous_5"
+},
+{ "name": "wici_moon_waning_gibbous_6",
+"value": "wici_moon_waning_gibbous_6"
+},
+{ "name": "wici_moon_third_quarter",
+"value": "wici_moon_third_quarter"
+},
+{ "name": "wici_moon_waning_crescenti_1",
+"value": "wici_moon_waning_crescenti_1"
+},
+{ "name": "wici_moon_waning_crescenti_2",
+"value": "wici_moon_waning_crescenti_2"
+},
+{ "name": "wici_moon_waning_crescenti_3",
+"value": "wici_moon_waning_crescenti_3"
+},
+{ "name": "wici_moon_waning_crescenti_4",
+"value": "wici_moon_waning_crescenti_4"
+},
+{ "name": "wici_moon_waning_crescenti_5",
+"value": "wici_moon_waning_crescenti_5"
+},
+{ "name": "wici_moon_waning_crescenti_6",
+"value": "wici_moon_waning_crescenti_6"
+},
+{ "name": "wici_moon_alt_new",
+"value": "wici_moon_alt_new"
+},
+{ "name": "wici_moon_alt_waxing_crescenti_1",
+"value": "wici_moon_alt_waxing_crescenti_1"
+},
+{ "name": "wici_moon_alt_waxing_crescenti_2",
+"value": "wici_moon_alt_waxing_crescenti_2"
+},
+{ "name": "wici_moon_alt_waxing_crescenti_3",
+"value": "wici_moon_alt_waxing_crescenti_3"
+},
+{ "name": "wici_moon_alt_waxing_crescenti_4",
+"value": "wici_moon_alt_waxing_crescenti_4"
+},
+{ "name": "wici_moon_alt_waxing_crescenti_5",
+"value": "wici_moon_alt_waxing_crescenti_5"
+},
+{ "name": "wici_moon_alt_waxing_crescenti_6",
+"value": "wici_moon_alt_waxing_crescenti_6"
+},
+{ "name": "wici_moon_alt_first_quarter",
+"value": "wici_moon_alt_first_quarter"
+},
+{ "name": "wici_moon_alt_waxing_gibbous_1",
+"value": "wici_moon_alt_waxing_gibbous_1"
+},
+{ "name": "wici_moon_alt_waxing_gibbous_2",
+"value": "wici_moon_alt_waxing_gibbous_2"
+},
+{ "name": "wici_moon_alt_waxing_gibbous_3",
+"value": "wici_moon_alt_waxing_gibbous_3"
+},
+{ "name": "wici_moon_alt_waxing_gibbous_4",
+"value": "wici_moon_alt_waxing_gibbous_4"
+},
+{ "name": "wici_moon_alt_waxing_gibbous_5",
+"value": "wici_moon_alt_waxing_gibbous_5"
+},
+{ "name": "wici_moon_alt_waxing_gibbous_6",
+"value": "wici_moon_alt_waxing_gibbous_6"
+},
+{ "name": "wici_moon_alt_full",
+"value": "wici_moon_alt_full"
+},
+{ "name": "wici_moon_alt_waning_gibbous_1",
+"value": "wici_moon_alt_waning_gibbous_1"
+},
+{ "name": "wici_moon_alt_waning_gibbous_2",
+"value": "wici_moon_alt_waning_gibbous_2"
+},
+{ "name": "wici_moon_alt_waning_gibbous_3",
+"value": "wici_moon_alt_waning_gibbous_3"
+},
+{ "name": "wici_moon_alt_waning_gibbous_4",
+"value": "wici_moon_alt_waning_gibbous_4"
+},
+{ "name": "wici_moon_alt_waning_gibbous_5",
+"value": "wici_moon_alt_waning_gibbous_5"
+},
+{ "name": "wici_moon_alt_waning_gibbous_6",
+"value": "wici_moon_alt_waning_gibbous_6"
+},
+{ "name": "wici_moon_alt_third_quarter",
+"value": "wici_moon_alt_third_quarter"
+},
+{ "name": "wici_moon_alt_waning_crescenti_1",
+"value": "wici_moon_alt_waning_crescenti_1"
+},
+{ "name": "wici_moon_alt_waning_crescenti_2",
+"value": "wici_moon_alt_waning_crescenti_2"
+},
+{ "name": "wici_moon_alt_waning_crescenti_3",
+"value": "wici_moon_alt_waning_crescenti_3"
+},
+{ "name": "wici_moon_alt_waning_crescenti_4",
+"value": "wici_moon_alt_waning_crescenti_4"
+},
+{ "name": "wici_moon_alt_waning_crescenti_5",
+"value": "wici_moon_alt_waning_crescenti_5"
+},
+{ "name": "wici_moon_alt_waning_crescenti_6",
+"value": "wici_moon_alt_waning_crescenti_6"
+},
+{ "name": "wici_moon_0",
+"value": "wici_moon_0"
+},
+{ "name": "wici_moon_1",
+"value": "wici_moon_1"
+},
+{ "name": "wici_moon_2",
+"value": "wici_moon_2"
+},
+{ "name": "wici_moon_3",
+"value": "wici_moon_3"
+},
+{ "name": "wici_moon_4",
+"value": "wici_moon_4"
+},
+{ "name": "wici_moon_5",
+"value": "wici_moon_5"
+},
+{ "name": "wici_moon_6",
+"value": "wici_moon_6"
+},
+{ "name": "wici_moon_7",
+"value": "wici_moon_7"
+},
+{ "name": "wici_moon_8",
+"value": "wici_moon_8"
+},
+{ "name": "wici_moon_9",
+"value": "wici_moon_9"
+},
+{ "name": "wici_moon_10",
+"value": "wici_moon_10"
+},
+{ "name": "wici_moon_11",
+"value": "wici_moon_11"
+},
+{ "name": "wici_moon_12",
+"value": "wici_moon_12"
+},
+{ "name": "wici_moon_13",
+"value": "wici_moon_13"
+},
+{ "name": "wici_moon_14",
+"value": "wici_moon_14"
+},
+{ "name": "wici_moon_15",
+"value": "wici_moon_15"
+},
+{ "name": "wici_moon_16",
+"value": "wici_moon_16"
+},
+{ "name": "wici_moon_17",
+"value": "wici_moon_17"
+},
+{ "name": "wici_moon_18",
+"value": "wici_moon_18"
+},
+{ "name": "wici_moon_19",
+"value": "wici_moon_19"
+},
+{ "name": "wici_moon_20",
+"value": "wici_moon_20"
+},
+{ "name": "wici_moon_21",
+"value": "wici_moon_21"
+},
+{ "name": "wici_moon_22",
+"value": "wici_moon_22"
+},
+{ "name": "wici_moon_23",
+"value": "wici_moon_23"
+},
+{ "name": "wici_moon_24",
+"value": "wici_moon_24"
+},
+{ "name": "wici_moon_25",
+"value": "wici_moon_25"
+},
+{ "name": "wici_moon_26",
+"value": "wici_moon_26"
+},
+{ "name": "wici_moon_27",
+"value": "wici_moon_27"
+},
+{ "name": "wici_time_1",
+"value": "wici_time_1"
+},
+{ "name": "wici_time_2",
+"value": "wici_time_2"
+},
+{ "name": "wici_time_3",
+"value": "wici_time_3"
+},
+{ "name": "wici_time_4",
+"value": "wici_time_4"
+},
+{ "name": "wici_time_5",
+"value": "wici_time_5"
+},
+{ "name": "wici_time_6",
+"value": "wici_time_6"
+},
+{ "name": "wici_time_7",
+"value": "wici_time_7"
+},
+{ "name": "wici_time_8",
+"value": "wici_time_8"
+},
+{ "name": "wici_time_9",
+"value": "wici_time_9"
+},
+{ "name": "wici_time_10",
+"value": "wici_time_10"
+},
+{ "name": "wici_time_11",
+"value": "wici_time_11"
+},
+{ "name": "wici_time_12",
+"value": "wici_time_12"
+},
+{ "name": "wici_direction_up",
+"value": "wici_direction_up"
+},
+{ "name": "wici_direction_up_right",
+"value": "wici_direction_up_right"
+},
+{ "name": "wici_direction_right",
+"value": "wici_direction_right"
+},
+{ "name": "wici_direction_down_right",
+"value": "wici_direction_down_right"
+},
+{ "name": "wici_direction_down",
+"value": "wici_direction_down"
+},
+{ "name": "wici_direction_down_left",
+"value": "wici_direction_down_left"
+},
+{ "name": "wici_direction_left",
+"value": "wici_direction_left"
+},
+{ "name": "wici_direction_up_left",
+"value": "wici_direction_up_left"
+},
+{ "name": "wici_wind_beaufort_0",
+"value": "wici_wind_beaufort_0"
+},
+{ "name": "wici_wind_beaufort_1",
+"value": "wici_wind_beaufort_1"
+},
+{ "name": "wici_wind_beaufort_2",
+"value": "wici_wind_beaufort_2"
+},
+{ "name": "wici_wind_beaufort_3",
+"value": "wici_wind_beaufort_3"
+},
+{ "name": "wici_wind_beaufort_4",
+"value": "wici_wind_beaufort_4"
+},
+{ "name": "wici_wind_beaufort_5",
+"value": "wici_wind_beaufort_5"
+},
+{ "name": "wici_wind_beaufort_6",
+"value": "wici_wind_beaufort_6"
+},
+{ "name": "wici_wind_beaufort_7",
+"value": "wici_wind_beaufort_7"
+},
+{ "name": "wici_wind_beaufort_8",
+"value": "wici_wind_beaufort_8"
+},
+{ "name": "wici_wind_beaufort_9",
+"value": "wici_wind_beaufort_9"
+},
+{ "name": "wici_wind_beaufort_10",
+"value": "wici_wind_beaufort_10"
+},
+{ "name": "wici_wind_beaufort_11",
+"value": "wici_wind_beaufort_11"
+},
+{ "name": "wici_wind_beaufort_12",
+"value": "wici_wind_beaufort_12"
+},
+{ "name": "wici_yahoo_0",
+"value": "wici_yahoo_0"
+},
+{ "name": "wici_yahoo_1",
+"value": "wici_yahoo_1"
+},
+{ "name": "wici_yahoo_2",
+"value": "wici_yahoo_2"
+},
+{ "name": "wici_yahoo_3",
+"value": "wici_yahoo_3"
+},
+{ "name": "wici_yahoo_4",
+"value": "wici_yahoo_4"
+},
+{ "name": "wici_yahoo_5",
+"value": "wici_yahoo_5"
+},
+{ "name": "wici_yahoo_6",
+"value": "wici_yahoo_6"
+},
+{ "name": "wici_yahoo_7",
+"value": "wici_yahoo_7"
+},
+{ "name": "wici_yahoo_8",
+"value": "wici_yahoo_8"
+},
+{ "name": "wici_yahoo_9",
+"value": "wici_yahoo_9"
+},
+{ "name": "wici_yahoo_10",
+"value": "wici_yahoo_10"
+},
+{ "name": "wici_yahoo_11",
+"value": "wici_yahoo_11"
+},
+{ "name": "wici_yahoo_12",
+"value": "wici_yahoo_12"
+},
+{ "name": "wici_yahoo_13",
+"value": "wici_yahoo_13"
+},
+{ "name": "wici_yahoo_14",
+"value": "wici_yahoo_14"
+},
+{ "name": "wici_yahoo_15",
+"value": "wici_yahoo_15"
+},
+{ "name": "wici_yahoo_16",
+"value": "wici_yahoo_16"
+},
+{ "name": "wici_yahoo_17",
+"value": "wici_yahoo_17"
+},
+{ "name": "wici_yahoo_18",
+"value": "wici_yahoo_18"
+},
+{ "name": "wici_yahoo_19",
+"value": "wici_yahoo_19"
+},
+{ "name": "wici_yahoo_20",
+"value": "wici_yahoo_20"
+},
+{ "name": "wici_yahoo_21",
+"value": "wici_yahoo_21"
+},
+{ "name": "wici_yahoo_22",
+"value": "wici_yahoo_22"
+},
+{ "name": "wici_yahoo_23",
+"value": "wici_yahoo_23"
+},
+{ "name": "wici_yahoo_24",
+"value": "wici_yahoo_24"
+},
+{ "name": "wici_yahoo_25",
+"value": "wici_yahoo_25"
+},
+{ "name": "wici_yahoo_26",
+"value": "wici_yahoo_26"
+},
+{ "name": "wici_yahoo_27",
+"value": "wici_yahoo_27"
+},
+{ "name": "wici_yahoo_28",
+"value": "wici_yahoo_28"
+},
+{ "name": "wici_yahoo_29",
+"value": "wici_yahoo_29"
+},
+{ "name": "wici_yahoo_30",
+"value": "wici_yahoo_30"
+},
+{ "name": "wici_yahoo_31",
+"value": "wici_yahoo_31"
+},
+{ "name": "wici_yahoo_32",
+"value": "wici_yahoo_32"
+},
+{ "name": "wici_yahoo_33",
+"value": "wici_yahoo_33"
+},
+{ "name": "wici_yahoo_34",
+"value": "wici_yahoo_34"
+},
+{ "name": "wici_yahoo_35",
+"value": "wici_yahoo_35"
+},
+{ "name": "wici_yahoo_36",
+"value": "wici_yahoo_36"
+},
+{ "name": "wici_yahoo_37",
+"value": "wici_yahoo_37"
+},
+{ "name": "wici_yahoo_38",
+"value": "wici_yahoo_38"
+},
+{ "name": "wici_yahoo_39",
+"value": "wici_yahoo_39"
+},
+{ "name": "wici_yahoo_40",
+"value": "wici_yahoo_40"
+},
+{ "name": "wici_yahoo_41",
+"value": "wici_yahoo_41"
+},
+{ "name": "wici_yahoo_42",
+"value": "wici_yahoo_42"
+},
+{ "name": "wici_yahoo_43",
+"value": "wici_yahoo_43"
+},
+{ "name": "wici_yahoo_44",
+"value": "wici_yahoo_44"
+},
+{ "name": "wici_yahoo_45",
+"value": "wici_yahoo_45"
+},
+{ "name": "wici_yahoo_46",
+"value": "wici_yahoo_46"
+},
+{ "name": "wici_yahoo_47",
+"value": "wici_yahoo_47"
+},
+{ "name": "wici_yahoo_3200",
+"value": "wici_yahoo_3200"
+},
+{ "name": "wici_forecast_io_clear_day",
+"value": "wici_forecast_io_clear_day"
+},
+{ "name": "wici_forecast_io_clear_night",
+"value": "wici_forecast_io_clear_night"
+},
+{ "name": "wici_forecast_io_rain",
+"value": "wici_forecast_io_rain"
+},
+{ "name": "wici_forecast_io_snow",
+"value": "wici_forecast_io_snow"
+},
+{ "name": "wici_forecast_io_sleet",
+"value": "wici_forecast_io_sleet"
+},
+{ "name": "wici_forecast_io_wind",
+"value": "wici_forecast_io_wind"
+},
+{ "name": "wici_forecast_io_fog",
+"value": "wici_forecast_io_fog"
+},
+{ "name": "wici_forecast_io_cloudy",
+"value": "wici_forecast_io_cloudy"
+},
+{ "name": "wici_forecast_io_partly_cloudy_day",
+"value": "wici_forecast_io_partly_cloudy_day"
+},
+{ "name": "wici_forecast_io_partly_cloudy_night",
+"value": "wici_forecast_io_partly_cloudy_night"
+},
+{ "name": "wici_forecast_io_hail",
+"value": "wici_forecast_io_hail"
+},
+{ "name": "wici_forecast_io_thunderstorm",
+"value": "wici_forecast_io_thunderstorm"
+},
+{ "name": "wici_forecast_io_tornado",
+"value": "wici_forecast_io_tornado"
+},
+{ "name": "wici_wmo4680_0",
+"value": "wici_wmo4680_0"
+},
+{ "name": "wici_wmo4680_00",
+"value": "wici_wmo4680_00"
+},
+{ "name": "wici_wmo4680_1",
+"value": "wici_wmo4680_1"
+},
+{ "name": "wici_wmo4680_01",
+"value": "wici_wmo4680_01"
+},
+{ "name": "wici_wmo4680_2",
+"value": "wici_wmo4680_2"
+},
+{ "name": "wici_wmo4680_02",
+"value": "wici_wmo4680_02"
+},
+{ "name": "wici_wmo4680_3",
+"value": "wici_wmo4680_3"
+},
+{ "name": "wici_wmo4680_03",
+"value": "wici_wmo4680_03"
+},
+{ "name": "wici_wmo4680_4",
+"value": "wici_wmo4680_4"
+},
+{ "name": "wici_wmo4680_04",
+"value": "wici_wmo4680_04"
+},
+{ "name": "wici_wmo4680_5",
+"value": "wici_wmo4680_5"
+},
+{ "name": "wici_wmo4680_05",
+"value": "wici_wmo4680_05"
+},
+{ "name": "wici_wmo4680_10",
+"value": "wici_wmo4680_10"
+},
+{ "name": "wici_wmo4680_11",
+"value": "wici_wmo4680_11"
+},
+{ "name": "wici_wmo4680_12",
+"value": "wici_wmo4680_12"
+},
+{ "name": "wici_wmo4680_18",
+"value": "wici_wmo4680_18"
+},
+{ "name": "wici_wmo4680_20",
+"value": "wici_wmo4680_20"
+},
+{ "name": "wici_wmo4680_21",
+"value": "wici_wmo4680_21"
+},
+{ "name": "wici_wmo4680_22",
+"value": "wici_wmo4680_22"
+},
+{ "name": "wici_wmo4680_23",
+"value": "wici_wmo4680_23"
+},
+{ "name": "wici_wmo4680_24",
+"value": "wici_wmo4680_24"
+},
+{ "name": "wici_wmo4680_25",
+"value": "wici_wmo4680_25"
+},
+{ "name": "wici_wmo4680_26",
+"value": "wici_wmo4680_26"
+},
+{ "name": "wici_wmo4680_27",
+"value": "wici_wmo4680_27"
+},
+{ "name": "wici_wmo4680_28",
+"value": "wici_wmo4680_28"
+},
+{ "name": "wici_wmo4680_29",
+"value": "wici_wmo4680_29"
+},
+{ "name": "wici_wmo4680_30",
+"value": "wici_wmo4680_30"
+},
+{ "name": "wici_wmo4680_31",
+"value": "wici_wmo4680_31"
+},
+{ "name": "wici_wmo4680_32",
+"value": "wici_wmo4680_32"
+},
+{ "name": "wici_wmo4680_33",
+"value": "wici_wmo4680_33"
+},
+{ "name": "wici_wmo4680_34",
+"value": "wici_wmo4680_34"
+},
+{ "name": "wici_wmo4680_35",
+"value": "wici_wmo4680_35"
+},
+{ "name": "wici_wmo4680_40",
+"value": "wici_wmo4680_40"
+},
+{ "name": "wici_wmo4680_41",
+"value": "wici_wmo4680_41"
+},
+{ "name": "wici_wmo4680_42",
+"value": "wici_wmo4680_42"
+},
+{ "name": "wici_wmo4680_43",
+"value": "wici_wmo4680_43"
+},
+{ "name": "wici_wmo4680_44",
+"value": "wici_wmo4680_44"
+},
+{ "name": "wici_wmo4680_45",
+"value": "wici_wmo4680_45"
+},
+{ "name": "wici_wmo4680_46",
+"value": "wici_wmo4680_46"
+},
+{ "name": "wici_wmo4680_47",
+"value": "wici_wmo4680_47"
+},
+{ "name": "wici_wmo4680_48",
+"value": "wici_wmo4680_48"
+},
+{ "name": "wici_wmo4680_50",
+"value": "wici_wmo4680_50"
+},
+{ "name": "wici_wmo4680_51",
+"value": "wici_wmo4680_51"
+},
+{ "name": "wici_wmo4680_52",
+"value": "wici_wmo4680_52"
+},
+{ "name": "wici_wmo4680_53",
+"value": "wici_wmo4680_53"
+},
+{ "name": "wici_wmo4680_54",
+"value": "wici_wmo4680_54"
+},
+{ "name": "wici_wmo4680_55",
+"value": "wici_wmo4680_55"
+},
+{ "name": "wici_wmo4680_56",
+"value": "wici_wmo4680_56"
+},
+{ "name": "wici_wmo4680_57",
+"value": "wici_wmo4680_57"
+},
+{ "name": "wici_wmo4680_58",
+"value": "wici_wmo4680_58"
+},
+{ "name": "wici_wmo4680_60",
+"value": "wici_wmo4680_60"
+},
+{ "name": "wici_wmo4680_61",
+"value": "wici_wmo4680_61"
+},
+{ "name": "wici_wmo4680_62",
+"value": "wici_wmo4680_62"
+},
+{ "name": "wici_wmo4680_63",
+"value": "wici_wmo4680_63"
+},
+{ "name": "wici_wmo4680_64",
+"value": "wici_wmo4680_64"
+},
+{ "name": "wici_wmo4680_65",
+"value": "wici_wmo4680_65"
+},
+{ "name": "wici_wmo4680_66",
+"value": "wici_wmo4680_66"
+},
+{ "name": "wici_wmo4680_67",
+"value": "wici_wmo4680_67"
+},
+{ "name": "wici_wmo4680_68",
+"value": "wici_wmo4680_68"
+},
+{ "name": "wici_wmo4680_70",
+"value": "wici_wmo4680_70"
+},
+{ "name": "wici_wmo4680_71",
+"value": "wici_wmo4680_71"
+},
+{ "name": "wici_wmo4680_72",
+"value": "wici_wmo4680_72"
+},
+{ "name": "wici_wmo4680_73",
+"value": "wici_wmo4680_73"
+},
+{ "name": "wici_wmo4680_74",
+"value": "wici_wmo4680_74"
+},
+{ "name": "wici_wmo4680_75",
+"value": "wici_wmo4680_75"
+},
+{ "name": "wici_wmo4680_76",
+"value": "wici_wmo4680_76"
+},
+{ "name": "wici_wmo4680_77",
+"value": "wici_wmo4680_77"
+},
+{ "name": "wici_wmo4680_78",
+"value": "wici_wmo4680_78"
+},
+{ "name": "wici_wmo4680_80",
+"value": "wici_wmo4680_80"
+},
+{ "name": "wici_wmo4680_81",
+"value": "wici_wmo4680_81"
+},
+{ "name": "wici_wmo4680_82",
+"value": "wici_wmo4680_82"
+},
+{ "name": "wici_wmo4680_83",
+"value": "wici_wmo4680_83"
+},
+{ "name": "wici_wmo4680_84",
+"value": "wici_wmo4680_84"
+},
+{ "name": "wici_wmo4680_85",
+"value": "wici_wmo4680_85"
+},
+{ "name": "wici_wmo4680_86",
+"value": "wici_wmo4680_86"
+},
+{ "name": "wici_wmo4680_87",
+"value": "wici_wmo4680_87"
+},
+{ "name": "wici_wmo4680_89",
+"value": "wici_wmo4680_89"
+},
+{ "name": "wici_wmo4680_90",
+"value": "wici_wmo4680_90"
+},
+{ "name": "wici_wmo4680_91",
+"value": "wici_wmo4680_91"
+},
+{ "name": "wici_wmo4680_92",
+"value": "wici_wmo4680_92"
+},
+{ "name": "wici_wmo4680_93",
+"value": "wici_wmo4680_93"
+},
+{ "name": "wici_wmo4680_94",
+"value": "wici_wmo4680_94"
+},
+{ "name": "wici_wmo4680_95",
+"value": "wici_wmo4680_95"
+},
+{ "name": "wici_wmo4680_96",
+"value": "wici_wmo4680_96"
+},
+{ "name": "wici_wmo4680_99",
+"value": "wici_wmo4680_99"
+},
+{ "name": "wici_owm_200",
+"value": "wici_owm_200"
+},
+{ "name": "wici_owm_201",
+"value": "wici_owm_201"
+},
+{ "name": "wici_owm_202",
+"value": "wici_owm_202"
+},
+{ "name": "wici_owm_210",
+"value": "wici_owm_210"
+},
+{ "name": "wici_owm_211",
+"value": "wici_owm_211"
+},
+{ "name": "wici_owm_212",
+"value": "wici_owm_212"
+},
+{ "name": "wici_owm_221",
+"value": "wici_owm_221"
+},
+{ "name": "wici_owm_230",
+"value": "wici_owm_230"
+},
+{ "name": "wici_owm_231",
+"value": "wici_owm_231"
+},
+{ "name": "wici_owm_232",
+"value": "wici_owm_232"
+},
+{ "name": "wici_owm_300",
+"value": "wici_owm_300"
+},
+{ "name": "wici_owm_301",
+"value": "wici_owm_301"
+},
+{ "name": "wici_owm_302",
+"value": "wici_owm_302"
+},
+{ "name": "wici_owm_310",
+"value": "wici_owm_310"
+},
+{ "name": "wici_owm_311",
+"value": "wici_owm_311"
+},
+{ "name": "wici_owm_312",
+"value": "wici_owm_312"
+},
+{ "name": "wici_owm_313",
+"value": "wici_owm_313"
+},
+{ "name": "wici_owm_314",
+"value": "wici_owm_314"
+},
+{ "name": "wici_owm_321",
+"value": "wici_owm_321"
+},
+{ "name": "wici_owm_500",
+"value": "wici_owm_500"
+},
+{ "name": "wici_owm_501",
+"value": "wici_owm_501"
+},
+{ "name": "wici_owm_502",
+"value": "wici_owm_502"
+},
+{ "name": "wici_owm_503",
+"value": "wici_owm_503"
+},
+{ "name": "wici_owm_504",
+"value": "wici_owm_504"
+},
+{ "name": "wici_owm_511",
+"value": "wici_owm_511"
+},
+{ "name": "wici_owm_520",
+"value": "wici_owm_520"
+},
+{ "name": "wici_owm_521",
+"value": "wici_owm_521"
+},
+{ "name": "wici_owm_522",
+"value": "wici_owm_522"
+},
+{ "name": "wici_owm_531",
+"value": "wici_owm_531"
+},
+{ "name": "wici_owm_600",
+"value": "wici_owm_600"
+},
+{ "name": "wici_owm_601",
+"value": "wici_owm_601"
+},
+{ "name": "wici_owm_602",
+"value": "wici_owm_602"
+},
+{ "name": "wici_owm_611",
+"value": "wici_owm_611"
+},
+{ "name": "wici_owm_612",
+"value": "wici_owm_612"
+},
+{ "name": "wici_owm_615",
+"value": "wici_owm_615"
+},
+{ "name": "wici_owm_616",
+"value": "wici_owm_616"
+},
+{ "name": "wici_owm_620",
+"value": "wici_owm_620"
+},
+{ "name": "wici_owm_621",
+"value": "wici_owm_621"
+},
+{ "name": "wici_owm_622",
+"value": "wici_owm_622"
+},
+{ "name": "wici_owm_701",
+"value": "wici_owm_701"
+},
+{ "name": "wici_owm_711",
+"value": "wici_owm_711"
+},
+{ "name": "wici_owm_721",
+"value": "wici_owm_721"
+},
+{ "name": "wici_owm_731",
+"value": "wici_owm_731"
+},
+{ "name": "wici_owm_741",
+"value": "wici_owm_741"
+},
+{ "name": "wici_owm_761",
+"value": "wici_owm_761"
+},
+{ "name": "wici_owm_762",
+"value": "wici_owm_762"
+},
+{ "name": "wici_owm_771",
+"value": "wici_owm_771"
+},
+{ "name": "wici_owm_781",
+"value": "wici_owm_781"
+},
+{ "name": "wici_owm_800",
+"value": "wici_owm_800"
+},
+{ "name": "wici_owm_801",
+"value": "wici_owm_801"
+},
+{ "name": "wici_owm_802",
+"value": "wici_owm_802"
+},
+{ "name": "wici_owm_803",
+"value": "wici_owm_803"
+},
+{ "name": "wici_owm_804",
+"value": "wici_owm_804"
+},
+{ "name": "wici_owm_900",
+"value": "wici_owm_900"
+},
+{ "name": "wici_owm_901",
+"value": "wici_owm_901"
+},
+{ "name": "wici_owm_902",
+"value": "wici_owm_902"
+},
+{ "name": "wici_owm_903",
+"value": "wici_owm_903"
+},
+{ "name": "wici_owm_904",
+"value": "wici_owm_904"
+},
+{ "name": "wici_owm_905",
+"value": "wici_owm_905"
+},
+{ "name": "wici_owm_906",
+"value": "wici_owm_906"
+},
+{ "name": "wici_owm_957",
+"value": "wici_owm_957"
+},
+{ "name": "wici_owm_day_200",
+"value": "wici_owm_day_200"
+},
+{ "name": "wici_owm_day_201",
+"value": "wici_owm_day_201"
+},
+{ "name": "wici_owm_day_202",
+"value": "wici_owm_day_202"
+},
+{ "name": "wici_owm_day_210",
+"value": "wici_owm_day_210"
+},
+{ "name": "wici_owm_day_211",
+"value": "wici_owm_day_211"
+},
+{ "name": "wici_owm_day_212",
+"value": "wici_owm_day_212"
+},
+{ "name": "wici_owm_day_221",
+"value": "wici_owm_day_221"
+},
+{ "name": "wici_owm_day_230",
+"value": "wici_owm_day_230"
+},
+{ "name": "wici_owm_day_231",
+"value": "wici_owm_day_231"
+},
+{ "name": "wici_owm_day_232",
+"value": "wici_owm_day_232"
+},
+{ "name": "wici_owm_day_300",
+"value": "wici_owm_day_300"
+},
+{ "name": "wici_owm_day_301",
+"value": "wici_owm_day_301"
+},
+{ "name": "wici_owm_day_302",
+"value": "wici_owm_day_302"
+},
+{ "name": "wici_owm_day_310",
+"value": "wici_owm_day_310"
+},
+{ "name": "wici_owm_day_311",
+"value": "wici_owm_day_311"
+},
+{ "name": "wici_owm_day_312",
+"value": "wici_owm_day_312"
+},
+{ "name": "wici_owm_day_313",
+"value": "wici_owm_day_313"
+},
+{ "name": "wici_owm_day_314",
+"value": "wici_owm_day_314"
+},
+{ "name": "wici_owm_day_321",
+"value": "wici_owm_day_321"
+},
+{ "name": "wici_owm_day_500",
+"value": "wici_owm_day_500"
+},
+{ "name": "wici_owm_day_501",
+"value": "wici_owm_day_501"
+},
+{ "name": "wici_owm_day_502",
+"value": "wici_owm_day_502"
+},
+{ "name": "wici_owm_day_503",
+"value": "wici_owm_day_503"
+},
+{ "name": "wici_owm_day_504",
+"value": "wici_owm_day_504"
+},
+{ "name": "wici_owm_day_511",
+"value": "wici_owm_day_511"
+},
+{ "name": "wici_owm_day_520",
+"value": "wici_owm_day_520"
+},
+{ "name": "wici_owm_day_521",
+"value": "wici_owm_day_521"
+},
+{ "name": "wici_owm_day_522",
+"value": "wici_owm_day_522"
+},
+{ "name": "wici_owm_day_531",
+"value": "wici_owm_day_531"
+},
+{ "name": "wici_owm_day_600",
+"value": "wici_owm_day_600"
+},
+{ "name": "wici_owm_day_601",
+"value": "wici_owm_day_601"
+},
+{ "name": "wici_owm_day_602",
+"value": "wici_owm_day_602"
+},
+{ "name": "wici_owm_day_611",
+"value": "wici_owm_day_611"
+},
+{ "name": "wici_owm_day_612",
+"value": "wici_owm_day_612"
+},
+{ "name": "wici_owm_day_615",
+"value": "wici_owm_day_615"
+},
+{ "name": "wici_owm_day_616",
+"value": "wici_owm_day_616"
+},
+{ "name": "wici_owm_day_620",
+"value": "wici_owm_day_620"
+},
+{ "name": "wici_owm_day_621",
+"value": "wici_owm_day_621"
+},
+{ "name": "wici_owm_day_622",
+"value": "wici_owm_day_622"
+},
+{ "name": "wici_owm_day_701",
+"value": "wici_owm_day_701"
+},
+{ "name": "wici_owm_day_711",
+"value": "wici_owm_day_711"
+},
+{ "name": "wici_owm_day_721",
+"value": "wici_owm_day_721"
+},
+{ "name": "wici_owm_day_731",
+"value": "wici_owm_day_731"
+},
+{ "name": "wici_owm_day_741",
+"value": "wici_owm_day_741"
+},
+{ "name": "wici_owm_day_761",
+"value": "wici_owm_day_761"
+},
+{ "name": "wici_owm_day_762",
+"value": "wici_owm_day_762"
+},
+{ "name": "wici_owm_day_781",
+"value": "wici_owm_day_781"
+},
+{ "name": "wici_owm_day_800",
+"value": "wici_owm_day_800"
+},
+{ "name": "wici_owm_day_801",
+"value": "wici_owm_day_801"
+},
+{ "name": "wici_owm_day_802",
+"value": "wici_owm_day_802"
+},
+{ "name": "wici_owm_day_803",
+"value": "wici_owm_day_803"
+},
+{ "name": "wici_owm_day_804",
+"value": "wici_owm_day_804"
+},
+{ "name": "wici_owm_day_900",
+"value": "wici_owm_day_900"
+},
+{ "name": "wici_owm_day_902",
+"value": "wici_owm_day_902"
+},
+{ "name": "wici_owm_day_903",
+"value": "wici_owm_day_903"
+},
+{ "name": "wici_owm_day_904",
+"value": "wici_owm_day_904"
+},
+{ "name": "wici_owm_day_906",
+"value": "wici_owm_day_906"
+},
+{ "name": "wici_owm_day_957",
+"value": "wici_owm_day_957"
+},
+{ "name": "wici_owm_night_200",
+"value": "wici_owm_night_200"
+},
+{ "name": "wici_owm_night_201",
+"value": "wici_owm_night_201"
+},
+{ "name": "wici_owm_night_202",
+"value": "wici_owm_night_202"
+},
+{ "name": "wici_owm_night_210",
+"value": "wici_owm_night_210"
+},
+{ "name": "wici_owm_night_211",
+"value": "wici_owm_night_211"
+},
+{ "name": "wici_owm_night_212",
+"value": "wici_owm_night_212"
+},
+{ "name": "wici_owm_night_221",
+"value": "wici_owm_night_221"
+},
+{ "name": "wici_owm_night_230",
+"value": "wici_owm_night_230"
+},
+{ "name": "wici_owm_night_231",
+"value": "wici_owm_night_231"
+},
+{ "name": "wici_owm_night_232",
+"value": "wici_owm_night_232"
+},
+{ "name": "wici_owm_night_300",
+"value": "wici_owm_night_300"
+},
+{ "name": "wici_owm_night_301",
+"value": "wici_owm_night_301"
+},
+{ "name": "wici_owm_night_302",
+"value": "wici_owm_night_302"
+},
+{ "name": "wici_owm_night_310",
+"value": "wici_owm_night_310"
+},
+{ "name": "wici_owm_night_311",
+"value": "wici_owm_night_311"
+},
+{ "name": "wici_owm_night_312",
+"value": "wici_owm_night_312"
+},
+{ "name": "wici_owm_night_313",
+"value": "wici_owm_night_313"
+},
+{ "name": "wici_owm_night_314",
+"value": "wici_owm_night_314"
+},
+{ "name": "wici_owm_night_321",
+"value": "wici_owm_night_321"
+},
+{ "name": "wici_owm_night_500",
+"value": "wici_owm_night_500"
+},
+{ "name": "wici_owm_night_501",
+"value": "wici_owm_night_501"
+},
+{ "name": "wici_owm_night_502",
+"value": "wici_owm_night_502"
+},
+{ "name": "wici_owm_night_503",
+"value": "wici_owm_night_503"
+},
+{ "name": "wici_owm_night_504",
+"value": "wici_owm_night_504"
+},
+{ "name": "wici_owm_night_511",
+"value": "wici_owm_night_511"
+},
+{ "name": "wici_owm_night_520",
+"value": "wici_owm_night_520"
+},
+{ "name": "wici_owm_night_521",
+"value": "wici_owm_night_521"
+},
+{ "name": "wici_owm_night_522",
+"value": "wici_owm_night_522"
+},
+{ "name": "wici_owm_night_531",
+"value": "wici_owm_night_531"
+},
+{ "name": "wici_owm_night_600",
+"value": "wici_owm_night_600"
+},
+{ "name": "wici_owm_night_601",
+"value": "wici_owm_night_601"
+},
+{ "name": "wici_owm_night_602",
+"value": "wici_owm_night_602"
+},
+{ "name": "wici_owm_night_611",
+"value": "wici_owm_night_611"
+},
+{ "name": "wici_owm_night_612",
+"value": "wici_owm_night_612"
+},
+{ "name": "wici_owm_night_615",
+"value": "wici_owm_night_615"
+},
+{ "name": "wici_owm_night_616",
+"value": "wici_owm_night_616"
+},
+{ "name": "wici_owm_night_620",
+"value": "wici_owm_night_620"
+},
+{ "name": "wici_owm_night_621",
+"value": "wici_owm_night_621"
+},
+{ "name": "wici_owm_night_622",
+"value": "wici_owm_night_622"
+},
+{ "name": "wici_owm_night_701",
+"value": "wici_owm_night_701"
+},
+{ "name": "wici_owm_night_711",
+"value": "wici_owm_night_711"
+},
+{ "name": "wici_owm_night_721",
+"value": "wici_owm_night_721"
+},
+{ "name": "wici_owm_night_731",
+"value": "wici_owm_night_731"
+},
+{ "name": "wici_owm_night_741",
+"value": "wici_owm_night_741"
+},
+{ "name": "wici_owm_night_761",
+"value": "wici_owm_night_761"
+},
+{ "name": "wici_owm_night_762",
+"value": "wici_owm_night_762"
+},
+{ "name": "wici_owm_night_781",
+"value": "wici_owm_night_781"
+},
+{ "name": "wici_owm_night_800",
+"value": "wici_owm_night_800"
+},
+{ "name": "wici_owm_night_801",
+"value": "wici_owm_night_801"
+},
+{ "name": "wici_owm_night_802",
+"value": "wici_owm_night_802"
+},
+{ "name": "wici_owm_night_803",
+"value": "wici_owm_night_803"
+},
+{ "name": "wici_owm_night_804",
+"value": "wici_owm_night_804"
+},
+{ "name": "wici_owm_night_900",
+"value": "wici_owm_night_900"
+},
+{ "name": "wici_owm_night_902",
+"value": "wici_owm_night_902"
+},
+{ "name": "wici_owm_night_903",
+"value": "wici_owm_night_903"
+},
+{ "name": "wici_owm_night_904",
+"value": "wici_owm_night_904"
+},
+{ "name": "wici_owm_night_906",
+"value": "wici_owm_night_906"
+},
+{ "name": "wici_owm_night_957",
+"value": "wici_owm_night_957"
+},
+{ "name": "wici_wu_chanceflurries",
+"value": "wici_wu_chanceflurries"
+},
+{ "name": "wici_wu_chancerain",
+"value": "wici_wu_chancerain"
+},
+{ "name": "wici_wu_chancesleat",
+"value": "wici_wu_chancesleat"
+},
+{ "name": "wici_wu_chancesnow",
+"value": "wici_wu_chancesnow"
+},
+{ "name": "wici_wu_chancetstorms",
+"value": "wici_wu_chancetstorms"
+},
+{ "name": "wici_wu_clear",
+"value": "wici_wu_clear"
+},
+{ "name": "wici_wu_cloudy",
+"value": "wici_wu_cloudy"
+},
+{ "name": "wici_wu_flurries",
+"value": "wici_wu_flurries"
+},
+{ "name": "wici_wu_hazy",
+"value": "wici_wu_hazy"
+},
+{ "name": "wici_wu_mostlycloudy",
+"value": "wici_wu_mostlycloudy"
+},
+{ "name": "wici_wu_mostlysunny",
+"value": "wici_wu_mostlysunny"
+},
+{ "name": "wici_wu_partlycloudy",
+"value": "wici_wu_partlycloudy"
+},
+{ "name": "wici_wu_partlysunny",
+"value": "wici_wu_partlysunny"
+},
+{ "name": "wici_wu_rain",
+"value": "wici_wu_rain"
+},
+{ "name": "wici_wu_sleat",
+"value": "wici_wu_sleat"
+},
+{ "name": "wici_wu_snow",
+"value": "wici_wu_snow"
+},
+{ "name": "wici_wu_sunny",
+"value": "wici_wu_sunny"
+},
+{ "name": "wici_wu_tstorms",
+"value": "wici_wu_tstorms"
+},
+{ "name": "wici_wu_unknown",
+"value": "wici_wu_unknown"
+}
+]
+}

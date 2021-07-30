@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "define_license_meteocons_custom",
+      "value": ""
+    },
+    {
+      "name": "license_meteocons_custom_licenseName",
+      "value": "Meteocons Custom License"
+    },
+    {
+      "name": "license_meteocons_custom_licenseWebsite",
+      "value": "http://www.alessioatzeni.com/meteocons/"
+    },
+    {
+      "name": "license_meteocons_custom_licenseShortDescription",
+      "value": " <![CDATA[\n        Copyright (c) <<<AUTHOR>>> (<<<LIBRARYWEBSITE>>>),<br />\n        with Reserved Font Name \\\"<<<LIBRARYNAME>>>\\\".\n\t\t<br /><br />\n\t\tMeteocons are free for use in both personal and commercial projects.\n\t\tNo attribution or backlinks are required, but any form of spreading the word is always appreciated!\n\t\tYou must not resell any icons or distribute them in any other way.\n\t\tThe Icons as such are the property of the author.\n        ]]>"
+    },
+    {
+      "name": "license_meteocons_custom_licenseDescription",
+      "value": " <![CDATA[\n        Copyright (c) <<<AUTHOR>>> (<<<LIBRARYWEBSITE>>>),<br />\n        with Reserved Font Name \\\"<<<LIBRARYNAME>>>\\\".\n\t\t<br /><br />\n\t\tMeteocons are free for use in both personal and commercial projects.\n\t\tNo attribution or backlinks are required, but any form of spreading the word is always appreciated!\n\t\tYou must not resell any icons or distribute them in any other way.\n\t\tThe Icons as such are the property of the author.\n        ]]>"
+    }
+  ]
+}

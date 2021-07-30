@@ -1,0 +1,454 @@
+{
+ "string": [
+{ "name": "define_mfb_font_mobirise_icons",
+"value": "com.rilixtech.mobirise_icons_typeface.MobiriseIcons"
+},
+{ "name": "mbri_add_submenu",
+"value": "mbri_add_submenu"
+},
+{ "name": "mbri_alert",
+"value": "mbri_alert"
+},
+{ "name": "mbri_align_center",
+"value": "mbri_align_center"
+},
+{ "name": "mbri_align_justify",
+"value": "mbri_align_justify"
+},
+{ "name": "mbri_align_left",
+"value": "mbri_align_left"
+},
+{ "name": "mbri_align_right",
+"value": "mbri_align_right"
+},
+{ "name": "mbri_apple",
+"value": "mbri_apple"
+},
+{ "name": "mbri_arrow_down",
+"value": "mbri_arrow_down"
+},
+{ "name": "mbri_arrow_next",
+"value": "mbri_arrow_next"
+},
+{ "name": "mbri_arrow_prev",
+"value": "mbri_arrow_prev"
+},
+{ "name": "mbri_arrow_up",
+"value": "mbri_arrow_up"
+},
+{ "name": "mbri_bold",
+"value": "mbri_bold"
+},
+{ "name": "mbri_bookmark",
+"value": "mbri_bookmark"
+},
+{ "name": "mbri_bootstrap",
+"value": "mbri_bootstrap"
+},
+{ "name": "mbri_briefcase",
+"value": "mbri_briefcase"
+},
+{ "name": "mbri_browse",
+"value": "mbri_browse"
+},
+{ "name": "mbri_bulleted_list",
+"value": "mbri_bulleted_list"
+},
+{ "name": "mbri_calendar",
+"value": "mbri_calendar"
+},
+{ "name": "mbri_camera",
+"value": "mbri_camera"
+},
+{ "name": "mbri_cart_add",
+"value": "mbri_cart_add"
+},
+{ "name": "mbri_cart_full",
+"value": "mbri_cart_full"
+},
+{ "name": "mbri_cash",
+"value": "mbri_cash"
+},
+{ "name": "mbri_change_style",
+"value": "mbri_change_style"
+},
+{ "name": "mbri_chat",
+"value": "mbri_chat"
+},
+{ "name": "mbri_clock",
+"value": "mbri_clock"
+},
+{ "name": "mbri_close",
+"value": "mbri_close"
+},
+{ "name": "mbri_cloud",
+"value": "mbri_cloud"
+},
+{ "name": "mbri_code",
+"value": "mbri_code"
+},
+{ "name": "mbri_contact_form",
+"value": "mbri_contact_form"
+},
+{ "name": "mbri_credit_card",
+"value": "mbri_credit_card"
+},
+{ "name": "mbri_cursor_click",
+"value": "mbri_cursor_click"
+},
+{ "name": "mbri_cust_feedback",
+"value": "mbri_cust_feedback"
+},
+{ "name": "mbri_database",
+"value": "mbri_database"
+},
+{ "name": "mbri_delivery",
+"value": "mbri_delivery"
+},
+{ "name": "mbri_desktop",
+"value": "mbri_desktop"
+},
+{ "name": "mbri_devices",
+"value": "mbri_devices"
+},
+{ "name": "mbri_down",
+"value": "mbri_down"
+},
+{ "name": "mbri_download",
+"value": "mbri_download"
+},
+{ "name": "mbri_drag_n_drop",
+"value": "mbri_drag_n_drop"
+},
+{ "name": "mbri_drag_n_drop2",
+"value": "mbri_drag_n_drop2"
+},
+{ "name": "mbri_edit",
+"value": "mbri_edit"
+},
+{ "name": "mbri_edit2",
+"value": "mbri_edit2"
+},
+{ "name": "mbri_error",
+"value": "mbri_error"
+},
+{ "name": "mbri_extension",
+"value": "mbri_extension"
+},
+{ "name": "mbri_features",
+"value": "mbri_features"
+},
+{ "name": "mbri_file",
+"value": "mbri_file"
+},
+{ "name": "mbri_flag",
+"value": "mbri_flag"
+},
+{ "name": "mbri_folder",
+"value": "mbri_folder"
+},
+{ "name": "mbri_gift",
+"value": "mbri_gift"
+},
+{ "name": "mbri_github",
+"value": "mbri_github"
+},
+{ "name": "mbri_globe_2",
+"value": "mbri_globe_2"
+},
+{ "name": "mbri_globe",
+"value": "mbri_globe"
+},
+{ "name": "mbri_growing_chart",
+"value": "mbri_growing_chart"
+},
+{ "name": "mbri_hearth",
+"value": "mbri_hearth"
+},
+{ "name": "mbri_help",
+"value": "mbri_help"
+},
+{ "name": "mbri_home",
+"value": "mbri_home"
+},
+{ "name": "mbri_hot_cup",
+"value": "mbri_hot_cup"
+},
+{ "name": "mbri_idea",
+"value": "mbri_idea"
+},
+{ "name": "mbri_image_gallery",
+"value": "mbri_image_gallery"
+},
+{ "name": "mbri_image_slider",
+"value": "mbri_image_slider"
+},
+{ "name": "mbri_info",
+"value": "mbri_info"
+},
+{ "name": "mbri_italic",
+"value": "mbri_italic"
+},
+{ "name": "mbri_key",
+"value": "mbri_key"
+},
+{ "name": "mbri_laptop",
+"value": "mbri_laptop"
+},
+{ "name": "mbri_layers",
+"value": "mbri_layers"
+},
+{ "name": "mbri_left_right",
+"value": "mbri_left_right"
+},
+{ "name": "mbri_left",
+"value": "mbri_left"
+},
+{ "name": "mbri_letter",
+"value": "mbri_letter"
+},
+{ "name": "mbri_like",
+"value": "mbri_like"
+},
+{ "name": "mbri_link",
+"value": "mbri_link"
+},
+{ "name": "mbri_lock",
+"value": "mbri_lock"
+},
+{ "name": "mbri_login",
+"value": "mbri_login"
+},
+{ "name": "mbri_logout",
+"value": "mbri_logout"
+},
+{ "name": "mbri_magic_stick",
+"value": "mbri_magic_stick"
+},
+{ "name": "mbri_map_pin",
+"value": "mbri_map_pin"
+},
+{ "name": "mbri_menu",
+"value": "mbri_menu"
+},
+{ "name": "mbri_mobile",
+"value": "mbri_mobile"
+},
+{ "name": "mbri_mobile2",
+"value": "mbri_mobile2"
+},
+{ "name": "mbri_mobirise",
+"value": "mbri_mobirise"
+},
+{ "name": "mbri_more_horizontal",
+"value": "mbri_more_horizontal"
+},
+{ "name": "mbri_more_vertical",
+"value": "mbri_more_vertical"
+},
+{ "name": "mbri_music",
+"value": "mbri_music"
+},
+{ "name": "mbri_new_file",
+"value": "mbri_new_file"
+},
+{ "name": "mbri_numbered_list",
+"value": "mbri_numbered_list"
+},
+{ "name": "mbri_opened_folder",
+"value": "mbri_opened_folder"
+},
+{ "name": "mbri_pages",
+"value": "mbri_pages"
+},
+{ "name": "mbri_paper_plane",
+"value": "mbri_paper_plane"
+},
+{ "name": "mbri_paperclip",
+"value": "mbri_paperclip"
+},
+{ "name": "mbri_photo",
+"value": "mbri_photo"
+},
+{ "name": "mbri_photos",
+"value": "mbri_photos"
+},
+{ "name": "mbri_pin",
+"value": "mbri_pin"
+},
+{ "name": "mbri_play",
+"value": "mbri_play"
+},
+{ "name": "mbri_plus",
+"value": "mbri_plus"
+},
+{ "name": "mbri_preview",
+"value": "mbri_preview"
+},
+{ "name": "mbri_print",
+"value": "mbri_print"
+},
+{ "name": "mbri_protect",
+"value": "mbri_protect"
+},
+{ "name": "mbri_question",
+"value": "mbri_question"
+},
+{ "name": "mbri_quote_left",
+"value": "mbri_quote_left"
+},
+{ "name": "mbri_quote_right",
+"value": "mbri_quote_right"
+},
+{ "name": "mbri_redo",
+"value": "mbri_redo"
+},
+{ "name": "mbri_refresh",
+"value": "mbri_refresh"
+},
+{ "name": "mbri_responsive",
+"value": "mbri_responsive"
+},
+{ "name": "mbri_right",
+"value": "mbri_right"
+},
+{ "name": "mbri_rocket",
+"value": "mbri_rocket"
+},
+{ "name": "mbri_sad_face",
+"value": "mbri_sad_face"
+},
+{ "name": "mbri_sale",
+"value": "mbri_sale"
+},
+{ "name": "mbri_save",
+"value": "mbri_save"
+},
+{ "name": "mbri_search",
+"value": "mbri_search"
+},
+{ "name": "mbri_setting",
+"value": "mbri_setting"
+},
+{ "name": "mbri_setting2",
+"value": "mbri_setting2"
+},
+{ "name": "mbri_setting3",
+"value": "mbri_setting3"
+},
+{ "name": "mbri_share",
+"value": "mbri_share"
+},
+{ "name": "mbri_shopping_bag",
+"value": "mbri_shopping_bag"
+},
+{ "name": "mbri_shopping_basket",
+"value": "mbri_shopping_basket"
+},
+{ "name": "mbri_shopping_cart",
+"value": "mbri_shopping_cart"
+},
+{ "name": "mbri_sites",
+"value": "mbri_sites"
+},
+{ "name": "mbri_smile_face",
+"value": "mbri_smile_face"
+},
+{ "name": "mbri_speed",
+"value": "mbri_speed"
+},
+{ "name": "mbri_star",
+"value": "mbri_star"
+},
+{ "name": "mbri_success",
+"value": "mbri_success"
+},
+{ "name": "mbri_sun",
+"value": "mbri_sun"
+},
+{ "name": "mbri_sun2",
+"value": "mbri_sun2"
+},
+{ "name": "mbri_tablet_vertical",
+"value": "mbri_tablet_vertical"
+},
+{ "name": "mbri_tablet",
+"value": "mbri_tablet"
+},
+{ "name": "mbri_target",
+"value": "mbri_target"
+},
+{ "name": "mbri_timer",
+"value": "mbri_timer"
+},
+{ "name": "mbri_to_ftp",
+"value": "mbri_to_ftp"
+},
+{ "name": "mbri_to_local_drive",
+"value": "mbri_to_local_drive"
+},
+{ "name": "mbri_touch_swipe",
+"value": "mbri_touch_swipe"
+},
+{ "name": "mbri_touch",
+"value": "mbri_touch"
+},
+{ "name": "mbri_trash",
+"value": "mbri_trash"
+},
+{ "name": "mbri_underline",
+"value": "mbri_underline"
+},
+{ "name": "mbri_undo",
+"value": "mbri_undo"
+},
+{ "name": "mbri_unlink",
+"value": "mbri_unlink"
+},
+{ "name": "mbri_unlock",
+"value": "mbri_unlock"
+},
+{ "name": "mbri_up_down",
+"value": "mbri_up_down"
+},
+{ "name": "mbri_up",
+"value": "mbri_up"
+},
+{ "name": "mbri_update",
+"value": "mbri_update"
+},
+{ "name": "mbri_upload",
+"value": "mbri_upload"
+},
+{ "name": "mbri_user",
+"value": "mbri_user"
+},
+{ "name": "mbri_user2",
+"value": "mbri_user2"
+},
+{ "name": "mbri_users",
+"value": "mbri_users"
+},
+{ "name": "mbri_video_play",
+"value": "mbri_video_play"
+},
+{ "name": "mbri_video",
+"value": "mbri_video"
+},
+{ "name": "mbri_watch",
+"value": "mbri_watch"
+},
+{ "name": "mbri_website_theme",
+"value": "mbri_website_theme"
+},
+{ "name": "mbri_wifi",
+"value": "mbri_wifi"
+},
+{ "name": "mbri_windows",
+"value": "mbri_windows"
+},
+{ "name": "mbri_zoom_out",
+"value": "mbri_zoom_out"
+}
+]
+}

@@ -1,40 +1,23 @@
-#built application files
-*.apk
-*.ap_
-!resources/fancybuttons_samples.apk
-
-# files for the dex VM
-*.dex
-
-# Java class files
-*.class
-
-# generated files
-bin/
-gen/
-
-# Local configuration file (sdk path, etc)
-local.properties
-
-# Windows thumbnail db
-Thumbs.db
-
-# OSX files
-.DS_Store
-
-# Eclipse project files
-.classpath
-.project
-
-# Android Studio
-.idea
-.gradle
-build/
-
-project.properties
-out
 *.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/previewer/previewConfig.json
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+/entry/.preview
+.cxx
 
-TODO
-HOW_TO_INSTALL_TO_BINTRAY
-
+.idea/sonarlint
+.idea/checkstyle-idea.xml
+.idea/checkstyle*
+.idea/code-check
+.idea/previewer
+.idea/

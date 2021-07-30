@@ -1,1 +1,0 @@
--keep class com.rilixtech.vaadin_icons_typeface.VaadinIcons { *; }

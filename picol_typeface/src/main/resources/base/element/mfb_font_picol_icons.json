@@ -1,0 +1,1654 @@
+{
+ "string": [
+{ "name": "define_mfb_font_picol_icons",
+"value": "com.rilixtech.picol_typeface.Picol"
+},
+{ "name": "pici_accept",
+"value": "pici_accept"
+},
+{ "name": "pici_zoom_out",
+"value": "pici_zoom_out"
+},
+{ "name": "pici_agent",
+"value": "pici_agent"
+},
+{ "name": "pici_api",
+"value": "pici_api"
+},
+{ "name": "pici_apple",
+"value": "pici_apple"
+},
+{ "name": "pici_application",
+"value": "pici_application"
+},
+{ "name": "pici_arrow_full_down",
+"value": "pici_arrow_full_down"
+},
+{ "name": "pici_arrow_full_left",
+"value": "pici_arrow_full_left"
+},
+{ "name": "pici_arrow_full_lowerleft",
+"value": "pici_arrow_full_lowerleft"
+},
+{ "name": "pici_arrow_full_lowerright",
+"value": "pici_arrow_full_lowerright"
+},
+{ "name": "pici_arrow_full_right",
+"value": "pici_arrow_full_right"
+},
+{ "name": "pici_arrow_full_up",
+"value": "pici_arrow_full_up"
+},
+{ "name": "pici_arrow_full_upperleft",
+"value": "pici_arrow_full_upperleft"
+},
+{ "name": "pici_arrow_full_upperright",
+"value": "pici_arrow_full_upperright"
+},
+{ "name": "pici_arrow_sans_down",
+"value": "pici_arrow_sans_down"
+},
+{ "name": "pici_arrow_sans_left",
+"value": "pici_arrow_sans_left"
+},
+{ "name": "pici_arrow_sans_lowerleft",
+"value": "pici_arrow_sans_lowerleft"
+},
+{ "name": "pici_arrow_sans_lowerright",
+"value": "pici_arrow_sans_lowerright"
+},
+{ "name": "pici_arrow_sans_right",
+"value": "pici_arrow_sans_right"
+},
+{ "name": "pici_arrow_sans_up",
+"value": "pici_arrow_sans_up"
+},
+{ "name": "pici_arrow_sans_upperleft",
+"value": "pici_arrow_sans_upperleft"
+},
+{ "name": "pici_arrow_sans_upperright",
+"value": "pici_arrow_sans_upperright"
+},
+{ "name": "pici_attachment",
+"value": "pici_attachment"
+},
+{ "name": "pici_attachment_add",
+"value": "pici_attachment_add"
+},
+{ "name": "pici_attachment_down",
+"value": "pici_attachment_down"
+},
+{ "name": "pici_avatar",
+"value": "pici_avatar"
+},
+{ "name": "pici_avatar_edit",
+"value": "pici_avatar_edit"
+},
+{ "name": "pici_avatar_information",
+"value": "pici_avatar_information"
+},
+{ "name": "pici_backup",
+"value": "pici_backup"
+},
+{ "name": "pici_backup_pause",
+"value": "pici_backup_pause"
+},
+{ "name": "pici_backup_run",
+"value": "pici_backup_run"
+},
+{ "name": "pici_backup_settings",
+"value": "pici_backup_settings"
+},
+{ "name": "pici_backup_stop",
+"value": "pici_backup_stop"
+},
+{ "name": "pici_badge_accept",
+"value": "pici_badge_accept"
+},
+{ "name": "pici_badge_cancel",
+"value": "pici_badge_cancel"
+},
+{ "name": "pici_badge_down",
+"value": "pici_badge_down"
+},
+{ "name": "pici_badge_edit",
+"value": "pici_badge_edit"
+},
+{ "name": "pici_badge_eject",
+"value": "pici_badge_eject"
+},
+{ "name": "pici_badge_information",
+"value": "pici_badge_information"
+},
+{ "name": "pici_badge_minus",
+"value": "pici_badge_minus"
+},
+{ "name": "pici_badge_pause",
+"value": "pici_badge_pause"
+},
+{ "name": "pici_badge_plus",
+"value": "pici_badge_plus"
+},
+{ "name": "pici_badge_run",
+"value": "pici_badge_run"
+},
+{ "name": "pici_badge_security",
+"value": "pici_badge_security"
+},
+{ "name": "pici_badge_settings",
+"value": "pici_badge_settings"
+},
+{ "name": "pici_badge_stop",
+"value": "pici_badge_stop"
+},
+{ "name": "pici_badge_up",
+"value": "pici_badge_up"
+},
+{ "name": "pici_baseball",
+"value": "pici_baseball"
+},
+{ "name": "pici_basketball",
+"value": "pici_basketball"
+},
+{ "name": "pici_battery_1",
+"value": "pici_battery_1"
+},
+{ "name": "pici_battery_2",
+"value": "pici_battery_2"
+},
+{ "name": "pici_battery_3",
+"value": "pici_battery_3"
+},
+{ "name": "pici_battery_4",
+"value": "pici_battery_4"
+},
+{ "name": "pici_battery_empty",
+"value": "pici_battery_empty"
+},
+{ "name": "pici_battery_full",
+"value": "pici_battery_full"
+},
+{ "name": "pici_battery_plugged",
+"value": "pici_battery_plugged"
+},
+{ "name": "pici_bed",
+"value": "pici_bed"
+},
+{ "name": "pici_book_audio",
+"value": "pici_book_audio"
+},
+{ "name": "pici_book_audio_add",
+"value": "pici_book_audio_add"
+},
+{ "name": "pici_book_audio_eject",
+"value": "pici_book_audio_eject"
+},
+{ "name": "pici_book_audio_information",
+"value": "pici_book_audio_information"
+},
+{ "name": "pici_book_audio_pause",
+"value": "pici_book_audio_pause"
+},
+{ "name": "pici_book_audio_remove",
+"value": "pici_book_audio_remove"
+},
+{ "name": "pici_book_audio_run",
+"value": "pici_book_audio_run"
+},
+{ "name": "pici_book_audio_security",
+"value": "pici_book_audio_security"
+},
+{ "name": "pici_book_audio_settings",
+"value": "pici_book_audio_settings"
+},
+{ "name": "pici_book_audio_stop",
+"value": "pici_book_audio_stop"
+},
+{ "name": "pici_book_image",
+"value": "pici_book_image"
+},
+{ "name": "pici_book_image_add",
+"value": "pici_book_image_add"
+},
+{ "name": "pici_book_image_information",
+"value": "pici_book_image_information"
+},
+{ "name": "pici_book_image_pause",
+"value": "pici_book_image_pause"
+},
+{ "name": "pici_book_image_remove",
+"value": "pici_book_image_remove"
+},
+{ "name": "pici_book_image_run",
+"value": "pici_book_image_run"
+},
+{ "name": "pici_book_image_security",
+"value": "pici_book_image_security"
+},
+{ "name": "pici_book_image_settings",
+"value": "pici_book_image_settings"
+},
+{ "name": "pici_book_image_stop",
+"value": "pici_book_image_stop"
+},
+{ "name": "pici_bookmark",
+"value": "pici_bookmark"
+},
+{ "name": "pici_bookmark_settings",
+"value": "pici_bookmark_settings"
+},
+{ "name": "pici_book_sans",
+"value": "pici_book_sans"
+},
+{ "name": "pici_book_sans_add",
+"value": "pici_book_sans_add"
+},
+{ "name": "pici_book_sans_down",
+"value": "pici_book_sans_down"
+},
+{ "name": "pici_book_sans_information",
+"value": "pici_book_sans_information"
+},
+{ "name": "pici_book_sans_remove",
+"value": "pici_book_sans_remove"
+},
+{ "name": "pici_book_sans_run",
+"value": "pici_book_sans_run"
+},
+{ "name": "pici_book_sans_security",
+"value": "pici_book_sans_security"
+},
+{ "name": "pici_book_sans_up",
+"value": "pici_book_sans_up"
+},
+{ "name": "pici_book_text",
+"value": "pici_book_text"
+},
+{ "name": "pici_book_text_add",
+"value": "pici_book_text_add"
+},
+{ "name": "pici_book_text_down",
+"value": "pici_book_text_down"
+},
+{ "name": "pici_book_text_information",
+"value": "pici_book_text_information"
+},
+{ "name": "pici_book_text_remove",
+"value": "pici_book_text_remove"
+},
+{ "name": "pici_book_text_run",
+"value": "pici_book_text_run"
+},
+{ "name": "pici_book_text_security",
+"value": "pici_book_text_security"
+},
+{ "name": "pici_book_text_settings",
+"value": "pici_book_text_settings"
+},
+{ "name": "pici_book_text_stop",
+"value": "pici_book_text_stop"
+},
+{ "name": "pici_book_text_up",
+"value": "pici_book_text_up"
+},
+{ "name": "pici_brightness_brighten",
+"value": "pici_brightness_brighten"
+},
+{ "name": "pici_brightness_darken",
+"value": "pici_brightness_darken"
+},
+{ "name": "pici_browser_window",
+"value": "pici_browser_window"
+},
+{ "name": "pici_browser_window_add",
+"value": "pici_browser_window_add"
+},
+{ "name": "pici_browser_window_cancel",
+"value": "pici_browser_window_cancel"
+},
+{ "name": "pici_browser_window_remove",
+"value": "pici_browser_window_remove"
+},
+{ "name": "pici_browser_window_security",
+"value": "pici_browser_window_security"
+},
+{ "name": "pici_browser_window_settings",
+"value": "pici_browser_window_settings"
+},
+{ "name": "pici_buy",
+"value": "pici_buy"
+},
+{ "name": "pici_calculator",
+"value": "pici_calculator"
+},
+{ "name": "pici_calendar",
+"value": "pici_calendar"
+},
+{ "name": "pici_cancel",
+"value": "pici_cancel"
+},
+{ "name": "pici_category",
+"value": "pici_category"
+},
+{ "name": "pici_category_add",
+"value": "pici_category_add"
+},
+{ "name": "pici_category_edit",
+"value": "pici_category_edit"
+},
+{ "name": "pici_category_remove",
+"value": "pici_category_remove"
+},
+{ "name": "pici_category_settings",
+"value": "pici_category_settings"
+},
+{ "name": "pici_cd",
+"value": "pici_cd"
+},
+{ "name": "pici_cd_eject",
+"value": "pici_cd_eject"
+},
+{ "name": "pici_cd_pause",
+"value": "pici_cd_pause"
+},
+{ "name": "pici_cd_run",
+"value": "pici_cd_run"
+},
+{ "name": "pici_cd_security",
+"value": "pici_cd_security"
+},
+{ "name": "pici_cd_stop",
+"value": "pici_cd_stop"
+},
+{ "name": "pici_cd_write",
+"value": "pici_cd_write"
+},
+{ "name": "pici_chat",
+"value": "pici_chat"
+},
+{ "name": "pici_chat_pause",
+"value": "pici_chat_pause"
+},
+{ "name": "pici_chat_run",
+"value": "pici_chat_run"
+},
+{ "name": "pici_chat_security",
+"value": "pici_chat_security"
+},
+{ "name": "pici_chat_settings",
+"value": "pici_chat_settings"
+},
+{ "name": "pici_chat_stop",
+"value": "pici_chat_stop"
+},
+{ "name": "pici_clock",
+"value": "pici_clock"
+},
+{ "name": "pici_clock_mini",
+"value": "pici_clock_mini"
+},
+{ "name": "pici_cloud",
+"value": "pici_cloud"
+},
+{ "name": "pici_codec_image",
+"value": "pici_codec_image"
+},
+{ "name": "pici_codec_video",
+"value": "pici_codec_video"
+},
+{ "name": "pici_combine",
+"value": "pici_combine"
+},
+{ "name": "pici_comment",
+"value": "pici_comment"
+},
+{ "name": "pici_comment_accept",
+"value": "pici_comment_accept"
+},
+{ "name": "pici_comment_add",
+"value": "pici_comment_add"
+},
+{ "name": "pici_comment_cancel",
+"value": "pici_comment_cancel"
+},
+{ "name": "pici_comment_edit",
+"value": "pici_comment_edit"
+},
+{ "name": "pici_comment_remove",
+"value": "pici_comment_remove"
+},
+{ "name": "pici_comment_settings",
+"value": "pici_comment_settings"
+},
+{ "name": "pici_computer",
+"value": "pici_computer"
+},
+{ "name": "pici_computer_accept",
+"value": "pici_computer_accept"
+},
+{ "name": "pici_computer_add",
+"value": "pici_computer_add"
+},
+{ "name": "pici_computer_cancel",
+"value": "pici_computer_cancel"
+},
+{ "name": "pici_computer_remove",
+"value": "pici_computer_remove"
+},
+{ "name": "pici_computer_settings",
+"value": "pici_computer_settings"
+},
+{ "name": "pici_controls_chapter_next",
+"value": "pici_controls_chapter_next"
+},
+{ "name": "pici_controls_chapter_previous",
+"value": "pici_controls_chapter_previous"
+},
+{ "name": "pici_controls_eject",
+"value": "pici_controls_eject"
+},
+{ "name": "pici_controls_fast_forward",
+"value": "pici_controls_fast_forward"
+},
+{ "name": "pici_controls_pause",
+"value": "pici_controls_pause"
+},
+{ "name": "pici_controls_play",
+"value": "pici_controls_play"
+},
+{ "name": "pici_controls_play_back",
+"value": "pici_controls_play_back"
+},
+{ "name": "pici_controls_rewind",
+"value": "pici_controls_rewind"
+},
+{ "name": "pici_controls_stop",
+"value": "pici_controls_stop"
+},
+{ "name": "pici_cooler",
+"value": "pici_cooler"
+},
+{ "name": "pici_copy",
+"value": "pici_copy"
+},
+{ "name": "pici_credit_card",
+"value": "pici_credit_card"
+},
+{ "name": "pici_crown",
+"value": "pici_crown"
+},
+{ "name": "pici_cut",
+"value": "pici_cut"
+},
+{ "name": "pici_database",
+"value": "pici_database"
+},
+{ "name": "pici_database_add",
+"value": "pici_database_add"
+},
+{ "name": "pici_database_edit",
+"value": "pici_database_edit"
+},
+{ "name": "pici_database_information",
+"value": "pici_database_information"
+},
+{ "name": "pici_database_remove",
+"value": "pici_database_remove"
+},
+{ "name": "pici_database_run",
+"value": "pici_database_run"
+},
+{ "name": "pici_database_security",
+"value": "pici_database_security"
+},
+{ "name": "pici_data_privacy",
+"value": "pici_data_privacy"
+},
+{ "name": "pici_document_image",
+"value": "pici_document_image"
+},
+{ "name": "pici_document_image_accept",
+"value": "pici_document_image_accept"
+},
+{ "name": "pici_document_image_add",
+"value": "pici_document_image_add"
+},
+{ "name": "pici_document_image_cancel",
+"value": "pici_document_image_cancel"
+},
+{ "name": "pici_document_image_down",
+"value": "pici_document_image_down"
+},
+{ "name": "pici_document_image_edit",
+"value": "pici_document_image_edit"
+},
+{ "name": "pici_document_image_information",
+"value": "pici_document_image_information"
+},
+{ "name": "pici_document_image_remove",
+"value": "pici_document_image_remove"
+},
+{ "name": "pici_document_image_run",
+"value": "pici_document_image_run"
+},
+{ "name": "pici_document_image_security",
+"value": "pici_document_image_security"
+},
+{ "name": "pici_document_image_settings",
+"value": "pici_document_image_settings"
+},
+{ "name": "pici_document_image_up",
+"value": "pici_document_image_up"
+},
+{ "name": "pici_document_music",
+"value": "pici_document_music"
+},
+{ "name": "pici_document_music_accept",
+"value": "pici_document_music_accept"
+},
+{ "name": "pici_document_music_add",
+"value": "pici_document_music_add"
+},
+{ "name": "pici_document_music_cancel",
+"value": "pici_document_music_cancel"
+},
+{ "name": "pici_document_music_down",
+"value": "pici_document_music_down"
+},
+{ "name": "pici_document_music_edit",
+"value": "pici_document_music_edit"
+},
+{ "name": "pici_document_music_information",
+"value": "pici_document_music_information"
+},
+{ "name": "pici_document_music_remove",
+"value": "pici_document_music_remove"
+},
+{ "name": "pici_document_music_run",
+"value": "pici_document_music_run"
+},
+{ "name": "pici_document_music_security",
+"value": "pici_document_music_security"
+},
+{ "name": "pici_document_music_settings",
+"value": "pici_document_music_settings"
+},
+{ "name": "pici_document_music_up",
+"value": "pici_document_music_up"
+},
+{ "name": "pici_document_sans",
+"value": "pici_document_sans"
+},
+{ "name": "pici_document_sans_accept",
+"value": "pici_document_sans_accept"
+},
+{ "name": "pici_document_sans_add",
+"value": "pici_document_sans_add"
+},
+{ "name": "pici_document_sans_cancel",
+"value": "pici_document_sans_cancel"
+},
+{ "name": "pici_document_sans_down",
+"value": "pici_document_sans_down"
+},
+{ "name": "pici_document_sans_edit",
+"value": "pici_document_sans_edit"
+},
+{ "name": "pici_document_sans_information",
+"value": "pici_document_sans_information"
+},
+{ "name": "pici_document_sans_remove",
+"value": "pici_document_sans_remove"
+},
+{ "name": "pici_document_sans_run",
+"value": "pici_document_sans_run"
+},
+{ "name": "pici_document_sans_security",
+"value": "pici_document_sans_security"
+},
+{ "name": "pici_document_sans_settings",
+"value": "pici_document_sans_settings"
+},
+{ "name": "pici_document_sans_up",
+"value": "pici_document_sans_up"
+},
+{ "name": "pici_document_text",
+"value": "pici_document_text"
+},
+{ "name": "pici_document_text_accept",
+"value": "pici_document_text_accept"
+},
+{ "name": "pici_document_text_add",
+"value": "pici_document_text_add"
+},
+{ "name": "pici_document_text_cancel",
+"value": "pici_document_text_cancel"
+},
+{ "name": "pici_document_text_down",
+"value": "pici_document_text_down"
+},
+{ "name": "pici_document_text_edit",
+"value": "pici_document_text_edit"
+},
+{ "name": "pici_document_text_information",
+"value": "pici_document_text_information"
+},
+{ "name": "pici_document_text_remove",
+"value": "pici_document_text_remove"
+},
+{ "name": "pici_document_text_run",
+"value": "pici_document_text_run"
+},
+{ "name": "pici_document_text_security",
+"value": "pici_document_text_security"
+},
+{ "name": "pici_document_text_settings",
+"value": "pici_document_text_settings"
+},
+{ "name": "pici_document_text_up",
+"value": "pici_document_text_up"
+},
+{ "name": "pici_document_video",
+"value": "pici_document_video"
+},
+{ "name": "pici_document_video_accept",
+"value": "pici_document_video_accept"
+},
+{ "name": "pici_document_video_add",
+"value": "pici_document_video_add"
+},
+{ "name": "pici_document_video_cancel",
+"value": "pici_document_video_cancel"
+},
+{ "name": "pici_document_video_down",
+"value": "pici_document_video_down"
+},
+{ "name": "pici_document_video_edit",
+"value": "pici_document_video_edit"
+},
+{ "name": "pici_document_video_information",
+"value": "pici_document_video_information"
+},
+{ "name": "pici_document_video_remove",
+"value": "pici_document_video_remove"
+},
+{ "name": "pici_document_video_run",
+"value": "pici_document_video_run"
+},
+{ "name": "pici_document_video_security",
+"value": "pici_document_video_security"
+},
+{ "name": "pici_document_video_settings",
+"value": "pici_document_video_settings"
+},
+{ "name": "pici_document_video_up",
+"value": "pici_document_video_up"
+},
+{ "name": "pici_donate",
+"value": "pici_donate"
+},
+{ "name": "pici_download",
+"value": "pici_download"
+},
+{ "name": "pici_download_accept",
+"value": "pici_download_accept"
+},
+{ "name": "pici_download_cancel",
+"value": "pici_download_cancel"
+},
+{ "name": "pici_download_information",
+"value": "pici_download_information"
+},
+{ "name": "pici_download_pause",
+"value": "pici_download_pause"
+},
+{ "name": "pici_download_run",
+"value": "pici_download_run"
+},
+{ "name": "pici_download_security",
+"value": "pici_download_security"
+},
+{ "name": "pici_download_settings",
+"value": "pici_download_settings"
+},
+{ "name": "pici_download_stop",
+"value": "pici_download_stop"
+},
+{ "name": "pici_dropbox",
+"value": "pici_dropbox"
+},
+{ "name": "pici_edit",
+"value": "pici_edit"
+},
+{ "name": "pici_entrance",
+"value": "pici_entrance"
+},
+{ "name": "pici_equal",
+"value": "pici_equal"
+},
+{ "name": "pici_filepath",
+"value": "pici_filepath"
+},
+{ "name": "pici_filter",
+"value": "pici_filter"
+},
+{ "name": "pici_filter_settings",
+"value": "pici_filter_settings"
+},
+{ "name": "pici_firewall",
+"value": "pici_firewall"
+},
+{ "name": "pici_firewall_pause",
+"value": "pici_firewall_pause"
+},
+{ "name": "pici_firewall_run",
+"value": "pici_firewall_run"
+},
+{ "name": "pici_firewall_settings",
+"value": "pici_firewall_settings"
+},
+{ "name": "pici_firewall_stop",
+"value": "pici_firewall_stop"
+},
+{ "name": "pici_flag",
+"value": "pici_flag"
+},
+{ "name": "pici_flash",
+"value": "pici_flash"
+},
+{ "name": "pici_flash_off",
+"value": "pici_flash_off"
+},
+{ "name": "pici_floppy_disk",
+"value": "pici_floppy_disk"
+},
+{ "name": "pici_folder_downloads",
+"value": "pici_folder_downloads"
+},
+{ "name": "pici_folder_image",
+"value": "pici_folder_image"
+},
+{ "name": "pici_folder_music",
+"value": "pici_folder_music"
+},
+{ "name": "pici_folder_sans",
+"value": "pici_folder_sans"
+},
+{ "name": "pici_folder_sans_accept",
+"value": "pici_folder_sans_accept"
+},
+{ "name": "pici_folder_sans_add",
+"value": "pici_folder_sans_add"
+},
+{ "name": "pici_folder_sans_cancel",
+"value": "pici_folder_sans_cancel"
+},
+{ "name": "pici_folder_sans_down",
+"value": "pici_folder_sans_down"
+},
+{ "name": "pici_folder_sans_edit",
+"value": "pici_folder_sans_edit"
+},
+{ "name": "pici_folder_sans_information",
+"value": "pici_folder_sans_information"
+},
+{ "name": "pici_folder_sans_remove",
+"value": "pici_folder_sans_remove"
+},
+{ "name": "pici_folder_sans_run",
+"value": "pici_folder_sans_run"
+},
+{ "name": "pici_folder_sans_security",
+"value": "pici_folder_sans_security"
+},
+{ "name": "pici_folder_sans_settings",
+"value": "pici_folder_sans_settings"
+},
+{ "name": "pici_folder_sans_up",
+"value": "pici_folder_sans_up"
+},
+{ "name": "pici_folder_text",
+"value": "pici_folder_text"
+},
+{ "name": "pici_folder_video",
+"value": "pici_folder_video"
+},
+{ "name": "pici_football",
+"value": "pici_football"
+},
+{ "name": "pici_fullscreen",
+"value": "pici_fullscreen"
+},
+{ "name": "pici_fullscreen_cancel",
+"value": "pici_fullscreen_cancel"
+},
+{ "name": "pici_game_controller",
+"value": "pici_game_controller"
+},
+{ "name": "pici_adressbook",
+"value": "pici_adressbook"
+},
+{ "name": "pici_golf",
+"value": "pici_golf"
+},
+{ "name": "pici_group_full",
+"value": "pici_group_full"
+},
+{ "name": "pici_group_full_add",
+"value": "pici_group_full_add"
+},
+{ "name": "pici_group_full_edit",
+"value": "pici_group_full_edit"
+},
+{ "name": "pici_group_full_remove",
+"value": "pici_group_full_remove"
+},
+{ "name": "pici_group_full_security",
+"value": "pici_group_full_security"
+},
+{ "name": "pici_group_half",
+"value": "pici_group_half"
+},
+{ "name": "pici_group_half_add",
+"value": "pici_group_half_add"
+},
+{ "name": "pici_group_half_edit",
+"value": "pici_group_half_edit"
+},
+{ "name": "pici_group_half_remove",
+"value": "pici_group_half_remove"
+},
+{ "name": "pici_group_half_security",
+"value": "pici_group_half_security"
+},
+{ "name": "pici_harddisk_sans",
+"value": "pici_harddisk_sans"
+},
+{ "name": "pici_harddisk_sans_eject",
+"value": "pici_harddisk_sans_eject"
+},
+{ "name": "pici_harddisk_sans_security",
+"value": "pici_harddisk_sans_security"
+},
+{ "name": "pici_harddisk_sans_settings",
+"value": "pici_harddisk_sans_settings"
+},
+{ "name": "pici_hierarchy",
+"value": "pici_hierarchy"
+},
+{ "name": "pici_home",
+"value": "pici_home"
+},
+{ "name": "pici_image",
+"value": "pici_image"
+},
+{ "name": "pici_image_accept",
+"value": "pici_image_accept"
+},
+{ "name": "pici_image_add",
+"value": "pici_image_add"
+},
+{ "name": "pici_image_cancel",
+"value": "pici_image_cancel"
+},
+{ "name": "pici_image_edit",
+"value": "pici_image_edit"
+},
+{ "name": "pici_image_pause",
+"value": "pici_image_pause"
+},
+{ "name": "pici_image_remove",
+"value": "pici_image_remove"
+},
+{ "name": "pici_image_run",
+"value": "pici_image_run"
+},
+{ "name": "pici_image_security",
+"value": "pici_image_security"
+},
+{ "name": "pici_image_settings",
+"value": "pici_image_settings"
+},
+{ "name": "pici_imprint",
+"value": "pici_imprint"
+},
+{ "name": "pici_information",
+"value": "pici_information"
+},
+{ "name": "pici_internet",
+"value": "pici_internet"
+},
+{ "name": "pici_keyboard",
+"value": "pici_keyboard"
+},
+{ "name": "pici_label",
+"value": "pici_label"
+},
+{ "name": "pici_label_add",
+"value": "pici_label_add"
+},
+{ "name": "pici_label_edit",
+"value": "pici_label_edit"
+},
+{ "name": "pici_label_remove",
+"value": "pici_label_remove"
+},
+{ "name": "pici_label_security",
+"value": "pici_label_security"
+},
+{ "name": "pici_leaf",
+"value": "pici_leaf"
+},
+{ "name": "pici_light",
+"value": "pici_light"
+},
+{ "name": "pici_light_off",
+"value": "pici_light_off"
+},
+{ "name": "pici_link",
+"value": "pici_link"
+},
+{ "name": "pici_link_add",
+"value": "pici_link_add"
+},
+{ "name": "pici_link_edit",
+"value": "pici_link_edit"
+},
+{ "name": "pici_link_remove",
+"value": "pici_link_remove"
+},
+{ "name": "pici_list",
+"value": "pici_list"
+},
+{ "name": "pici_list_numbered",
+"value": "pici_list_numbered"
+},
+{ "name": "pici_login",
+"value": "pici_login"
+},
+{ "name": "pici_logout",
+"value": "pici_logout"
+},
+{ "name": "pici_mail",
+"value": "pici_mail"
+},
+{ "name": "pici_mail_accept",
+"value": "pici_mail_accept"
+},
+{ "name": "pici_mail_add",
+"value": "pici_mail_add"
+},
+{ "name": "pici_mailbox",
+"value": "pici_mailbox"
+},
+{ "name": "pici_mailbox_down",
+"value": "pici_mailbox_down"
+},
+{ "name": "pici_mailbox_eject",
+"value": "pici_mailbox_eject"
+},
+{ "name": "pici_mailbox_incoming",
+"value": "pici_mailbox_incoming"
+},
+{ "name": "pici_mailbox_outgoing",
+"value": "pici_mailbox_outgoing"
+},
+{ "name": "pici_mailbox_settings",
+"value": "pici_mailbox_settings"
+},
+{ "name": "pici_mail_cancel",
+"value": "pici_mail_cancel"
+},
+{ "name": "pici_mail_edit",
+"value": "pici_mail_edit"
+},
+{ "name": "pici_mail_fwd",
+"value": "pici_mail_fwd"
+},
+{ "name": "pici_mail_remove",
+"value": "pici_mail_remove"
+},
+{ "name": "pici_mail_run",
+"value": "pici_mail_run"
+},
+{ "name": "pici_mail_security",
+"value": "pici_mail_security"
+},
+{ "name": "pici_mainframe",
+"value": "pici_mainframe"
+},
+{ "name": "pici_mashup",
+"value": "pici_mashup"
+},
+{ "name": "pici_mobile_phone",
+"value": "pici_mobile_phone"
+},
+{ "name": "pici_move",
+"value": "pici_move"
+},
+{ "name": "pici_music",
+"value": "pici_music"
+},
+{ "name": "pici_music_accept",
+"value": "pici_music_accept"
+},
+{ "name": "pici_music_add",
+"value": "pici_music_add"
+},
+{ "name": "pici_music_cancel",
+"value": "pici_music_cancel"
+},
+{ "name": "pici_music_edit",
+"value": "pici_music_edit"
+},
+{ "name": "pici_music_eject",
+"value": "pici_music_eject"
+},
+{ "name": "pici_music_information",
+"value": "pici_music_information"
+},
+{ "name": "pici_music_pause",
+"value": "pici_music_pause"
+},
+{ "name": "pici_music_remove",
+"value": "pici_music_remove"
+},
+{ "name": "pici_music_run",
+"value": "pici_music_run"
+},
+{ "name": "pici_music_security",
+"value": "pici_music_security"
+},
+{ "name": "pici_music_settings",
+"value": "pici_music_settings"
+},
+{ "name": "pici_music_stop",
+"value": "pici_music_stop"
+},
+{ "name": "pici_network_intranet",
+"value": "pici_network_intranet"
+},
+{ "name": "pici_network_protocol",
+"value": "pici_network_protocol"
+},
+{ "name": "pici_network_sans",
+"value": "pici_network_sans"
+},
+{ "name": "pici_network_sans_add",
+"value": "pici_network_sans_add"
+},
+{ "name": "pici_network_sans_edit",
+"value": "pici_network_sans_edit"
+},
+{ "name": "pici_network_sans_remove",
+"value": "pici_network_sans_remove"
+},
+{ "name": "pici_network_sans_security",
+"value": "pici_network_sans_security"
+},
+{ "name": "pici_network_wireless",
+"value": "pici_network_wireless"
+},
+{ "name": "pici_network_wireless_add",
+"value": "pici_network_wireless_add"
+},
+{ "name": "pici_network_wireless_edit",
+"value": "pici_network_wireless_edit"
+},
+{ "name": "pici_network_wireless_security",
+"value": "pici_network_wireless_security"
+},
+{ "name": "pici_news",
+"value": "pici_news"
+},
+{ "name": "pici_notes",
+"value": "pici_notes"
+},
+{ "name": "pici_notes_accept",
+"value": "pici_notes_accept"
+},
+{ "name": "pici_notes_add",
+"value": "pici_notes_add"
+},
+{ "name": "pici_notes_cancel",
+"value": "pici_notes_cancel"
+},
+{ "name": "pici_notes_down",
+"value": "pici_notes_down"
+},
+{ "name": "pici_notes_edit",
+"value": "pici_notes_edit"
+},
+{ "name": "pici_notes_remove",
+"value": "pici_notes_remove"
+},
+{ "name": "pici_notes_settings",
+"value": "pici_notes_settings"
+},
+{ "name": "pici_notes_up",
+"value": "pici_notes_up"
+},
+{ "name": "pici_ontology",
+"value": "pici_ontology"
+},
+{ "name": "pici_owl_dl",
+"value": "pici_owl_dl"
+},
+{ "name": "pici_owl_dl_document",
+"value": "pici_owl_dl_document"
+},
+{ "name": "pici_owl_full",
+"value": "pici_owl_full"
+},
+{ "name": "pici_owl_full_document",
+"value": "pici_owl_full_document"
+},
+{ "name": "pici_owl_lite",
+"value": "pici_owl_lite"
+},
+{ "name": "pici_owl_lite_document",
+"value": "pici_owl_lite_document"
+},
+{ "name": "pici_paragraph",
+"value": "pici_paragraph"
+},
+{ "name": "pici_paste",
+"value": "pici_paste"
+},
+{ "name": "pici_path",
+"value": "pici_path"
+},
+{ "name": "pici_pda",
+"value": "pici_pda"
+},
+{ "name": "pici_pear",
+"value": "pici_pear"
+},
+{ "name": "pici_phone_home",
+"value": "pici_phone_home"
+},
+{ "name": "pici_phone_off",
+"value": "pici_phone_off"
+},
+{ "name": "pici_phone_on",
+"value": "pici_phone_on"
+},
+{ "name": "pici_pin",
+"value": "pici_pin"
+},
+{ "name": "pici_pin_filled",
+"value": "pici_pin_filled"
+},
+{ "name": "pici_plus",
+"value": "pici_plus"
+},
+{ "name": "pici_point_of_interest",
+"value": "pici_point_of_interest"
+},
+{ "name": "pici_printer",
+"value": "pici_printer"
+},
+{ "name": "pici_printer_add",
+"value": "pici_printer_add"
+},
+{ "name": "pici_printer_cancel",
+"value": "pici_printer_cancel"
+},
+{ "name": "pici_printer_information",
+"value": "pici_printer_information"
+},
+{ "name": "pici_printer_pause",
+"value": "pici_printer_pause"
+},
+{ "name": "pici_printer_remove",
+"value": "pici_printer_remove"
+},
+{ "name": "pici_printer_run",
+"value": "pici_printer_run"
+},
+{ "name": "pici_printer_settings",
+"value": "pici_printer_settings"
+},
+{ "name": "pici_printer_stop",
+"value": "pici_printer_stop"
+},
+{ "name": "pici_questionmark",
+"value": "pici_questionmark"
+},
+{ "name": "pici_rdf",
+"value": "pici_rdf"
+},
+{ "name": "pici_rdf_document",
+"value": "pici_rdf_document"
+},
+{ "name": "pici_recent_changes",
+"value": "pici_recent_changes"
+},
+{ "name": "pici_refresh",
+"value": "pici_refresh"
+},
+{ "name": "pici_relevance",
+"value": "pici_relevance"
+},
+{ "name": "pici_remix",
+"value": "pici_remix"
+},
+{ "name": "pici_route",
+"value": "pici_route"
+},
+{ "name": "pici_satellite",
+"value": "pici_satellite"
+},
+{ "name": "pici_satellite_ground",
+"value": "pici_satellite_ground"
+},
+{ "name": "pici_screen_4to3",
+"value": "pici_screen_4to3"
+},
+{ "name": "pici_screen_16to9",
+"value": "pici_screen_16to9"
+},
+{ "name": "pici_script",
+"value": "pici_script"
+},
+{ "name": "pici_search",
+"value": "pici_search"
+},
+{ "name": "pici_security_closed",
+"value": "pici_security_closed"
+},
+{ "name": "pici_security_open",
+"value": "pici_security_open"
+},
+{ "name": "pici_semantic_web",
+"value": "pici_semantic_web"
+},
+{ "name": "pici_server",
+"value": "pici_server"
+},
+{ "name": "pici_server_accept",
+"value": "pici_server_accept"
+},
+{ "name": "pici_server_add",
+"value": "pici_server_add"
+},
+{ "name": "pici_server_cancel",
+"value": "pici_server_cancel"
+},
+{ "name": "pici_server_edit",
+"value": "pici_server_edit"
+},
+{ "name": "pici_server_eject",
+"value": "pici_server_eject"
+},
+{ "name": "pici_server_information",
+"value": "pici_server_information"
+},
+{ "name": "pici_server_remove",
+"value": "pici_server_remove"
+},
+{ "name": "pici_server_run",
+"value": "pici_server_run"
+},
+{ "name": "pici_server_security",
+"value": "pici_server_security"
+},
+{ "name": "pici_server_settings",
+"value": "pici_server_settings"
+},
+{ "name": "pici_server_stop",
+"value": "pici_server_stop"
+},
+{ "name": "pici_settings",
+"value": "pici_settings"
+},
+{ "name": "pici_shopping_cart",
+"value": "pici_shopping_cart"
+},
+{ "name": "pici_sitemap",
+"value": "pici_sitemap"
+},
+{ "name": "pici_size_both",
+"value": "pici_size_both"
+},
+{ "name": "pici_size_both_accept",
+"value": "pici_size_both_accept"
+},
+{ "name": "pici_size_both_add",
+"value": "pici_size_both_add"
+},
+{ "name": "pici_size_both_cancel",
+"value": "pici_size_both_cancel"
+},
+{ "name": "pici_size_both_edit",
+"value": "pici_size_both_edit"
+},
+{ "name": "pici_size_both_remove",
+"value": "pici_size_both_remove"
+},
+{ "name": "pici_size_both_security",
+"value": "pici_size_both_security"
+},
+{ "name": "pici_size_both_settings",
+"value": "pici_size_both_settings"
+},
+{ "name": "pici_size_height",
+"value": "pici_size_height"
+},
+{ "name": "pici_size_height_accept",
+"value": "pici_size_height_accept"
+},
+{ "name": "pici_size_height_add",
+"value": "pici_size_height_add"
+},
+{ "name": "pici_size_height_cancel",
+"value": "pici_size_height_cancel"
+},
+{ "name": "pici_size_height_edit",
+"value": "pici_size_height_edit"
+},
+{ "name": "pici_size_height_remove",
+"value": "pici_size_height_remove"
+},
+{ "name": "pici_size_height_security",
+"value": "pici_size_height_security"
+},
+{ "name": "pici_size_height_settings",
+"value": "pici_size_height_settings"
+},
+{ "name": "pici_size_width",
+"value": "pici_size_width"
+},
+{ "name": "pici_size_width_accept",
+"value": "pici_size_width_accept"
+},
+{ "name": "pici_size_width_add",
+"value": "pici_size_width_add"
+},
+{ "name": "pici_size_width_cancel",
+"value": "pici_size_width_cancel"
+},
+{ "name": "pici_size_width_edit",
+"value": "pici_size_width_edit"
+},
+{ "name": "pici_size_width_remove",
+"value": "pici_size_width_remove"
+},
+{ "name": "pici_size_width_security",
+"value": "pici_size_width_security"
+},
+{ "name": "pici_size_width_settings",
+"value": "pici_size_width_settings"
+},
+{ "name": "pici_soccer",
+"value": "pici_soccer"
+},
+{ "name": "pici_social_network",
+"value": "pici_social_network"
+},
+{ "name": "pici_source_code",
+"value": "pici_source_code"
+},
+{ "name": "pici_speaker_louder",
+"value": "pici_speaker_louder"
+},
+{ "name": "pici_speaker_off",
+"value": "pici_speaker_off"
+},
+{ "name": "pici_speaker_silent",
+"value": "pici_speaker_silent"
+},
+{ "name": "pici_star",
+"value": "pici_star"
+},
+{ "name": "pici_star_outline",
+"value": "pici_star_outline"
+},
+{ "name": "pici_statistics",
+"value": "pici_statistics"
+},
+{ "name": "pici_synchronize",
+"value": "pici_synchronize"
+},
+{ "name": "pici_tab",
+"value": "pici_tab"
+},
+{ "name": "pici_tab_add",
+"value": "pici_tab_add"
+},
+{ "name": "pici_tab_cancel",
+"value": "pici_tab_cancel"
+},
+{ "name": "pici_tablet",
+"value": "pici_tablet"
+},
+{ "name": "pici_target",
+"value": "pici_target"
+},
+{ "name": "pici_terminal_computer",
+"value": "pici_terminal_computer"
+},
+{ "name": "pici_text",
+"value": "pici_text"
+},
+{ "name": "pici_text_align_center",
+"value": "pici_text_align_center"
+},
+{ "name": "pici_text_align_full",
+"value": "pici_text_align_full"
+},
+{ "name": "pici_text_align_left",
+"value": "pici_text_align_left"
+},
+{ "name": "pici_text_align_right",
+"value": "pici_text_align_right"
+},
+{ "name": "pici_text_bold",
+"value": "pici_text_bold"
+},
+{ "name": "pici_text_italic",
+"value": "pici_text_italic"
+},
+{ "name": "pici_text_strikethrough",
+"value": "pici_text_strikethrough"
+},
+{ "name": "pici_transportation_bus",
+"value": "pici_transportation_bus"
+},
+{ "name": "pici_transportation_car",
+"value": "pici_transportation_car"
+},
+{ "name": "pici_transportation_plane",
+"value": "pici_transportation_plane"
+},
+{ "name": "pici_transportation_ship",
+"value": "pici_transportation_ship"
+},
+{ "name": "pici_transportation_train",
+"value": "pici_transportation_train"
+},
+{ "name": "pici_transportation_truck",
+"value": "pici_transportation_truck"
+},
+{ "name": "pici_trash",
+"value": "pici_trash"
+},
+{ "name": "pici_trash_full",
+"value": "pici_trash_full"
+},
+{ "name": "pici_tree",
+"value": "pici_tree"
+},
+{ "name": "pici_upload",
+"value": "pici_upload"
+},
+{ "name": "pici_upload_accept",
+"value": "pici_upload_accept"
+},
+{ "name": "pici_upload_cancel",
+"value": "pici_upload_cancel"
+},
+{ "name": "pici_upload_pause",
+"value": "pici_upload_pause"
+},
+{ "name": "pici_upload_run",
+"value": "pici_upload_run"
+},
+{ "name": "pici_upload_security",
+"value": "pici_upload_security"
+},
+{ "name": "pici_upload_settings",
+"value": "pici_upload_settings"
+},
+{ "name": "pici_upload_stop",
+"value": "pici_upload_stop"
+},
+{ "name": "pici_user_close",
+"value": "pici_user_close"
+},
+{ "name": "pici_user_close_add",
+"value": "pici_user_close_add"
+},
+{ "name": "pici_user_close_edit",
+"value": "pici_user_close_edit"
+},
+{ "name": "pici_user_close_information",
+"value": "pici_user_close_information"
+},
+{ "name": "pici_user_close_remove",
+"value": "pici_user_close_remove"
+},
+{ "name": "pici_user_close_security",
+"value": "pici_user_close_security"
+},
+{ "name": "pici_user_close_settings",
+"value": "pici_user_close_settings"
+},
+{ "name": "pici_user_full",
+"value": "pici_user_full"
+},
+{ "name": "pici_user_full_add",
+"value": "pici_user_full_add"
+},
+{ "name": "pici_user_full_edit",
+"value": "pici_user_full_edit"
+},
+{ "name": "pici_user_full_information",
+"value": "pici_user_full_information"
+},
+{ "name": "pici_user_full_remove",
+"value": "pici_user_full_remove"
+},
+{ "name": "pici_user_full_security",
+"value": "pici_user_full_security"
+},
+{ "name": "pici_user_full_settings",
+"value": "pici_user_full_settings"
+},
+{ "name": "pici_user_half",
+"value": "pici_user_half"
+},
+{ "name": "pici_user_half_add",
+"value": "pici_user_half_add"
+},
+{ "name": "pici_user_half_edit",
+"value": "pici_user_half_edit"
+},
+{ "name": "pici_user_half_information",
+"value": "pici_user_half_information"
+},
+{ "name": "pici_user_half_remove",
+"value": "pici_user_half_remove"
+},
+{ "name": "pici_user_half_security",
+"value": "pici_user_half_security"
+},
+{ "name": "pici_user_half_settings",
+"value": "pici_user_half_settings"
+},
+{ "name": "pici_user_profile",
+"value": "pici_user_profile"
+},
+{ "name": "pici_user_profile_add",
+"value": "pici_user_profile_add"
+},
+{ "name": "pici_user_profile_edit",
+"value": "pici_user_profile_edit"
+},
+{ "name": "pici_video",
+"value": "pici_video"
+},
+{ "name": "pici_video_accept",
+"value": "pici_video_accept"
+},
+{ "name": "pici_video_add",
+"value": "pici_video_add"
+},
+{ "name": "pici_video_cancel",
+"value": "pici_video_cancel"
+},
+{ "name": "pici_video_down",
+"value": "pici_video_down"
+},
+{ "name": "pici_video_edit",
+"value": "pici_video_edit"
+},
+{ "name": "pici_video_information",
+"value": "pici_video_information"
+},
+{ "name": "pici_video_pause",
+"value": "pici_video_pause"
+},
+{ "name": "pici_video_remove",
+"value": "pici_video_remove"
+},
+{ "name": "pici_video_run",
+"value": "pici_video_run"
+},
+{ "name": "pici_video_security",
+"value": "pici_video_security"
+},
+{ "name": "pici_video_settings",
+"value": "pici_video_settings"
+},
+{ "name": "pici_video_stop",
+"value": "pici_video_stop"
+},
+{ "name": "pici_video_up",
+"value": "pici_video_up"
+},
+{ "name": "pici_view",
+"value": "pici_view"
+},
+{ "name": "pici_viewer_image",
+"value": "pici_viewer_image"
+},
+{ "name": "pici_viewer_text",
+"value": "pici_viewer_text"
+},
+{ "name": "pici_viewer_video",
+"value": "pici_viewer_video"
+},
+{ "name": "pici_vuvuzela",
+"value": "pici_vuvuzela"
+},
+{ "name": "pici_website",
+"value": "pici_website"
+},
+{ "name": "pici_weight",
+"value": "pici_weight"
+},
+{ "name": "pici_xml",
+"value": "pici_xml"
+},
+{ "name": "pici_xml_document",
+"value": "pici_xml_document"
+},
+{ "name": "pici_zoom_in",
+"value": "pici_zoom_in"
+},
+{ "name": "pici_globe",
+"value": "pici_globe"
+}
+]
+}

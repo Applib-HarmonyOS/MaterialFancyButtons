@@ -1,0 +1,24 @@
+apply plugin: 'com.huawei.ohos.library'
+ohos {
+    compileSdkVersion 5
+    defaultConfig {
+        compatibleSdkVersion 4
+    }
+    buildTypes {
+        release {
+            proguardOpt {
+                proguardEnabled false
+                rulesFiles 'proguard-rules.pro'
+            }
+        }
+    }
+    
+}
+
+dependencies {
+
+    implementation project(path: ':materialfancybutton')
+    implementation project(path: ':materialfancybutton')
+    implementation project(path: ':materialfancybutton')
+    testImplementation 'junit:junit:4.13'
+}

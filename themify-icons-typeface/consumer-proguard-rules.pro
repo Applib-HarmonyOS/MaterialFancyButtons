@@ -1,1 +1,0 @@
--keep class com.rilixtech.themify_icons_typeface.ThemifyIcons { *; }

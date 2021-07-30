@@ -1,0 +1,613 @@
+{
+ "string": [
+{ "name": "define_mfb_font_pixeden7stroke",
+"value": "com.rilixtech.pixeden_7_stroke_typeface.Pixeden7Stroke"
+},
+{ "name": "pe7i_7s_album",
+"value": "pe7i_7s_album"
+},
+{ "name": "pe7i_7s_arc",
+"value": "pe7i_7s_arc"
+},
+{ "name": "pe7i_7s_back_2",
+"value": "pe7i_7s_back_2"
+},
+{ "name": "pe7i_7s_bandaid",
+"value": "pe7i_7s_bandaid"
+},
+{ "name": "pe7i_7s_car",
+"value": "pe7i_7s_car"
+},
+{ "name": "pe7i_7s_diamond",
+"value": "pe7i_7s_diamond"
+},
+{ "name": "pe7i_7s_door_lock",
+"value": "pe7i_7s_door_lock"
+},
+{ "name": "pe7i_7s_eyedropper",
+"value": "pe7i_7s_eyedropper"
+},
+{ "name": "pe7i_7s_female",
+"value": "pe7i_7s_female"
+},
+{ "name": "pe7i_7s_gym",
+"value": "pe7i_7s_gym"
+},
+{ "name": "pe7i_7s_hammer",
+"value": "pe7i_7s_hammer"
+},
+{ "name": "pe7i_7s_headphones",
+"value": "pe7i_7s_headphones"
+},
+{ "name": "pe7i_7s_helm",
+"value": "pe7i_7s_helm"
+},
+{ "name": "pe7i_7s_hourglass",
+"value": "pe7i_7s_hourglass"
+},
+{ "name": "pe7i_7s_leaf",
+"value": "pe7i_7s_leaf"
+},
+{ "name": "pe7i_7s_magic_wand",
+"value": "pe7i_7s_magic_wand"
+},
+{ "name": "pe7i_7s_male",
+"value": "pe7i_7s_male"
+},
+{ "name": "pe7i_7s_map_2",
+"value": "pe7i_7s_map_2"
+},
+{ "name": "pe7i_7s_next_2",
+"value": "pe7i_7s_next_2"
+},
+{ "name": "pe7i_7s_paint_bucket",
+"value": "pe7i_7s_paint_bucket"
+},
+{ "name": "pe7i_7s_pendrive",
+"value": "pe7i_7s_pendrive"
+},
+{ "name": "pe7i_7s_photo",
+"value": "pe7i_7s_photo"
+},
+{ "name": "pe7i_7s_piggy",
+"value": "pe7i_7s_piggy"
+},
+{ "name": "pe7i_7s_plugin",
+"value": "pe7i_7s_plugin"
+},
+{ "name": "pe7i_7s_refresh_2",
+"value": "pe7i_7s_refresh_2"
+},
+{ "name": "pe7i_7s_rocket",
+"value": "pe7i_7s_rocket"
+},
+{ "name": "pe7i_7s_settings",
+"value": "pe7i_7s_settings"
+},
+{ "name": "pe7i_7s_shield",
+"value": "pe7i_7s_shield"
+},
+{ "name": "pe7i_7s_smile",
+"value": "pe7i_7s_smile"
+},
+{ "name": "pe7i_7s_usb",
+"value": "pe7i_7s_usb"
+},
+{ "name": "pe7i_7s_vector",
+"value": "pe7i_7s_vector"
+},
+{ "name": "pe7i_7s_wine",
+"value": "pe7i_7s_wine"
+},
+{ "name": "pe7i_7s_cloud_upload",
+"value": "pe7i_7s_cloud_upload"
+},
+{ "name": "pe7i_7s_cash",
+"value": "pe7i_7s_cash"
+},
+{ "name": "pe7i_7s_close",
+"value": "pe7i_7s_close"
+},
+{ "name": "pe7i_7s_bluetooth",
+"value": "pe7i_7s_bluetooth"
+},
+{ "name": "pe7i_7s_cloud_download",
+"value": "pe7i_7s_cloud_download"
+},
+{ "name": "pe7i_7s_way",
+"value": "pe7i_7s_way"
+},
+{ "name": "pe7i_7s_close_circle",
+"value": "pe7i_7s_close_circle"
+},
+{ "name": "pe7i_7s_id",
+"value": "pe7i_7s_id"
+},
+{ "name": "pe7i_7s_angle_up",
+"value": "pe7i_7s_angle_up"
+},
+{ "name": "pe7i_7s_wristwatch",
+"value": "pe7i_7s_wristwatch"
+},
+{ "name": "pe7i_7s_angle_up_circle",
+"value": "pe7i_7s_angle_up_circle"
+},
+{ "name": "pe7i_7s_world",
+"value": "pe7i_7s_world"
+},
+{ "name": "pe7i_7s_angle_right",
+"value": "pe7i_7s_angle_right"
+},
+{ "name": "pe7i_7s_volume",
+"value": "pe7i_7s_volume"
+},
+{ "name": "pe7i_7s_angle_right_circle",
+"value": "pe7i_7s_angle_right_circle"
+},
+{ "name": "pe7i_7s_users",
+"value": "pe7i_7s_users"
+},
+{ "name": "pe7i_7s_angle_left",
+"value": "pe7i_7s_angle_left"
+},
+{ "name": "pe7i_7s_user_female",
+"value": "pe7i_7s_user_female"
+},
+{ "name": "pe7i_7s_angle_left_circle",
+"value": "pe7i_7s_angle_left_circle"
+},
+{ "name": "pe7i_7s_up_arrow",
+"value": "pe7i_7s_up_arrow"
+},
+{ "name": "pe7i_7s_angle_down",
+"value": "pe7i_7s_angle_down"
+},
+{ "name": "pe7i_7s_switch",
+"value": "pe7i_7s_switch"
+},
+{ "name": "pe7i_7s_angle_down_circle",
+"value": "pe7i_7s_angle_down_circle"
+},
+{ "name": "pe7i_7s_scissors",
+"value": "pe7i_7s_scissors"
+},
+{ "name": "pe7i_7s_wallet",
+"value": "pe7i_7s_wallet"
+},
+{ "name": "pe7i_7s_safe",
+"value": "pe7i_7s_safe"
+},
+{ "name": "pe7i_7s_volume2",
+"value": "pe7i_7s_volume2"
+},
+{ "name": "pe7i_7s_volume1",
+"value": "pe7i_7s_volume1"
+},
+{ "name": "pe7i_7s_voicemail",
+"value": "pe7i_7s_voicemail"
+},
+{ "name": "pe7i_7s_video",
+"value": "pe7i_7s_video"
+},
+{ "name": "pe7i_7s_user",
+"value": "pe7i_7s_user"
+},
+{ "name": "pe7i_7s_upload",
+"value": "pe7i_7s_upload"
+},
+{ "name": "pe7i_7s_unlock",
+"value": "pe7i_7s_unlock"
+},
+{ "name": "pe7i_7s_umbrella",
+"value": "pe7i_7s_umbrella"
+},
+{ "name": "pe7i_7s_trash",
+"value": "pe7i_7s_trash"
+},
+{ "name": "pe7i_7s_tools",
+"value": "pe7i_7s_tools"
+},
+{ "name": "pe7i_7s_timer",
+"value": "pe7i_7s_timer"
+},
+{ "name": "pe7i_7s_ticket",
+"value": "pe7i_7s_ticket"
+},
+{ "name": "pe7i_7s_target",
+"value": "pe7i_7s_target"
+},
+{ "name": "pe7i_7s_sun",
+"value": "pe7i_7s_sun"
+},
+{ "name": "pe7i_7s_study",
+"value": "pe7i_7s_study"
+},
+{ "name": "pe7i_7s_stopwatch",
+"value": "pe7i_7s_stopwatch"
+},
+{ "name": "pe7i_7s_star",
+"value": "pe7i_7s_star"
+},
+{ "name": "pe7i_7s_speaker",
+"value": "pe7i_7s_speaker"
+},
+{ "name": "pe7i_7s_signal",
+"value": "pe7i_7s_signal"
+},
+{ "name": "pe7i_7s_shuffle",
+"value": "pe7i_7s_shuffle"
+},
+{ "name": "pe7i_7s_shopbag",
+"value": "pe7i_7s_shopbag"
+},
+{ "name": "pe7i_7s_share",
+"value": "pe7i_7s_share"
+},
+{ "name": "pe7i_7s_server",
+"value": "pe7i_7s_server"
+},
+{ "name": "pe7i_7s_search",
+"value": "pe7i_7s_search"
+},
+{ "name": "pe7i_7s_film",
+"value": "pe7i_7s_film"
+},
+{ "name": "pe7i_7s_science",
+"value": "pe7i_7s_science"
+},
+{ "name": "pe7i_7s_disk",
+"value": "pe7i_7s_disk"
+},
+{ "name": "pe7i_7s_ribbon",
+"value": "pe7i_7s_ribbon"
+},
+{ "name": "pe7i_7s_repeat",
+"value": "pe7i_7s_repeat"
+},
+{ "name": "pe7i_7s_refresh",
+"value": "pe7i_7s_refresh"
+},
+{ "name": "pe7i_7s_add_user",
+"value": "pe7i_7s_add_user"
+},
+{ "name": "pe7i_7s_refresh_cloud",
+"value": "pe7i_7s_refresh_cloud"
+},
+{ "name": "pe7i_7s_paperclip",
+"value": "pe7i_7s_paperclip"
+},
+{ "name": "pe7i_7s_radio",
+"value": "pe7i_7s_radio"
+},
+{ "name": "pe7i_7s_note2",
+"value": "pe7i_7s_note2"
+},
+{ "name": "pe7i_7s_print",
+"value": "pe7i_7s_print"
+},
+{ "name": "pe7i_7s_network",
+"value": "pe7i_7s_network"
+},
+{ "name": "pe7i_7s_prev",
+"value": "pe7i_7s_prev"
+},
+{ "name": "pe7i_7s_mute",
+"value": "pe7i_7s_mute"
+},
+{ "name": "pe7i_7s_power",
+"value": "pe7i_7s_power"
+},
+{ "name": "pe7i_7s_medal",
+"value": "pe7i_7s_medal"
+},
+{ "name": "pe7i_7s_portfolio",
+"value": "pe7i_7s_portfolio"
+},
+{ "name": "pe7i_7s_like2",
+"value": "pe7i_7s_like2"
+},
+{ "name": "pe7i_7s_plus",
+"value": "pe7i_7s_plus"
+},
+{ "name": "pe7i_7s_left_arrow",
+"value": "pe7i_7s_left_arrow"
+},
+{ "name": "pe7i_7s_play",
+"value": "pe7i_7s_play"
+},
+{ "name": "pe7i_7s_key",
+"value": "pe7i_7s_key"
+},
+{ "name": "pe7i_7s_plane",
+"value": "pe7i_7s_plane"
+},
+{ "name": "pe7i_7s_joy",
+"value": "pe7i_7s_joy"
+},
+{ "name": "pe7i_7s_photo_gallery",
+"value": "pe7i_7s_photo_gallery"
+},
+{ "name": "pe7i_7s_pin",
+"value": "pe7i_7s_pin"
+},
+{ "name": "pe7i_7s_phone",
+"value": "pe7i_7s_phone"
+},
+{ "name": "pe7i_7s_plug",
+"value": "pe7i_7s_plug"
+},
+{ "name": "pe7i_7s_pen",
+"value": "pe7i_7s_pen"
+},
+{ "name": "pe7i_7s_right_arrow",
+"value": "pe7i_7s_right_arrow"
+},
+{ "name": "pe7i_7s_paper_plane",
+"value": "pe7i_7s_paper_plane"
+},
+{ "name": "pe7i_7s_delete_user",
+"value": "pe7i_7s_delete_user"
+},
+{ "name": "pe7i_7s_paint",
+"value": "pe7i_7s_paint"
+},
+{ "name": "pe7i_7s_bottom_arrow",
+"value": "pe7i_7s_bottom_arrow"
+},
+{ "name": "pe7i_7s_notebook",
+"value": "pe7i_7s_notebook"
+},
+{ "name": "pe7i_7s_note",
+"value": "pe7i_7s_note"
+},
+{ "name": "pe7i_7s_next",
+"value": "pe7i_7s_next"
+},
+{ "name": "pe7i_7s_news_paper",
+"value": "pe7i_7s_news_paper"
+},
+{ "name": "pe7i_7s_musiclist",
+"value": "pe7i_7s_musiclist"
+},
+{ "name": "pe7i_7s_music",
+"value": "pe7i_7s_music"
+},
+{ "name": "pe7i_7s_mouse",
+"value": "pe7i_7s_mouse"
+},
+{ "name": "pe7i_7s_more",
+"value": "pe7i_7s_more"
+},
+{ "name": "pe7i_7s_moon",
+"value": "pe7i_7s_moon"
+},
+{ "name": "pe7i_7s_monitor",
+"value": "pe7i_7s_monitor"
+},
+{ "name": "pe7i_7s_micro",
+"value": "pe7i_7s_micro"
+},
+{ "name": "pe7i_7s_menu",
+"value": "pe7i_7s_menu"
+},
+{ "name": "pe7i_7s_map",
+"value": "pe7i_7s_map"
+},
+{ "name": "pe7i_7s_map_marker",
+"value": "pe7i_7s_map_marker"
+},
+{ "name": "pe7i_7s_mail",
+"value": "pe7i_7s_mail"
+},
+{ "name": "pe7i_7s_mail_open",
+"value": "pe7i_7s_mail_open"
+},
+{ "name": "pe7i_7s_mail_open_file",
+"value": "pe7i_7s_mail_open_file"
+},
+{ "name": "pe7i_7s_magnet",
+"value": "pe7i_7s_magnet"
+},
+{ "name": "pe7i_7s_loop",
+"value": "pe7i_7s_loop"
+},
+{ "name": "pe7i_7s_look",
+"value": "pe7i_7s_look"
+},
+{ "name": "pe7i_7s_lock",
+"value": "pe7i_7s_lock"
+},
+{ "name": "pe7i_7s_lintern",
+"value": "pe7i_7s_lintern"
+},
+{ "name": "pe7i_7s_link",
+"value": "pe7i_7s_link"
+},
+{ "name": "pe7i_7s_like",
+"value": "pe7i_7s_like"
+},
+{ "name": "pe7i_7s_light",
+"value": "pe7i_7s_light"
+},
+{ "name": "pe7i_7s_less",
+"value": "pe7i_7s_less"
+},
+{ "name": "pe7i_7s_keypad",
+"value": "pe7i_7s_keypad"
+},
+{ "name": "pe7i_7s_junk",
+"value": "pe7i_7s_junk"
+},
+{ "name": "pe7i_7s_info",
+"value": "pe7i_7s_info"
+},
+{ "name": "pe7i_7s_home",
+"value": "pe7i_7s_home"
+},
+{ "name": "pe7i_7s_help2",
+"value": "pe7i_7s_help2"
+},
+{ "name": "pe7i_7s_help1",
+"value": "pe7i_7s_help1"
+},
+{ "name": "pe7i_7s_graph3",
+"value": "pe7i_7s_graph3"
+},
+{ "name": "pe7i_7s_graph2",
+"value": "pe7i_7s_graph2"
+},
+{ "name": "pe7i_7s_graph1",
+"value": "pe7i_7s_graph1"
+},
+{ "name": "pe7i_7s_graph",
+"value": "pe7i_7s_graph"
+},
+{ "name": "pe7i_7s_global",
+"value": "pe7i_7s_global"
+},
+{ "name": "pe7i_7s_gleam",
+"value": "pe7i_7s_gleam"
+},
+{ "name": "pe7i_7s_glasses",
+"value": "pe7i_7s_glasses"
+},
+{ "name": "pe7i_7s_gift",
+"value": "pe7i_7s_gift"
+},
+{ "name": "pe7i_7s_folder",
+"value": "pe7i_7s_folder"
+},
+{ "name": "pe7i_7s_flag",
+"value": "pe7i_7s_flag"
+},
+{ "name": "pe7i_7s_filter",
+"value": "pe7i_7s_filter"
+},
+{ "name": "pe7i_7s_file",
+"value": "pe7i_7s_file"
+},
+{ "name": "pe7i_7s_expand1",
+"value": "pe7i_7s_expand1"
+},
+{ "name": "pe7i_7s_exapnd2",
+"value": "pe7i_7s_exapnd2"
+},
+{ "name": "pe7i_7s_edit",
+"value": "pe7i_7s_edit"
+},
+{ "name": "pe7i_7s_drop",
+"value": "pe7i_7s_drop"
+},
+{ "name": "pe7i_7s_drawer",
+"value": "pe7i_7s_drawer"
+},
+{ "name": "pe7i_7s_download",
+"value": "pe7i_7s_download"
+},
+{ "name": "pe7i_7s_display2",
+"value": "pe7i_7s_display2"
+},
+{ "name": "pe7i_7s_display1",
+"value": "pe7i_7s_display1"
+},
+{ "name": "pe7i_7s_diskette",
+"value": "pe7i_7s_diskette"
+},
+{ "name": "pe7i_7s_date",
+"value": "pe7i_7s_date"
+},
+{ "name": "pe7i_7s_cup",
+"value": "pe7i_7s_cup"
+},
+{ "name": "pe7i_7s_culture",
+"value": "pe7i_7s_culture"
+},
+{ "name": "pe7i_7s_crop",
+"value": "pe7i_7s_crop"
+},
+{ "name": "pe7i_7s_credit",
+"value": "pe7i_7s_credit"
+},
+{ "name": "pe7i_7s_copy_file",
+"value": "pe7i_7s_copy_file"
+},
+{ "name": "pe7i_7s_config",
+"value": "pe7i_7s_config"
+},
+{ "name": "pe7i_7s_compass",
+"value": "pe7i_7s_compass"
+},
+{ "name": "pe7i_7s_comment",
+"value": "pe7i_7s_comment"
+},
+{ "name": "pe7i_7s_coffee",
+"value": "pe7i_7s_coffee"
+},
+{ "name": "pe7i_7s_cloud",
+"value": "pe7i_7s_cloud"
+},
+{ "name": "pe7i_7s_clock",
+"value": "pe7i_7s_clock"
+},
+{ "name": "pe7i_7s_check",
+"value": "pe7i_7s_check"
+},
+{ "name": "pe7i_7s_chat",
+"value": "pe7i_7s_chat"
+},
+{ "name": "pe7i_7s_cart",
+"value": "pe7i_7s_cart"
+},
+{ "name": "pe7i_7s_camera",
+"value": "pe7i_7s_camera"
+},
+{ "name": "pe7i_7s_call",
+"value": "pe7i_7s_call"
+},
+{ "name": "pe7i_7s_calculator",
+"value": "pe7i_7s_calculator"
+},
+{ "name": "pe7i_7s_browser",
+"value": "pe7i_7s_browser"
+},
+{ "name": "pe7i_7s_box2",
+"value": "pe7i_7s_box2"
+},
+{ "name": "pe7i_7s_box1",
+"value": "pe7i_7s_box1"
+},
+{ "name": "pe7i_7s_bookmarks",
+"value": "pe7i_7s_bookmarks"
+},
+{ "name": "pe7i_7s_bicycle",
+"value": "pe7i_7s_bicycle"
+},
+{ "name": "pe7i_7s_bell",
+"value": "pe7i_7s_bell"
+},
+{ "name": "pe7i_7s_battery",
+"value": "pe7i_7s_battery"
+},
+{ "name": "pe7i_7s_ball",
+"value": "pe7i_7s_ball"
+},
+{ "name": "pe7i_7s_back",
+"value": "pe7i_7s_back"
+},
+{ "name": "pe7i_7s_attention",
+"value": "pe7i_7s_attention"
+},
+{ "name": "pe7i_7s_anchor",
+"value": "pe7i_7s_anchor"
+},
+{ "name": "pe7i_7s_albums",
+"value": "pe7i_7s_albums"
+},
+{ "name": "pe7i_7s_alarm",
+"value": "pe7i_7s_alarm"
+},
+{ "name": "pe7i_7s_airplay",
+"value": "pe7i_7s_airplay"
+}
+]
+}

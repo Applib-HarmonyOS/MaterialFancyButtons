@@ -1,0 +1,48 @@
+apply plugin: 'com.huawei.ohos.hap'
+apply plugin: 'com.huawei.ohos.decctest'
+ohos {
+    compileSdkVersion 5
+    defaultConfig {
+        compatibleSdkVersion 4
+    }
+    buildTypes {
+        release {
+            proguardOpt {
+                proguardEnabled false
+                rulesFiles 'proguard-rules.pro'
+            }
+        }
+    }
+    
+}
+
+dependencies {
+
+    implementation project(path: ':materialfancybutton')
+    implementation project(path: ':fontawesome_typeface')
+    implementation project(path: ':community_material_typeface')
+    implementation project(path: ':devicon_typeface')
+    implementation project(path: ':dripicons_typeface')
+    implementation project(path: ':entypo_typeface')
+    implementation project(path: ':foundation_icons_typeface')
+    implementation project(path: ':glyphicons_halflings_typeface')
+    implementation project(path: ':google_material_typeface')
+    implementation project(path: ':ionicons_typeface')
+    implementation project(path: ':material_design_iconic_typeface')
+    implementation project(path: ':meteocons_typeface')
+    implementation project(path: ':mfglabs_iconset_typeface')
+    implementation project(path: ':mobirise_icons_typeface')
+    implementation project(path: ':octicons_typeface')
+    implementation project(path: ':open_iconic_typeface')
+    implementation project(path: ':picol_typeface')
+    implementation project(path: ':pixeden_7_stroke_typeface')
+    implementation project(path: ':themify_icons_typeface')
+    implementation project(path: ':typicons_typeface')
+    implementation project(path: ':vaadin_icons_typeface')
+    implementation project(path: ':weather_icons_typeface')
+    testImplementation 'junit:junit:4.13'
+    ohosTestImplementation 'com.huawei.ohos.testkit:runner:1.0.0.100'
+}
+decc {
+    supportType = ['html','xml']
+}

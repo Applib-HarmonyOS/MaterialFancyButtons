@@ -1,0 +1,200 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "MaterialFancyButtons"
+    },
+    {
+      "name": "mainability_description",
+      "value": "Sample App Feature Ability"
+    },
+    {
+      "name": "list_item_default_text",
+      "value": "List Item Default Text"
+    },
+    {
+      "name": "program_button_desc",
+      "value": "Buttons defined programmatically using the various supported typefaces."
+    },
+    {
+      "name": "action_settings",
+      "value": "Settings"
+    },
+    {
+      "name": "title_xml_buttons",
+      "value": "XmlButtons"
+    },
+    {
+      "name": "title_program_buttons",
+      "value": "ProgramButtons"
+    },
+    {
+      "name": "title_community_material_buttons",
+      "value": "Community Material Buttons"
+    },
+    {
+      "name": "title_devicon_buttons",
+      "value": "Devicon Buttons"
+    },
+    {
+      "name": "title_dripicons_buttons",
+      "value": "Dripicons Buttons"
+    },
+    {
+      "name": "title_entypo",
+      "value": "Entypo Buttons"
+    },
+    {
+      "name": "title_fontawesome",
+      "value": "Fontawesome Buttons"
+    },
+    {
+      "name": "title_foundation_icons",
+      "value": "Foundation Icons Buttons"
+    },
+    {
+      "name": "title_glyphicons_halflings",
+      "value": "Glyphicons Halflings Buttons"
+    },
+    {
+      "name": "title_google_material",
+      "value": "Google Material Buttons"
+    },
+    {
+      "name": "title_ionicons",
+      "value": "Ionicons Buttons"
+    },
+    {
+      "name": "title_mfglabs",
+      "value": "MFGLabs Iconset Buttons"
+    },
+    {
+      "name": "title_material_design_iconic",
+      "value": "Material Design Iconic Buttons"
+    },
+    {
+      "name": "title_meteocons",
+      "value": "Meteocons Buttons"
+    },
+    {
+      "name": "title_mobiriseicons",
+      "value": "Mobirise Buttons"
+    },
+    {
+      "name": "title_octicons",
+      "value": "Octicons Buttons"
+    },
+    {
+      "name": "title_openiconic",
+      "value": "Open Iconic Buttons"
+    },
+    {
+      "name": "title_picol",
+      "value": "PICOL Icons Buttons"
+    },
+    {
+      "name": "title_pixeden7",
+      "value": "Pixeden 7 Stroke Buttons"
+    },
+    {
+      "name": "title_themify_icons",
+      "value": "Themify Icons Buttons"
+    },
+    {
+      "name": "title_typicons",
+      "value": "Typicons Buttons"
+    },
+    {
+      "name": "title_vaadin_icons",
+      "value": "Vaadin Icons Buttons"
+    },
+    {
+      "name": "title_weather_icons",
+      "value": "Weather Icons Buttons"
+    },
+    {
+      "name": "font_communitymaterial",
+      "value": "communitymaterial-font-v1.9.32.ttf"
+    },
+    {
+      "name": "font_devicon",
+      "value": "devicon-font-v2.0.0.1.ttf"
+    },
+    {
+      "name": "font_dripicons",
+      "value": "dripicons-v2.ttf"
+    },
+    {
+      "name": "font_entypo",
+      "value": "entypo-font-v1.0.0.1.ttf"
+    },
+    {
+      "name": "font_fontawesome",
+      "value": "fontawesome-font-v4.7.ttf"
+    },
+    {
+      "name": "font_foundation_icons",
+      "value": "foundation-icons-font-v3.0.0.1.ttf"
+    },
+    {
+      "name": "font_glyphicons_halflings",
+      "value": "glyphicons-halflings-regular.ttf"
+    },
+    {
+      "name": "font_google_material",
+      "value": "googlematerial.ttf"
+    },
+    {
+      "name": "font_ionicons",
+      "value": "ionicons.ttf"
+    },
+    {
+      "name": "font_material_design_iconic",
+      "value": "material-design-iconic-font-v2.2.0.ttf"
+    },
+    {
+      "name": "font_meteocons",
+      "value": "meteocons.ttf"
+    },
+    {
+      "name": "font_mfglabs_iconset",
+      "value": "mfglabsiconset-webfont-1.0.ttf"
+    },
+    {
+      "name": "font_mobirise_icons",
+      "value": "mobirise-icons-v1.0.0.ttf"
+    },
+    {
+      "name": "font_octicons",
+      "value": "octicons-v3.2.0.ttf"
+    },
+    {
+      "name": "font_open_iconic",
+      "value": "open-iconic-1.1.1.ttf"
+    },
+    {
+      "name": "font_picol",
+      "value": "picol-v1.1.ttf"
+    },
+    {
+      "name": "font_pixeden_7_stroke",
+      "value": "pixeden-7-stroke-font-v1.2.0.ttf"
+    },
+    {
+      "name": "font_themify_icons",
+      "value": "themify-icons-v0.1.2.ttf"
+    },
+    {
+      "name": "font_typicons",
+      "value": "typicons-font-v2.0.7.1.ttf"
+    },
+    {
+      "name": "font_vaadin_icons",
+      "value": "vaadin-icons-v4.1.0.ttf"
+    },
+    {
+      "name": "font_weather_icons",
+      "value": "weather-icons-v2.0.10.ttf"
+    }
+  ]
+}
