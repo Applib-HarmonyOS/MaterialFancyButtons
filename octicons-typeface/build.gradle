@@ -1,0 +1,61 @@
+apply plugin: 'com.android.library'
+
+ext.octiconsVersionCode = 32003
+ext.octiconsVersionName = '3.2.0.3'
+ext.libraryName = 'octicons-typeface'
+
+android {
+  compileSdkVersion rootProject.ext.compileSdkVersion
+  buildToolsVersion rootProject.ext.buildToolsVersion
+
+  defaultConfig {
+    minSdkVersion rootProject.ext.minSdkVersion
+    targetSdkVersion rootProject.ext.targetSdkVersion
+    consumerProguardFiles 'consumer-proguard-rules.pro'
+    versionCode octiconsVersionCode
+    versionName octiconsVersionName
+  }
+  buildTypes {
+    release {
+      minifyEnabled false
+      proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+    }
+  }
+
+  lintOptions {
+    abortOnError false
+  }
+}
+
+dependencies {
+  implementation project(path: ':materialfancybuttons')
+}
+
+if (project.hasProperty('pushall') || project.hasProperty('octiconsOnly')) {
+  ext {
+
+    //For bintray and jcenter distribution
+    bintrayName = libraryName
+    libraryName = libraryName
+    //This artifact name should be the same with library module name
+    artifact = libraryName
+    libraryDescription =
+        'Otcicons Typeface for MaterialFancyButtons. GitHub\'s icon font https://octicons.github.com/'
+    libraryVersion = octiconsVersionName
+
+    bintrayRepo = rootProject.ext.bintrayRepo
+    publishedGroupId = rootProject.ext.publishedGroupId
+    siteUrl = rootProject.ext.siteUrl
+    gitUrl = rootProject.ext.gitUrl
+    developerId = rootProject.ext.developerId
+    developerName = rootProject.ext.developerName
+    developerEmail = rootProject.ext.developerEmail
+    organization = rootProject.ext.organization
+    licenseName = rootProject.ext.licenseName
+    licenseUrl = rootProject.ext.licenseUrl
+    allLicenses = [rootProject.ext.allLicenses]
+  }
+
+  apply from: '../install.gradle'
+  apply from: '../bintray.gradle'
+}

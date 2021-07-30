@@ -1,0 +1,1 @@
+-keep class com.rilixtech.typicons_typeface.Typicons { *; }

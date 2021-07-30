@@ -1,0 +1,20 @@
+include ':samples', ':mfglabs-iconset-typeface', ':themify-icons-typeface', ':picol-typeface',
+    ':open-iconic-typeface',
+    ':dripicons-typeface', ':glyphicons-halflings-typeface',
+    ':mobirise-icons-typeface'
+include ':materialfancybuttons'
+include ':icontext2string'
+include ':fontawesome-typeface'
+include ':meteocons-typeface'
+include ':weather-icons-typeface'
+include ':octicons-typeface'
+include ':community-material-typeface'
+include ':material-design-iconic-typeface'
+include ':google-material-typeface'
+include ':entypo-typeface'
+include ':typicons-typeface'
+include ':devicon-typeface'
+include ':foundation-icons-typeface'
+include ':ionicons-typeface'
+include ':pixeden-7-stroke-typeface'
+include ':vaadin-icons-typeface'
