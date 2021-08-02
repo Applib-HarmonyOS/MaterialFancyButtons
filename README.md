@@ -1,3 +1,6 @@
+[![Build](https://github.com/applibgroup/materialfancybuttons/actions/workflows/main.yml/badge.svg)](https://github.com/applibgroup/materialfancybuttons/actions/workflows/main.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=applibgroup_MaterialFancyButtons&metric=alert_status)](https://sonarcloud.io/dashboard?id=applibgroup_MaterialFancyButtons)
+
 # MaterialFancyButtons
 
 MaterialFancyButtons is a library that provides highly customizable buttons, with options to include icons made of Element graphics or icon-fonts loaded from font files. Using this library, one can effortlessly design attractive and aesthetic buttons to go along with the theme of the UI. It supports 21 precompiled icon-fonts and provides an interface to easily include new fonts.
@@ -73,6 +76,14 @@ The Button can be created using XML code with supported XML attributes or instan
 	dependencies {
 		implementation fileTree(dir: 'libs', include: ['*.har'])
 		testCompile 'junit:junit:4.12'
+	}
+```
+
+3. For using MaterialFancyButtons from a remote repository in separate application, add the below dependencies in entry/build.gradle file.
+```
+	dependencies {
+		implementation 'dev.applibgroup:materialfancybutton:1.0.0'
+        	testCompile 'junit:junit:4.12'
 	}
 ```
 
