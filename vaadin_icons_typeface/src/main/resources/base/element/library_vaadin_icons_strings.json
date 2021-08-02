@@ -1,0 +1,37 @@
+{
+ "string": [
+{ "name": "define_vaadin_icons",
+"value": "year;author;libraryName;libraryWebsite"
+},
+{ "name": "library_vaadin_icons_author",
+"value": "Jarmo Kemppainen"
+},
+{ "name": "library_vaadin_icons_authorWebsite",
+"value": ""
+},
+{ "name": "library_vaadin_icons_libraryName",
+"value": "Vaadin Icons"
+},
+{ "name": "library_vaadin_icons_libraryDescription",
+"value": "Vaadin Icons is a set of 600+ icons designed for web applications. Free to use, anywhere!"
+},
+{ "name": "library_vaadin_icons_libraryWebsite",
+"value": "https://vaadin.com/icons/"
+},
+{ "name": "library_vaadin_icons_libraryVersion",
+"value": "4.1.0"
+},
+{ "name": "library_vaadin_icons_licenseId",
+"value": "CC BY 4.0"
+},
+{ "name": "library_vaadin_icons_isOpenSource",
+"value": "true"
+},
+{ "name": "library_vaadin_icons_repositoryLink",
+"value": "https://github.com/vaadin/vaadin-icons/"
+},
+{ "name": "library_vaadin_icons_year",
+"value": " "
+}
+]
+}

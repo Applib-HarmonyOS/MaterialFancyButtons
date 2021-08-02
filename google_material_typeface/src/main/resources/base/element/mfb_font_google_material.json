@@ -1,0 +1,2793 @@
+{
+  "string": [
+    { "name": "define_mfb_font_google_material",
+      "value": "com.rilixtech.googlematerialtypeface.GoogleMaterial"
+    },
+    { "name": "gmdi_3d_rotation",
+      "value": "gmdi_3d_rotation"
+    },
+    { "name": "gmdi_ac_unit",
+      "value": "gmdi_ac_unit"
+    },
+    { "name": "gmdi_access_alarm",
+      "value": "gmdi_access_alarm"
+    },
+    { "name": "gmdi_access_alarms",
+      "value": "gmdi_access_alarms"
+    },
+    { "name": "gmdi_access_time",
+      "value": "gmdi_access_time"
+    },
+    { "name": "gmdi_accessibility",
+      "value": "gmdi_accessibility"
+    },
+    { "name": "gmdi_accessible",
+      "value": "gmdi_accessible"
+    },
+    { "name": "gmdi_account_balance",
+      "value": "gmdi_account_balance"
+    },
+    { "name": "gmdi_account_balance_wallet",
+      "value": "gmdi_account_balance_wallet"
+    },
+    { "name": "gmdi_account_box",
+      "value": "gmdi_account_box"
+    },
+    { "name": "gmdi_account_circle",
+      "value": "gmdi_account_circle"
+    },
+    { "name": "gmdi_adb",
+      "value": "gmdi_adb"
+    },
+    { "name": "gmdi_add",
+      "value": "gmdi_add"
+    },
+    { "name": "gmdi_add_a_photo",
+      "value": "gmdi_add_a_photo"
+    },
+    { "name": "gmdi_add_alarm",
+      "value": "gmdi_add_alarm"
+    },
+    { "name": "gmdi_add_alert",
+      "value": "gmdi_add_alert"
+    },
+    { "name": "gmdi_add_box",
+      "value": "gmdi_add_box"
+    },
+    { "name": "gmdi_add_circle",
+      "value": "gmdi_add_circle"
+    },
+    { "name": "gmdi_add_circle_outline",
+      "value": "gmdi_add_circle_outline"
+    },
+    { "name": "gmdi_add_location",
+      "value": "gmdi_add_location"
+    },
+    { "name": "gmdi_add_shopping_cart",
+      "value": "gmdi_add_shopping_cart"
+    },
+    { "name": "gmdi_add_to_photos",
+      "value": "gmdi_add_to_photos"
+    },
+    { "name": "gmdi_add_to_queue",
+      "value": "gmdi_add_to_queue"
+    },
+    { "name": "gmdi_adjust",
+      "value": "gmdi_adjust"
+    },
+    { "name": "gmdi_airline_seat_flat",
+      "value": "gmdi_airline_seat_flat"
+    },
+    { "name": "gmdi_airline_seat_flat_angled",
+      "value": "gmdi_airline_seat_flat_angled"
+    },
+    { "name": "gmdi_airline_seat_individual_suite",
+      "value": "gmdi_airline_seat_individual_suite"
+    },
+    { "name": "gmdi_airline_seat_legroom_extra",
+      "value": "gmdi_airline_seat_legroom_extra"
+    },
+    { "name": "gmdi_airline_seat_legroom_normal",
+      "value": "gmdi_airline_seat_legroom_normal"
+    },
+    { "name": "gmdi_airline_seat_legroom_reduced",
+      "value": "gmdi_airline_seat_legroom_reduced"
+    },
+    { "name": "gmdi_airline_seat_recline_extra",
+      "value": "gmdi_airline_seat_recline_extra"
+    },
+    { "name": "gmdi_airline_seat_recline_normal",
+      "value": "gmdi_airline_seat_recline_normal"
+    },
+    { "name": "gmdi_airplanemode_active",
+      "value": "gmdi_airplanemode_active"
+    },
+    { "name": "gmdi_airplanemode_inactive",
+      "value": "gmdi_airplanemode_inactive"
+    },
+    { "name": "gmdi_airplay",
+      "value": "gmdi_airplay"
+    },
+    { "name": "gmdi_airport_shuttle",
+      "value": "gmdi_airport_shuttle"
+    },
+    { "name": "gmdi_alarm",
+      "value": "gmdi_alarm"
+    },
+    { "name": "gmdi_alarm_add",
+      "value": "gmdi_alarm_add"
+    },
+    { "name": "gmdi_alarm_off",
+      "value": "gmdi_alarm_off"
+    },
+    { "name": "gmdi_alarm_on",
+      "value": "gmdi_alarm_on"
+    },
+    { "name": "gmdi_album",
+      "value": "gmdi_album"
+    },
+    { "name": "gmdi_all_inclusive",
+      "value": "gmdi_all_inclusive"
+    },
+    { "name": "gmdi_all_out",
+      "value": "gmdi_all_out"
+    },
+    { "name": "gmdi_announcement",
+      "value": "gmdi_announcement"
+    },
+    { "name": "gmdi_apps",
+      "value": "gmdi_apps"
+    },
+    { "name": "gmdi_archive",
+      "value": "gmdi_archive"
+    },
+    { "name": "gmdi_arrow_back",
+      "value": "gmdi_arrow_back"
+    },
+    { "name": "gmdi_arrow_downward",
+      "value": "gmdi_arrow_downward"
+    },
+    { "name": "gmdi_arrow_drop_down",
+      "value": "gmdi_arrow_drop_down"
+    },
+    { "name": "gmdi_arrow_drop_down_circle",
+      "value": "gmdi_arrow_drop_down_circle"
+    },
+    { "name": "gmdi_arrow_drop_up",
+      "value": "gmdi_arrow_drop_up"
+    },
+    { "name": "gmdi_arrow_forward",
+      "value": "gmdi_arrow_forward"
+    },
+    { "name": "gmdi_arrow_upward",
+      "value": "gmdi_arrow_upward"
+    },
+    { "name": "gmdi_art_track",
+      "value": "gmdi_art_track"
+    },
+    { "name": "gmdi_aspect_ratio",
+      "value": "gmdi_aspect_ratio"
+    },
+    { "name": "gmdi_assessment",
+      "value": "gmdi_assessment"
+    },
+    { "name": "gmdi_assignment",
+      "value": "gmdi_assignment"
+    },
+    { "name": "gmdi_assignmenti_ind",
+      "value": "gmdi_assignmenti_ind"
+    },
+    { "name": "gmdi_assignmenti_late",
+      "value": "gmdi_assignmenti_late"
+    },
+    { "name": "gmdi_assignmenti_return",
+      "value": "gmdi_assignmenti_return"
+    },
+    { "name": "gmdi_assignmenti_returned",
+      "value": "gmdi_assignmenti_returned"
+    },
+    { "name": "gmdi_assignmenti_turned_in",
+      "value": "gmdi_assignmenti_turned_in"
+    },
+    { "name": "gmdi_assistant",
+      "value": "gmdi_assistant"
+    },
+    { "name": "gmdi_assistant_photo",
+      "value": "gmdi_assistant_photo"
+    },
+    { "name": "gmdi_attach_file",
+      "value": "gmdi_attach_file"
+    },
+    { "name": "gmdi_attach_money",
+      "value": "gmdi_attach_money"
+    },
+    { "name": "gmdi_attachment",
+      "value": "gmdi_attachment"
+    },
+    { "name": "gmdi_audiotrack",
+      "value": "gmdi_audiotrack"
+    },
+    { "name": "gmdi_autorenew",
+      "value": "gmdi_autorenew"
+    },
+    { "name": "gmdi_av_timer",
+      "value": "gmdi_av_timer"
+    },
+    { "name": "gmdi_backspace",
+      "value": "gmdi_backspace"
+    },
+    { "name": "gmdi_backup",
+      "value": "gmdi_backup"
+    },
+    { "name": "gmdi_battery_alert",
+      "value": "gmdi_battery_alert"
+    },
+    { "name": "gmdi_battery_charging_full",
+      "value": "gmdi_battery_charging_full"
+    },
+    { "name": "gmdi_battery_full",
+      "value": "gmdi_battery_full"
+    },
+    { "name": "gmdi_battery_std",
+      "value": "gmdi_battery_std"
+    },
+    { "name": "gmdi_battery_unknown",
+      "value": "gmdi_battery_unknown"
+    },
+    { "name": "gmdi_beach_access",
+      "value": "gmdi_beach_access"
+    },
+    { "name": "gmdi_beenhere",
+      "value": "gmdi_beenhere"
+    },
+    { "name": "gmdi_block",
+      "value": "gmdi_block"
+    },
+    { "name": "gmdi_bluetooth",
+      "value": "gmdi_bluetooth"
+    },
+    { "name": "gmdi_bluetooth_audio",
+      "value": "gmdi_bluetooth_audio"
+    },
+    { "name": "gmdi_bluetooth_connected",
+      "value": "gmdi_bluetooth_connected"
+    },
+    { "name": "gmdi_bluetooth_disabled",
+      "value": "gmdi_bluetooth_disabled"
+    },
+    { "name": "gmdi_bluetooth_searching",
+      "value": "gmdi_bluetooth_searching"
+    },
+    { "name": "gmdi_blur_circular",
+      "value": "gmdi_blur_circular"
+    },
+    { "name": "gmdi_blur_linear",
+      "value": "gmdi_blur_linear"
+    },
+    { "name": "gmdi_blur_off",
+      "value": "gmdi_blur_off"
+    },
+    { "name": "gmdi_blur_on",
+      "value": "gmdi_blur_on"
+    },
+    { "name": "gmdi_book",
+      "value": "gmdi_book"
+    },
+    { "name": "gmdi_bookmark",
+      "value": "gmdi_bookmark"
+    },
+    { "name": "gmdi_bookmark_border",
+      "value": "gmdi_bookmark_border"
+    },
+    { "name": "gmdi_border_all",
+      "value": "gmdi_border_all"
+    },
+    { "name": "gmdi_border_bottom",
+      "value": "gmdi_border_bottom"
+    },
+    { "name": "gmdi_border_clear",
+      "value": "gmdi_border_clear"
+    },
+    { "name": "gmdi_border_color",
+      "value": "gmdi_border_color"
+    },
+    { "name": "gmdi_border_horizontal",
+      "value": "gmdi_border_horizontal"
+    },
+    { "name": "gmdi_border_inner",
+      "value": "gmdi_border_inner"
+    },
+    { "name": "gmdi_border_left",
+      "value": "gmdi_border_left"
+    },
+    { "name": "gmdi_border_outer",
+      "value": "gmdi_border_outer"
+    },
+    { "name": "gmdi_border_right",
+      "value": "gmdi_border_right"
+    },
+    { "name": "gmdi_border_style",
+      "value": "gmdi_border_style"
+    },
+    { "name": "gmdi_border_top",
+      "value": "gmdi_border_top"
+    },
+    { "name": "gmdi_border_vertical",
+      "value": "gmdi_border_vertical"
+    },
+    { "name": "gmdi_branding_watermark",
+      "value": "gmdi_branding_watermark"
+    },
+    { "name": "gmdi_brightness_1",
+      "value": "gmdi_brightness_1"
+    },
+    { "name": "gmdi_brightness_2",
+      "value": "gmdi_brightness_2"
+    },
+    { "name": "gmdi_brightness_3",
+      "value": "gmdi_brightness_3"
+    },
+    { "name": "gmdi_brightness_4",
+      "value": "gmdi_brightness_4"
+    },
+    { "name": "gmdi_brightness_5",
+      "value": "gmdi_brightness_5"
+    },
+    { "name": "gmdi_brightness_6",
+      "value": "gmdi_brightness_6"
+    },
+    { "name": "gmdi_brightness_7",
+      "value": "gmdi_brightness_7"
+    },
+    { "name": "gmdi_brightness_auto",
+      "value": "gmdi_brightness_auto"
+    },
+    { "name": "gmdi_brightness_high",
+      "value": "gmdi_brightness_high"
+    },
+    { "name": "gmdi_brightness_low",
+      "value": "gmdi_brightness_low"
+    },
+    { "name": "gmdi_brightness_medium",
+      "value": "gmdi_brightness_medium"
+    },
+    { "name": "gmdi_broken_image",
+      "value": "gmdi_broken_image"
+    },
+    { "name": "gmdi_brush",
+      "value": "gmdi_brush"
+    },
+    { "name": "gmdi_bubble_chart",
+      "value": "gmdi_bubble_chart"
+    },
+    { "name": "gmdi_bug_report",
+      "value": "gmdi_bug_report"
+    },
+    { "name": "gmdi_build",
+      "value": "gmdi_build"
+    },
+    { "name": "gmdi_burst_mode",
+      "value": "gmdi_burst_mode"
+    },
+    { "name": "gmdi_business",
+      "value": "gmdi_business"
+    },
+    { "name": "gmdi_business_center",
+      "value": "gmdi_business_center"
+    },
+    { "name": "gmdi_cached",
+      "value": "gmdi_cached"
+    },
+    { "name": "gmdi_cake",
+      "value": "gmdi_cake"
+    },
+    { "name": "gmdi_call",
+      "value": "gmdi_call"
+    },
+    { "name": "gmdi_call_end",
+      "value": "gmdi_call_end"
+    },
+    { "name": "gmdi_call_made",
+      "value": "gmdi_call_made"
+    },
+    { "name": "gmdi_call_merge",
+      "value": "gmdi_call_merge"
+    },
+    { "name": "gmdi_call_missed",
+      "value": "gmdi_call_missed"
+    },
+    { "name": "gmdi_call_missed_outgoing",
+      "value": "gmdi_call_missed_outgoing"
+    },
+    { "name": "gmdi_call_received",
+      "value": "gmdi_call_received"
+    },
+    { "name": "gmdi_call_split",
+      "value": "gmdi_call_split"
+    },
+    { "name": "gmdi_call_to_action",
+      "value": "gmdi_call_to_action"
+    },
+    { "name": "gmdi_camera",
+      "value": "gmdi_camera"
+    },
+    { "name": "gmdi_camera_alt",
+      "value": "gmdi_camera_alt"
+    },
+    { "name": "gmdi_camera_enhance",
+      "value": "gmdi_camera_enhance"
+    },
+    { "name": "gmdi_camera_front",
+      "value": "gmdi_camera_front"
+    },
+    { "name": "gmdi_camera_rear",
+      "value": "gmdi_camera_rear"
+    },
+    { "name": "gmdi_camera_roll",
+      "value": "gmdi_camera_roll"
+    },
+    { "name": "gmdi_cancel",
+      "value": "gmdi_cancel"
+    },
+    { "name": "gmdi_card_giftcard",
+      "value": "gmdi_card_giftcard"
+    },
+    { "name": "gmdi_card_membership",
+      "value": "gmdi_card_membership"
+    },
+    { "name": "gmdi_card_travel",
+      "value": "gmdi_card_travel"
+    },
+    { "name": "gmdi_casino",
+      "value": "gmdi_casino"
+    },
+    { "name": "gmdi_cast",
+      "value": "gmdi_cast"
+    },
+    { "name": "gmdi_cast_connected",
+      "value": "gmdi_cast_connected"
+    },
+    { "name": "gmdi_center_focus_strong",
+      "value": "gmdi_center_focus_strong"
+    },
+    { "name": "gmdi_center_focus_weak",
+      "value": "gmdi_center_focus_weak"
+    },
+    { "name": "gmdi_change_history",
+      "value": "gmdi_change_history"
+    },
+    { "name": "gmdi_chat",
+      "value": "gmdi_chat"
+    },
+    { "name": "gmdi_chat_bubble",
+      "value": "gmdi_chat_bubble"
+    },
+    { "name": "gmdi_chat_bubble_outline",
+      "value": "gmdi_chat_bubble_outline"
+    },
+    { "name": "gmdi_check",
+      "value": "gmdi_check"
+    },
+    { "name": "gmdi_check_box",
+      "value": "gmdi_check_box"
+    },
+    { "name": "gmdi_check_box_outline_blank",
+      "value": "gmdi_check_box_outline_blank"
+    },
+    { "name": "gmdi_check_circle",
+      "value": "gmdi_check_circle"
+    },
+    { "name": "gmdi_chevron_left",
+      "value": "gmdi_chevron_left"
+    },
+    { "name": "gmdi_chevron_right",
+      "value": "gmdi_chevron_right"
+    },
+    { "name": "gmdi_child_care",
+      "value": "gmdi_child_care"
+    },
+    { "name": "gmdi_child_friendly",
+      "value": "gmdi_child_friendly"
+    },
+    { "name": "gmdi_chrome_reader_mode",
+      "value": "gmdi_chrome_reader_mode"
+    },
+    { "name": "gmdi_class",
+      "value": "gmdi_class"
+    },
+    { "name": "gmdi_clear",
+      "value": "gmdi_clear"
+    },
+    { "name": "gmdi_clear_all",
+      "value": "gmdi_clear_all"
+    },
+    { "name": "gmdi_close",
+      "value": "gmdi_close"
+    },
+    { "name": "gmdi_closed_caption",
+      "value": "gmdi_closed_caption"
+    },
+    { "name": "gmdi_cloud",
+      "value": "gmdi_cloud"
+    },
+    { "name": "gmdi_cloud_circle",
+      "value": "gmdi_cloud_circle"
+    },
+    { "name": "gmdi_cloud_done",
+      "value": "gmdi_cloud_done"
+    },
+    { "name": "gmdi_cloud_download",
+      "value": "gmdi_cloud_download"
+    },
+    { "name": "gmdi_cloud_off",
+      "value": "gmdi_cloud_off"
+    },
+    { "name": "gmdi_cloud_queue",
+      "value": "gmdi_cloud_queue"
+    },
+    { "name": "gmdi_cloud_upload",
+      "value": "gmdi_cloud_upload"
+    },
+    { "name": "gmdi_code",
+      "value": "gmdi_code"
+    },
+    { "name": "gmdi_collections",
+      "value": "gmdi_collections"
+    },
+    { "name": "gmdi_collections_bookmark",
+      "value": "gmdi_collections_bookmark"
+    },
+    { "name": "gmdi_color_lens",
+      "value": "gmdi_color_lens"
+    },
+    { "name": "gmdi_colorize",
+      "value": "gmdi_colorize"
+    },
+    { "name": "gmdi_comment",
+      "value": "gmdi_comment"
+    },
+    { "name": "gmdi_compare",
+      "value": "gmdi_compare"
+    },
+    { "name": "gmdi_compare_arrows",
+      "value": "gmdi_compare_arrows"
+    },
+    { "name": "gmdi_computer",
+      "value": "gmdi_computer"
+    },
+    { "name": "gmdi_confirmation_number",
+      "value": "gmdi_confirmation_number"
+    },
+    { "name": "gmdi_contact_mail",
+      "value": "gmdi_contact_mail"
+    },
+    { "name": "gmdi_contact_phone",
+      "value": "gmdi_contact_phone"
+    },
+    { "name": "gmdi_contacts",
+      "value": "gmdi_contacts"
+    },
+    { "name": "gmdi_contenti_copy",
+      "value": "gmdi_contenti_copy"
+    },
+    { "name": "gmdi_contenti_cut",
+      "value": "gmdi_contenti_cut"
+    },
+    { "name": "gmdi_contenti_paste",
+      "value": "gmdi_contenti_paste"
+    },
+    { "name": "gmdi_control_point",
+      "value": "gmdi_control_point"
+    },
+    { "name": "gmdi_control_point_duplicate",
+      "value": "gmdi_control_point_duplicate"
+    },
+    { "name": "gmdi_copyright",
+      "value": "gmdi_copyright"
+    },
+    { "name": "gmdi_create",
+      "value": "gmdi_create"
+    },
+    { "name": "gmdi_create_new_folder",
+      "value": "gmdi_create_new_folder"
+    },
+    { "name": "gmdi_credit_card",
+      "value": "gmdi_credit_card"
+    },
+    { "name": "gmdi_crop",
+      "value": "gmdi_crop"
+    },
+    { "name": "gmdi_crop_16_9",
+      "value": "gmdi_crop_16_9"
+    },
+    { "name": "gmdi_crop_3_2",
+      "value": "gmdi_crop_3_2"
+    },
+    { "name": "gmdi_crop_5_4",
+      "value": "gmdi_crop_5_4"
+    },
+    { "name": "gmdi_crop_7_5",
+      "value": "gmdi_crop_7_5"
+    },
+    { "name": "gmdi_crop_din",
+      "value": "gmdi_crop_din"
+    },
+    { "name": "gmdi_crop_free",
+      "value": "gmdi_crop_free"
+    },
+    { "name": "gmdi_crop_landscape",
+      "value": "gmdi_crop_landscape"
+    },
+    { "name": "gmdi_crop_original",
+      "value": "gmdi_crop_original"
+    },
+    { "name": "gmdi_crop_portrait",
+      "value": "gmdi_crop_portrait"
+    },
+    { "name": "gmdi_crop_rotate",
+      "value": "gmdi_crop_rotate"
+    },
+    { "name": "gmdi_crop_square",
+      "value": "gmdi_crop_square"
+    },
+    { "name": "gmdi_dashboard",
+      "value": "gmdi_dashboard"
+    },
+    { "name": "gmdi_data_usage",
+      "value": "gmdi_data_usage"
+    },
+    { "name": "gmdi_date_range",
+      "value": "gmdi_date_range"
+    },
+    { "name": "gmdi_dehaze",
+      "value": "gmdi_dehaze"
+    },
+    { "name": "gmdi_delete",
+      "value": "gmdi_delete"
+    },
+    { "name": "gmdi_delete_forever",
+      "value": "gmdi_delete_forever"
+    },
+    { "name": "gmdi_delete_sweep",
+      "value": "gmdi_delete_sweep"
+    },
+    { "name": "gmdi_description",
+      "value": "gmdi_description"
+    },
+    { "name": "gmdi_desktop_mac",
+      "value": "gmdi_desktop_mac"
+    },
+    { "name": "gmdi_desktop_windows",
+      "value": "gmdi_desktop_windows"
+    },
+    { "name": "gmdi_details",
+      "value": "gmdi_details"
+    },
+    { "name": "gmdi_developer_board",
+      "value": "gmdi_developer_board"
+    },
+    { "name": "gmdi_developer_mode",
+      "value": "gmdi_developer_mode"
+    },
+    { "name": "gmdi_device_hub",
+      "value": "gmdi_device_hub"
+    },
+    { "name": "gmdi_devices",
+      "value": "gmdi_devices"
+    },
+    { "name": "gmdi_devices_other",
+      "value": "gmdi_devices_other"
+    },
+    { "name": "gmdi_dialer_sip",
+      "value": "gmdi_dialer_sip"
+    },
+    { "name": "gmdi_dialpad",
+      "value": "gmdi_dialpad"
+    },
+    { "name": "gmdi_directions",
+      "value": "gmdi_directions"
+    },
+    { "name": "gmdi_directions_bike",
+      "value": "gmdi_directions_bike"
+    },
+    { "name": "gmdi_directions_boat",
+      "value": "gmdi_directions_boat"
+    },
+    { "name": "gmdi_directions_bus",
+      "value": "gmdi_directions_bus"
+    },
+    { "name": "gmdi_directions_car",
+      "value": "gmdi_directions_car"
+    },
+    { "name": "gmdi_directions_railway",
+      "value": "gmdi_directions_railway"
+    },
+    { "name": "gmdi_directions_run",
+      "value": "gmdi_directions_run"
+    },
+    { "name": "gmdi_directions_subway",
+      "value": "gmdi_directions_subway"
+    },
+    { "name": "gmdi_directions_transit",
+      "value": "gmdi_directions_transit"
+    },
+    { "name": "gmdi_directions_walk",
+      "value": "gmdi_directions_walk"
+    },
+    { "name": "gmdi_disc_full",
+      "value": "gmdi_disc_full"
+    },
+    { "name": "gmdi_dns",
+      "value": "gmdi_dns"
+    },
+    { "name": "gmdi_do_not_disturb",
+      "value": "gmdi_do_not_disturb"
+    },
+    { "name": "gmdi_do_not_disturb_alt",
+      "value": "gmdi_do_not_disturb_alt"
+    },
+    { "name": "gmdi_do_not_disturb_off",
+      "value": "gmdi_do_not_disturb_off"
+    },
+    { "name": "gmdi_do_not_disturb_on",
+      "value": "gmdi_do_not_disturb_on"
+    },
+    { "name": "gmdi_dock",
+      "value": "gmdi_dock"
+    },
+    { "name": "gmdi_domain",
+      "value": "gmdi_domain"
+    },
+    { "name": "gmdi_done",
+      "value": "gmdi_done"
+    },
+    { "name": "gmdi_done_all",
+      "value": "gmdi_done_all"
+    },
+    { "name": "gmdi_donut_large",
+      "value": "gmdi_donut_large"
+    },
+    { "name": "gmdi_donut_small",
+      "value": "gmdi_donut_small"
+    },
+    { "name": "gmdi_drafts",
+      "value": "gmdi_drafts"
+    },
+    { "name": "gmdi_drag_handle",
+      "value": "gmdi_drag_handle"
+    },
+    { "name": "gmdi_drive_eta",
+      "value": "gmdi_drive_eta"
+    },
+    { "name": "gmdi_dvr",
+      "value": "gmdi_dvr"
+    },
+    { "name": "gmdi_edit",
+      "value": "gmdi_edit"
+    },
+    { "name": "gmdi_edit_location",
+      "value": "gmdi_edit_location"
+    },
+    { "name": "gmdi_eject",
+      "value": "gmdi_eject"
+    },
+    { "name": "gmdi_email",
+      "value": "gmdi_email"
+    },
+    { "name": "gmdi_enhanced_encryption",
+      "value": "gmdi_enhanced_encryption"
+    },
+    { "name": "gmdi_equalizer",
+      "value": "gmdi_equalizer"
+    },
+    { "name": "gmdi_error",
+      "value": "gmdi_error"
+    },
+    { "name": "gmdi_error_outline",
+      "value": "gmdi_error_outline"
+    },
+    { "name": "gmdi_euro_symbol",
+      "value": "gmdi_euro_symbol"
+    },
+    { "name": "gmdi_ev_station",
+      "value": "gmdi_ev_station"
+    },
+    { "name": "gmdi_event",
+      "value": "gmdi_event"
+    },
+    { "name": "gmdi_eventi_available",
+      "value": "gmdi_eventi_available"
+    },
+    { "name": "gmdi_eventi_busy",
+      "value": "gmdi_eventi_busy"
+    },
+    { "name": "gmdi_eventi_note",
+      "value": "gmdi_eventi_note"
+    },
+    { "name": "gmdi_eventi_seat",
+      "value": "gmdi_eventi_seat"
+    },
+    { "name": "gmdi_exit_to_app",
+      "value": "gmdi_exit_to_app"
+    },
+    { "name": "gmdi_expand_less",
+      "value": "gmdi_expand_less"
+    },
+    { "name": "gmdi_expand_more",
+      "value": "gmdi_expand_more"
+    },
+    { "name": "gmdi_explicit",
+      "value": "gmdi_explicit"
+    },
+    { "name": "gmdi_explore",
+      "value": "gmdi_explore"
+    },
+    { "name": "gmdi_exposure",
+      "value": "gmdi_exposure"
+    },
+    { "name": "gmdi_exposure_neg_1",
+      "value": "gmdi_exposure_neg_1"
+    },
+    { "name": "gmdi_exposure_neg_2",
+      "value": "gmdi_exposure_neg_2"
+    },
+    { "name": "gmdi_exposure_plus_1",
+      "value": "gmdi_exposure_plus_1"
+    },
+    { "name": "gmdi_exposure_plus_2",
+      "value": "gmdi_exposure_plus_2"
+    },
+    { "name": "gmdi_exposure_zero",
+      "value": "gmdi_exposure_zero"
+    },
+    { "name": "gmdi_extension",
+      "value": "gmdi_extension"
+    },
+    { "name": "gmdi_face",
+      "value": "gmdi_face"
+    },
+    { "name": "gmdi_fast_forward",
+      "value": "gmdi_fast_forward"
+    },
+    { "name": "gmdi_fast_rewind",
+      "value": "gmdi_fast_rewind"
+    },
+    { "name": "gmdi_favorite",
+      "value": "gmdi_favorite"
+    },
+    { "name": "gmdi_favorite_border",
+      "value": "gmdi_favorite_border"
+    },
+    { "name": "gmdi_featured_play_list",
+      "value": "gmdi_featured_play_list"
+    },
+    { "name": "gmdi_featured_video",
+      "value": "gmdi_featured_video"
+    },
+    { "name": "gmdi_feedback",
+      "value": "gmdi_feedback"
+    },
+    { "name": "gmdi_fiber_dvr",
+      "value": "gmdi_fiber_dvr"
+    },
+    { "name": "gmdi_fiber_manual_record",
+      "value": "gmdi_fiber_manual_record"
+    },
+    { "name": "gmdi_fiber_new",
+      "value": "gmdi_fiber_new"
+    },
+    { "name": "gmdi_fiber_pin",
+      "value": "gmdi_fiber_pin"
+    },
+    { "name": "gmdi_fiber_smart_record",
+      "value": "gmdi_fiber_smart_record"
+    },
+    { "name": "gmdi_file_download",
+      "value": "gmdi_file_download"
+    },
+    { "name": "gmdi_file_upload",
+      "value": "gmdi_file_upload"
+    },
+    { "name": "gmdi_filter",
+      "value": "gmdi_filter"
+    },
+    { "name": "gmdi_filter_1",
+      "value": "gmdi_filter_1"
+    },
+    { "name": "gmdi_filter_2",
+      "value": "gmdi_filter_2"
+    },
+    { "name": "gmdi_filter_3",
+      "value": "gmdi_filter_3"
+    },
+    { "name": "gmdi_filter_4",
+      "value": "gmdi_filter_4"
+    },
+    { "name": "gmdi_filter_5",
+      "value": "gmdi_filter_5"
+    },
+    { "name": "gmdi_filter_6",
+      "value": "gmdi_filter_6"
+    },
+    { "name": "gmdi_filter_7",
+      "value": "gmdi_filter_7"
+    },
+    { "name": "gmdi_filter_8",
+      "value": "gmdi_filter_8"
+    },
+    { "name": "gmdi_filter_9",
+      "value": "gmdi_filter_9"
+    },
+    { "name": "gmdi_filter_9_plus",
+      "value": "gmdi_filter_9_plus"
+    },
+    { "name": "gmdi_filter_b_and_w",
+      "value": "gmdi_filter_b_and_w"
+    },
+    { "name": "gmdi_filter_center_focus",
+      "value": "gmdi_filter_center_focus"
+    },
+    { "name": "gmdi_filter_drama",
+      "value": "gmdi_filter_drama"
+    },
+    { "name": "gmdi_filter_frames",
+      "value": "gmdi_filter_frames"
+    },
+    { "name": "gmdi_filter_hdr",
+      "value": "gmdi_filter_hdr"
+    },
+    { "name": "gmdi_filter_list",
+      "value": "gmdi_filter_list"
+    },
+    { "name": "gmdi_filter_none",
+      "value": "gmdi_filter_none"
+    },
+    { "name": "gmdi_filter_tilt_shift",
+      "value": "gmdi_filter_tilt_shift"
+    },
+    { "name": "gmdi_filter_vintage",
+      "value": "gmdi_filter_vintage"
+    },
+    { "name": "gmdi_find_in_page",
+      "value": "gmdi_find_in_page"
+    },
+    { "name": "gmdi_find_replace",
+      "value": "gmdi_find_replace"
+    },
+    { "name": "gmdi_fingerprint",
+      "value": "gmdi_fingerprint"
+    },
+    { "name": "gmdi_first_page",
+      "value": "gmdi_first_page"
+    },
+    { "name": "gmdi_fitness_center",
+      "value": "gmdi_fitness_center"
+    },
+    { "name": "gmdi_flag",
+      "value": "gmdi_flag"
+    },
+    { "name": "gmdi_flare",
+      "value": "gmdi_flare"
+    },
+    { "name": "gmdi_flash_auto",
+      "value": "gmdi_flash_auto"
+    },
+    { "name": "gmdi_flash_off",
+      "value": "gmdi_flash_off"
+    },
+    { "name": "gmdi_flash_on",
+      "value": "gmdi_flash_on"
+    },
+    { "name": "gmdi_flight",
+      "value": "gmdi_flight"
+    },
+    { "name": "gmdi_flight_land",
+      "value": "gmdi_flight_land"
+    },
+    { "name": "gmdi_flight_takeoff",
+      "value": "gmdi_flight_takeoff"
+    },
+    { "name": "gmdi_flip",
+      "value": "gmdi_flip"
+    },
+    { "name": "gmdi_flip_to_back",
+      "value": "gmdi_flip_to_back"
+    },
+    { "name": "gmdi_flip_to_front",
+      "value": "gmdi_flip_to_front"
+    },
+    { "name": "gmdi_folder",
+      "value": "gmdi_folder"
+    },
+    { "name": "gmdi_folder_open",
+      "value": "gmdi_folder_open"
+    },
+    { "name": "gmdi_folder_shared",
+      "value": "gmdi_folder_shared"
+    },
+    { "name": "gmdi_folder_special",
+      "value": "gmdi_folder_special"
+    },
+    { "name": "gmdi_font_download",
+      "value": "gmdi_font_download"
+    },
+    { "name": "gmdi_format_align_center",
+      "value": "gmdi_format_align_center"
+    },
+    { "name": "gmdi_format_align_justify",
+      "value": "gmdi_format_align_justify"
+    },
+    { "name": "gmdi_format_align_left",
+      "value": "gmdi_format_align_left"
+    },
+    { "name": "gmdi_format_align_right",
+      "value": "gmdi_format_align_right"
+    },
+    { "name": "gmdi_format_bold",
+      "value": "gmdi_format_bold"
+    },
+    { "name": "gmdi_format_clear",
+      "value": "gmdi_format_clear"
+    },
+    { "name": "gmdi_format_color_fill",
+      "value": "gmdi_format_color_fill"
+    },
+    { "name": "gmdi_format_color_reset",
+      "value": "gmdi_format_color_reset"
+    },
+    { "name": "gmdi_format_color_text",
+      "value": "gmdi_format_color_text"
+    },
+    { "name": "gmdi_format_indenti_decrease",
+      "value": "gmdi_format_indenti_decrease"
+    },
+    { "name": "gmdi_format_indenti_increase",
+      "value": "gmdi_format_indenti_increase"
+    },
+    { "name": "gmdi_format_italic",
+      "value": "gmdi_format_italic"
+    },
+    { "name": "gmdi_format_line_spacing",
+      "value": "gmdi_format_line_spacing"
+    },
+    { "name": "gmdi_format_list_bulleted",
+      "value": "gmdi_format_list_bulleted"
+    },
+    { "name": "gmdi_format_list_numbered",
+      "value": "gmdi_format_list_numbered"
+    },
+    { "name": "gmdi_format_paint",
+      "value": "gmdi_format_paint"
+    },
+    { "name": "gmdi_format_quote",
+      "value": "gmdi_format_quote"
+    },
+    { "name": "gmdi_format_shapes",
+      "value": "gmdi_format_shapes"
+    },
+    { "name": "gmdi_format_size",
+      "value": "gmdi_format_size"
+    },
+    { "name": "gmdi_format_strikethrough",
+      "value": "gmdi_format_strikethrough"
+    },
+    { "name": "gmdi_format_textdirection_l_to_r",
+      "value": "gmdi_format_textdirection_l_to_r"
+    },
+    { "name": "gmdi_format_textdirection_r_to_l",
+      "value": "gmdi_format_textdirection_r_to_l"
+    },
+    { "name": "gmdi_format_underlined",
+      "value": "gmdi_format_underlined"
+    },
+    { "name": "gmdi_forum",
+      "value": "gmdi_forum"
+    },
+    { "name": "gmdi_forward",
+      "value": "gmdi_forward"
+    },
+    { "name": "gmdi_forward_10",
+      "value": "gmdi_forward_10"
+    },
+    { "name": "gmdi_forward_30",
+      "value": "gmdi_forward_30"
+    },
+    { "name": "gmdi_forward_5",
+      "value": "gmdi_forward_5"
+    },
+    { "name": "gmdi_free_breakfast",
+      "value": "gmdi_free_breakfast"
+    },
+    { "name": "gmdi_fullscreen",
+      "value": "gmdi_fullscreen"
+    },
+    { "name": "gmdi_fullscreen_exit",
+      "value": "gmdi_fullscreen_exit"
+    },
+    { "name": "gmdi_functions",
+      "value": "gmdi_functions"
+    },
+    { "name": "gmdi_g_translate",
+      "value": "gmdi_g_translate"
+    },
+    { "name": "gmdi_gamepad",
+      "value": "gmdi_gamepad"
+    },
+    { "name": "gmdi_games",
+      "value": "gmdi_games"
+    },
+    { "name": "gmdi_gavel",
+      "value": "gmdi_gavel"
+    },
+    { "name": "gmdi_gesture",
+      "value": "gmdi_gesture"
+    },
+    { "name": "gmdi_get_app",
+      "value": "gmdi_get_app"
+    },
+    { "name": "gmdi_gif",
+      "value": "gmdi_gif"
+    },
+    { "name": "gmdi_golf_course",
+      "value": "gmdi_golf_course"
+    },
+    { "name": "gmdi_gps_fixed",
+      "value": "gmdi_gps_fixed"
+    },
+    { "name": "gmdi_gps_not_fixed",
+      "value": "gmdi_gps_not_fixed"
+    },
+    { "name": "gmdi_gps_off",
+      "value": "gmdi_gps_off"
+    },
+    { "name": "gmdi_grade",
+      "value": "gmdi_grade"
+    },
+    { "name": "gmdi_gradient",
+      "value": "gmdi_gradient"
+    },
+    { "name": "gmdi_grain",
+      "value": "gmdi_grain"
+    },
+    { "name": "gmdi_graphic_eq",
+      "value": "gmdi_graphic_eq"
+    },
+    { "name": "gmdi_grid_off",
+      "value": "gmdi_grid_off"
+    },
+    { "name": "gmdi_grid_on",
+      "value": "gmdi_grid_on"
+    },
+    { "name": "gmdi_group",
+      "value": "gmdi_group"
+    },
+    { "name": "gmdi_group_add",
+      "value": "gmdi_group_add"
+    },
+    { "name": "gmdi_group_work",
+      "value": "gmdi_group_work"
+    },
+    { "name": "gmdi_hd",
+      "value": "gmdi_hd"
+    },
+    { "name": "gmdi_hdr_off",
+      "value": "gmdi_hdr_off"
+    },
+    { "name": "gmdi_hdr_on",
+      "value": "gmdi_hdr_on"
+    },
+    { "name": "gmdi_hdr_strong",
+      "value": "gmdi_hdr_strong"
+    },
+    { "name": "gmdi_hdr_weak",
+      "value": "gmdi_hdr_weak"
+    },
+    { "name": "gmdi_headset",
+      "value": "gmdi_headset"
+    },
+    { "name": "gmdi_headset_mic",
+      "value": "gmdi_headset_mic"
+    },
+    { "name": "gmdi_healing",
+      "value": "gmdi_healing"
+    },
+    { "name": "gmdi_hearing",
+      "value": "gmdi_hearing"
+    },
+    { "name": "gmdi_help",
+      "value": "gmdi_help"
+    },
+    { "name": "gmdi_help_outline",
+      "value": "gmdi_help_outline"
+    },
+    { "name": "gmdi_high_quality",
+      "value": "gmdi_high_quality"
+    },
+    { "name": "gmdi_highlight",
+      "value": "gmdi_highlight"
+    },
+    { "name": "gmdi_highlight_off",
+      "value": "gmdi_highlight_off"
+    },
+    { "name": "gmdi_history",
+      "value": "gmdi_history"
+    },
+    { "name": "gmdi_home",
+      "value": "gmdi_home"
+    },
+    { "name": "gmdi_hot_tub",
+      "value": "gmdi_hot_tub"
+    },
+    { "name": "gmdi_hotel",
+      "value": "gmdi_hotel"
+    },
+    { "name": "gmdi_hourglass_empty",
+      "value": "gmdi_hourglass_empty"
+    },
+    { "name": "gmdi_hourglass_full",
+      "value": "gmdi_hourglass_full"
+    },
+    { "name": "gmdi_http",
+      "value": "gmdi_http"
+    },
+    { "name": "gmdi_https",
+      "value": "gmdi_https"
+    },
+    { "name": "gmdi_image",
+      "value": "gmdi_image"
+    },
+    { "name": "gmdi_image_aspect_ratio",
+      "value": "gmdi_image_aspect_ratio"
+    },
+    { "name": "gmdi_import_contacts",
+      "value": "gmdi_import_contacts"
+    },
+    { "name": "gmdi_import_export",
+      "value": "gmdi_import_export"
+    },
+    { "name": "gmdi_important_devices",
+      "value": "gmdi_important_devices"
+    },
+    { "name": "gmdi_inbox",
+      "value": "gmdi_inbox"
+    },
+    { "name": "gmdi_indeterminate_check_box",
+      "value": "gmdi_indeterminate_check_box"
+    },
+    { "name": "gmdi_info",
+      "value": "gmdi_info"
+    },
+    { "name": "gmdi_info_outline",
+      "value": "gmdi_info_outline"
+    },
+    { "name": "gmdi_input",
+      "value": "gmdi_input"
+    },
+    { "name": "gmdi_insert_chart",
+      "value": "gmdi_insert_chart"
+    },
+    { "name": "gmdi_insert_comment",
+      "value": "gmdi_insert_comment"
+    },
+    { "name": "gmdi_insert_drive_file",
+      "value": "gmdi_insert_drive_file"
+    },
+    { "name": "gmdi_insert_emoticon",
+      "value": "gmdi_insert_emoticon"
+    },
+    { "name": "gmdi_insert_invitation",
+      "value": "gmdi_insert_invitation"
+    },
+    { "name": "gmdi_insert_link",
+      "value": "gmdi_insert_link"
+    },
+    { "name": "gmdi_insert_photo",
+      "value": "gmdi_insert_photo"
+    },
+    { "name": "gmdi_invert_colors",
+      "value": "gmdi_invert_colors"
+    },
+    { "name": "gmdi_invert_colors_off",
+      "value": "gmdi_invert_colors_off"
+    },
+    { "name": "gmdi_iso",
+      "value": "gmdi_iso"
+    },
+    { "name": "gmdi_keyboard",
+      "value": "gmdi_keyboard"
+    },
+    { "name": "gmdi_keyboard_arrow_down",
+      "value": "gmdi_keyboard_arrow_down"
+    },
+    { "name": "gmdi_keyboard_arrow_left",
+      "value": "gmdi_keyboard_arrow_left"
+    },
+    { "name": "gmdi_keyboard_arrow_right",
+      "value": "gmdi_keyboard_arrow_right"
+    },
+    { "name": "gmdi_keyboard_arrow_up",
+      "value": "gmdi_keyboard_arrow_up"
+    },
+    { "name": "gmdi_keyboard_backspace",
+      "value": "gmdi_keyboard_backspace"
+    },
+    { "name": "gmdi_keyboard_capslock",
+      "value": "gmdi_keyboard_capslock"
+    },
+    { "name": "gmdi_keyboard_hide",
+      "value": "gmdi_keyboard_hide"
+    },
+    { "name": "gmdi_keyboard_return",
+      "value": "gmdi_keyboard_return"
+    },
+    { "name": "gmdi_keyboard_tab",
+      "value": "gmdi_keyboard_tab"
+    },
+    { "name": "gmdi_keyboard_voice",
+      "value": "gmdi_keyboard_voice"
+    },
+    { "name": "gmdi_kitchen",
+      "value": "gmdi_kitchen"
+    },
+    { "name": "gmdi_label",
+      "value": "gmdi_label"
+    },
+    { "name": "gmdi_label_outline",
+      "value": "gmdi_label_outline"
+    },
+    { "name": "gmdi_landscape",
+      "value": "gmdi_landscape"
+    },
+    { "name": "gmdi_language",
+      "value": "gmdi_language"
+    },
+    { "name": "gmdi_laptop",
+      "value": "gmdi_laptop"
+    },
+    { "name": "gmdi_laptop_chromebook",
+      "value": "gmdi_laptop_chromebook"
+    },
+    { "name": "gmdi_laptop_mac",
+      "value": "gmdi_laptop_mac"
+    },
+    { "name": "gmdi_laptop_windows",
+      "value": "gmdi_laptop_windows"
+    },
+    { "name": "gmdi_last_page",
+      "value": "gmdi_last_page"
+    },
+    { "name": "gmdi_launch",
+      "value": "gmdi_launch"
+    },
+    { "name": "gmdi_layers",
+      "value": "gmdi_layers"
+    },
+    { "name": "gmdi_layers_clear",
+      "value": "gmdi_layers_clear"
+    },
+    { "name": "gmdi_leak_add",
+      "value": "gmdi_leak_add"
+    },
+    { "name": "gmdi_leak_remove",
+      "value": "gmdi_leak_remove"
+    },
+    { "name": "gmdi_lens",
+      "value": "gmdi_lens"
+    },
+    { "name": "gmdi_library_add",
+      "value": "gmdi_library_add"
+    },
+    { "name": "gmdi_library_books",
+      "value": "gmdi_library_books"
+    },
+    { "name": "gmdi_library_music",
+      "value": "gmdi_library_music"
+    },
+    { "name": "gmdi_lightbulb_outline",
+      "value": "gmdi_lightbulb_outline"
+    },
+    { "name": "gmdi_line_style",
+      "value": "gmdi_line_style"
+    },
+    { "name": "gmdi_line_weight",
+      "value": "gmdi_line_weight"
+    },
+    { "name": "gmdi_linear_scale",
+      "value": "gmdi_linear_scale"
+    },
+    { "name": "gmdi_link",
+      "value": "gmdi_link"
+    },
+    { "name": "gmdi_linked_camera",
+      "value": "gmdi_linked_camera"
+    },
+    { "name": "gmdi_list",
+      "value": "gmdi_list"
+    },
+    { "name": "gmdi_live_help",
+      "value": "gmdi_live_help"
+    },
+    { "name": "gmdi_live_tv",
+      "value": "gmdi_live_tv"
+    },
+    { "name": "gmdi_local_activity",
+      "value": "gmdi_local_activity"
+    },
+    { "name": "gmdi_local_airport",
+      "value": "gmdi_local_airport"
+    },
+    { "name": "gmdi_local_atm",
+      "value": "gmdi_local_atm"
+    },
+    { "name": "gmdi_local_bar",
+      "value": "gmdi_local_bar"
+    },
+    { "name": "gmdi_local_cafe",
+      "value": "gmdi_local_cafe"
+    },
+    { "name": "gmdi_local_car_wash",
+      "value": "gmdi_local_car_wash"
+    },
+    { "name": "gmdi_local_convenience_store",
+      "value": "gmdi_local_convenience_store"
+    },
+    { "name": "gmdi_local_dining",
+      "value": "gmdi_local_dining"
+    },
+    { "name": "gmdi_local_drink",
+      "value": "gmdi_local_drink"
+    },
+    { "name": "gmdi_local_florist",
+      "value": "gmdi_local_florist"
+    },
+    { "name": "gmdi_local_gas_station",
+      "value": "gmdi_local_gas_station"
+    },
+    { "name": "gmdi_local_grocery_store",
+      "value": "gmdi_local_grocery_store"
+    },
+    { "name": "gmdi_local_hospital",
+      "value": "gmdi_local_hospital"
+    },
+    { "name": "gmdi_local_hotel",
+      "value": "gmdi_local_hotel"
+    },
+    { "name": "gmdi_local_laundry_service",
+      "value": "gmdi_local_laundry_service"
+    },
+    { "name": "gmdi_local_library",
+      "value": "gmdi_local_library"
+    },
+    { "name": "gmdi_local_mall",
+      "value": "gmdi_local_mall"
+    },
+    { "name": "gmdi_local_movies",
+      "value": "gmdi_local_movies"
+    },
+    { "name": "gmdi_local_offer",
+      "value": "gmdi_local_offer"
+    },
+    { "name": "gmdi_local_parking",
+      "value": "gmdi_local_parking"
+    },
+    { "name": "gmdi_local_pharmacy",
+      "value": "gmdi_local_pharmacy"
+    },
+    { "name": "gmdi_local_phone",
+      "value": "gmdi_local_phone"
+    },
+    { "name": "gmdi_local_pizza",
+      "value": "gmdi_local_pizza"
+    },
+    { "name": "gmdi_local_play",
+      "value": "gmdi_local_play"
+    },
+    { "name": "gmdi_local_post_office",
+      "value": "gmdi_local_post_office"
+    },
+    { "name": "gmdi_local_printshop",
+      "value": "gmdi_local_printshop"
+    },
+    { "name": "gmdi_local_see",
+      "value": "gmdi_local_see"
+    },
+    { "name": "gmdi_local_shipping",
+      "value": "gmdi_local_shipping"
+    },
+    { "name": "gmdi_local_taxi",
+      "value": "gmdi_local_taxi"
+    },
+    { "name": "gmdi_location_city",
+      "value": "gmdi_location_city"
+    },
+    { "name": "gmdi_location_disabled",
+      "value": "gmdi_location_disabled"
+    },
+    { "name": "gmdi_location_off",
+      "value": "gmdi_location_off"
+    },
+    { "name": "gmdi_location_on",
+      "value": "gmdi_location_on"
+    },
+    { "name": "gmdi_location_searching",
+      "value": "gmdi_location_searching"
+    },
+    { "name": "gmdi_lock",
+      "value": "gmdi_lock"
+    },
+    { "name": "gmdi_lock_open",
+      "value": "gmdi_lock_open"
+    },
+    { "name": "gmdi_lock_outline",
+      "value": "gmdi_lock_outline"
+    },
+    { "name": "gmdi_looks",
+      "value": "gmdi_looks"
+    },
+    { "name": "gmdi_looks_3",
+      "value": "gmdi_looks_3"
+    },
+    { "name": "gmdi_looks_4",
+      "value": "gmdi_looks_4"
+    },
+    { "name": "gmdi_looks_5",
+      "value": "gmdi_looks_5"
+    },
+    { "name": "gmdi_looks_6",
+      "value": "gmdi_looks_6"
+    },
+    { "name": "gmdi_looks_one",
+      "value": "gmdi_looks_one"
+    },
+    { "name": "gmdi_looks_two",
+      "value": "gmdi_looks_two"
+    },
+    { "name": "gmdi_loop",
+      "value": "gmdi_loop"
+    },
+    { "name": "gmdi_loupe",
+      "value": "gmdi_loupe"
+    },
+    { "name": "gmdi_low_priority",
+      "value": "gmdi_low_priority"
+    },
+    { "name": "gmdi_loyalty",
+      "value": "gmdi_loyalty"
+    },
+    { "name": "gmdi_mail",
+      "value": "gmdi_mail"
+    },
+    { "name": "gmdi_mail_outline",
+      "value": "gmdi_mail_outline"
+    },
+    { "name": "gmdi_map",
+      "value": "gmdi_map"
+    },
+    { "name": "gmdi_markunread",
+      "value": "gmdi_markunread"
+    },
+    { "name": "gmdi_markunread_mailbox",
+      "value": "gmdi_markunread_mailbox"
+    },
+    { "name": "gmdi_memory",
+      "value": "gmdi_memory"
+    },
+    { "name": "gmdi_menu",
+      "value": "gmdi_menu"
+    },
+    { "name": "gmdi_merge_type",
+      "value": "gmdi_merge_type"
+    },
+    { "name": "gmdi_message",
+      "value": "gmdi_message"
+    },
+    { "name": "gmdi_mic",
+      "value": "gmdi_mic"
+    },
+    { "name": "gmdi_mic_none",
+      "value": "gmdi_mic_none"
+    },
+    { "name": "gmdi_mic_off",
+      "value": "gmdi_mic_off"
+    },
+    { "name": "gmdi_mms",
+      "value": "gmdi_mms"
+    },
+    { "name": "gmdi_mode_comment",
+      "value": "gmdi_mode_comment"
+    },
+    { "name": "gmdi_mode_edit",
+      "value": "gmdi_mode_edit"
+    },
+    { "name": "gmdi_monetization_on",
+      "value": "gmdi_monetization_on"
+    },
+    { "name": "gmdi_money_off",
+      "value": "gmdi_money_off"
+    },
+    { "name": "gmdi_monochrome_photos",
+      "value": "gmdi_monochrome_photos"
+    },
+    { "name": "gmdi_mood",
+      "value": "gmdi_mood"
+    },
+    { "name": "gmdi_mood_bad",
+      "value": "gmdi_mood_bad"
+    },
+    { "name": "gmdi_more",
+      "value": "gmdi_more"
+    },
+    { "name": "gmdi_more_horiz",
+      "value": "gmdi_more_horiz"
+    },
+    { "name": "gmdi_more_vert",
+      "value": "gmdi_more_vert"
+    },
+    { "name": "gmdi_motorcycle",
+      "value": "gmdi_motorcycle"
+    },
+    { "name": "gmdi_mouse",
+      "value": "gmdi_mouse"
+    },
+    { "name": "gmdi_move_to_inbox",
+      "value": "gmdi_move_to_inbox"
+    },
+    { "name": "gmdi_movie",
+      "value": "gmdi_movie"
+    },
+    { "name": "gmdi_movie_creation",
+      "value": "gmdi_movie_creation"
+    },
+    { "name": "gmdi_movie_filter",
+      "value": "gmdi_movie_filter"
+    },
+    { "name": "gmdi_multiline_chart",
+      "value": "gmdi_multiline_chart"
+    },
+    { "name": "gmdi_music_note",
+      "value": "gmdi_music_note"
+    },
+    { "name": "gmdi_music_video",
+      "value": "gmdi_music_video"
+    },
+    { "name": "gmdi_my_location",
+      "value": "gmdi_my_location"
+    },
+    { "name": "gmdi_nature",
+      "value": "gmdi_nature"
+    },
+    { "name": "gmdi_nature_people",
+      "value": "gmdi_nature_people"
+    },
+    { "name": "gmdi_navigate_before",
+      "value": "gmdi_navigate_before"
+    },
+    { "name": "gmdi_navigate_next",
+      "value": "gmdi_navigate_next"
+    },
+    { "name": "gmdi_navigation",
+      "value": "gmdi_navigation"
+    },
+    { "name": "gmdi_near_me",
+      "value": "gmdi_near_me"
+    },
+    { "name": "gmdi_network_cell",
+      "value": "gmdi_network_cell"
+    },
+    { "name": "gmdi_network_check",
+      "value": "gmdi_network_check"
+    },
+    { "name": "gmdi_network_locked",
+      "value": "gmdi_network_locked"
+    },
+    { "name": "gmdi_network_wifi",
+      "value": "gmdi_network_wifi"
+    },
+    { "name": "gmdi_new_releases",
+      "value": "gmdi_new_releases"
+    },
+    { "name": "gmdi_next_week",
+      "value": "gmdi_next_week"
+    },
+    { "name": "gmdi_nfc",
+      "value": "gmdi_nfc"
+    },
+    { "name": "gmdi_no_encryption",
+      "value": "gmdi_no_encryption"
+    },
+    { "name": "gmdi_no_sim",
+      "value": "gmdi_no_sim"
+    },
+    { "name": "gmdi_not_interested",
+      "value": "gmdi_not_interested"
+    },
+    { "name": "gmdi_note",
+      "value": "gmdi_note"
+    },
+    { "name": "gmdi_note_add",
+      "value": "gmdi_note_add"
+    },
+    { "name": "gmdi_notifications",
+      "value": "gmdi_notifications"
+    },
+    { "name": "gmdi_notifications_active",
+      "value": "gmdi_notifications_active"
+    },
+    { "name": "gmdi_notifications_none",
+      "value": "gmdi_notifications_none"
+    },
+    { "name": "gmdi_notifications_off",
+      "value": "gmdi_notifications_off"
+    },
+    { "name": "gmdi_notifications_paused",
+      "value": "gmdi_notifications_paused"
+    },
+    { "name": "gmdi_offline_pin",
+      "value": "gmdi_offline_pin"
+    },
+    { "name": "gmdi_ondemand_video",
+      "value": "gmdi_ondemand_video"
+    },
+    { "name": "gmdi_opacity",
+      "value": "gmdi_opacity"
+    },
+    { "name": "gmdi_open_in_browser",
+      "value": "gmdi_open_in_browser"
+    },
+    { "name": "gmdi_open_in_new",
+      "value": "gmdi_open_in_new"
+    },
+    { "name": "gmdi_open_with",
+      "value": "gmdi_open_with"
+    },
+    { "name": "gmdi_pages",
+      "value": "gmdi_pages"
+    },
+    { "name": "gmdi_pageview",
+      "value": "gmdi_pageview"
+    },
+    { "name": "gmdi_palette",
+      "value": "gmdi_palette"
+    },
+    { "name": "gmdi_pan_tool",
+      "value": "gmdi_pan_tool"
+    },
+    { "name": "gmdi_panorama",
+      "value": "gmdi_panorama"
+    },
+    { "name": "gmdi_panorama_fish_eye",
+      "value": "gmdi_panorama_fish_eye"
+    },
+    { "name": "gmdi_panorama_horizontal",
+      "value": "gmdi_panorama_horizontal"
+    },
+    { "name": "gmdi_panorama_vertical",
+      "value": "gmdi_panorama_vertical"
+    },
+    { "name": "gmdi_panorama_wide_angle",
+      "value": "gmdi_panorama_wide_angle"
+    },
+    { "name": "gmdi_party_mode",
+      "value": "gmdi_party_mode"
+    },
+    { "name": "gmdi_pause",
+      "value": "gmdi_pause"
+    },
+    { "name": "gmdi_pause_circle_filled",
+      "value": "gmdi_pause_circle_filled"
+    },
+    { "name": "gmdi_pause_circle_outline",
+      "value": "gmdi_pause_circle_outline"
+    },
+    { "name": "gmdi_payment",
+      "value": "gmdi_payment"
+    },
+    { "name": "gmdi_people",
+      "value": "gmdi_people"
+    },
+    { "name": "gmdi_people_outline",
+      "value": "gmdi_people_outline"
+    },
+    { "name": "gmdi_perm_camera_mic",
+      "value": "gmdi_perm_camera_mic"
+    },
+    { "name": "gmdi_perm_contact_calendar",
+      "value": "gmdi_perm_contact_calendar"
+    },
+    { "name": "gmdi_perm_data_setting",
+      "value": "gmdi_perm_data_setting"
+    },
+    { "name": "gmdi_perm_device_information",
+      "value": "gmdi_perm_device_information"
+    },
+    { "name": "gmdi_perm_identity",
+      "value": "gmdi_perm_identity"
+    },
+    { "name": "gmdi_perm_media",
+      "value": "gmdi_perm_media"
+    },
+    { "name": "gmdi_perm_phone_msg",
+      "value": "gmdi_perm_phone_msg"
+    },
+    { "name": "gmdi_perm_scan_wifi",
+      "value": "gmdi_perm_scan_wifi"
+    },
+    { "name": "gmdi_person",
+      "value": "gmdi_person"
+    },
+    { "name": "gmdi_person_add",
+      "value": "gmdi_person_add"
+    },
+    { "name": "gmdi_person_outline",
+      "value": "gmdi_person_outline"
+    },
+    { "name": "gmdi_person_pin",
+      "value": "gmdi_person_pin"
+    },
+    { "name": "gmdi_person_pin_circle",
+      "value": "gmdi_person_pin_circle"
+    },
+    { "name": "gmdi_personal_video",
+      "value": "gmdi_personal_video"
+    },
+    { "name": "gmdi_pets",
+      "value": "gmdi_pets"
+    },
+    { "name": "gmdi_phone",
+      "value": "gmdi_phone"
+    },
+    { "name": "gmdi_phone_bluetooth_speaker",
+      "value": "gmdi_phone_bluetooth_speaker"
+    },
+    { "name": "gmdi_phone_forwarded",
+      "value": "gmdi_phone_forwarded"
+    },
+    { "name": "gmdi_phone_in_talk",
+      "value": "gmdi_phone_in_talk"
+    },
+    { "name": "gmdi_phone_iphone",
+      "value": "gmdi_phone_iphone"
+    },
+    { "name": "gmdi_phone_locked",
+      "value": "gmdi_phone_locked"
+    },
+    { "name": "gmdi_phone_missed",
+      "value": "gmdi_phone_missed"
+    },
+    { "name": "gmdi_phone_paused",
+      "value": "gmdi_phone_paused"
+    },
+    { "name": "gmdi_phonelink",
+      "value": "gmdi_phonelink"
+    },
+    { "name": "gmdi_phonelink_erase",
+      "value": "gmdi_phonelink_erase"
+    },
+    { "name": "gmdi_phonelink_lock",
+      "value": "gmdi_phonelink_lock"
+    },
+    { "name": "gmdi_phonelink_off",
+      "value": "gmdi_phonelink_off"
+    },
+    { "name": "gmdi_phonelink_ring",
+      "value": "gmdi_phonelink_ring"
+    },
+    { "name": "gmdi_phonelink_setup",
+      "value": "gmdi_phonelink_setup"
+    },
+    { "name": "gmdi_photo",
+      "value": "gmdi_photo"
+    },
+    { "name": "gmdi_photo_album",
+      "value": "gmdi_photo_album"
+    },
+    { "name": "gmdi_photo_camera",
+      "value": "gmdi_photo_camera"
+    },
+    { "name": "gmdi_photo_filter",
+      "value": "gmdi_photo_filter"
+    },
+    { "name": "gmdi_photo_library",
+      "value": "gmdi_photo_library"
+    },
+    { "name": "gmdi_photo_size_select_actual",
+      "value": "gmdi_photo_size_select_actual"
+    },
+    { "name": "gmdi_photo_size_select_large",
+      "value": "gmdi_photo_size_select_large"
+    },
+    { "name": "gmdi_photo_size_select_small",
+      "value": "gmdi_photo_size_select_small"
+    },
+    { "name": "gmdi_picture_as_pdf",
+      "value": "gmdi_picture_as_pdf"
+    },
+    { "name": "gmdi_picture_in_picture",
+      "value": "gmdi_picture_in_picture"
+    },
+    { "name": "gmdi_picture_in_picture_alt",
+      "value": "gmdi_picture_in_picture_alt"
+    },
+    { "name": "gmdi_pie_chart",
+      "value": "gmdi_pie_chart"
+    },
+    { "name": "gmdi_pie_chart_outlined",
+      "value": "gmdi_pie_chart_outlined"
+    },
+    { "name": "gmdi_pin_drop",
+      "value": "gmdi_pin_drop"
+    },
+    { "name": "gmdi_place",
+      "value": "gmdi_place"
+    },
+    { "name": "gmdi_play_arrow",
+      "value": "gmdi_play_arrow"
+    },
+    { "name": "gmdi_play_circle_filled",
+      "value": "gmdi_play_circle_filled"
+    },
+    { "name": "gmdi_play_circle_outline",
+      "value": "gmdi_play_circle_outline"
+    },
+    { "name": "gmdi_play_for_work",
+      "value": "gmdi_play_for_work"
+    },
+    { "name": "gmdi_playlist_add",
+      "value": "gmdi_playlist_add"
+    },
+    { "name": "gmdi_playlist_add_check",
+      "value": "gmdi_playlist_add_check"
+    },
+    { "name": "gmdi_playlist_play",
+      "value": "gmdi_playlist_play"
+    },
+    { "name": "gmdi_plus_one",
+      "value": "gmdi_plus_one"
+    },
+    { "name": "gmdi_poll",
+      "value": "gmdi_poll"
+    },
+    { "name": "gmdi_polymer",
+      "value": "gmdi_polymer"
+    },
+    { "name": "gmdi_pool",
+      "value": "gmdi_pool"
+    },
+    { "name": "gmdi_portable_wifi_off",
+      "value": "gmdi_portable_wifi_off"
+    },
+    { "name": "gmdi_portrait",
+      "value": "gmdi_portrait"
+    },
+    { "name": "gmdi_power",
+      "value": "gmdi_power"
+    },
+    { "name": "gmdi_power_input",
+      "value": "gmdi_power_input"
+    },
+    { "name": "gmdi_power_settings_new",
+      "value": "gmdi_power_settings_new"
+    },
+    { "name": "gmdi_pregnant_woman",
+      "value": "gmdi_pregnant_woman"
+    },
+    { "name": "gmdi_presenti_to_all",
+      "value": "gmdi_presenti_to_all"
+    },
+    { "name": "gmdi_print",
+      "value": "gmdi_print"
+    },
+    { "name": "gmdi_priority_high",
+      "value": "gmdi_priority_high"
+    },
+    { "name": "gmdi_public",
+      "value": "gmdi_public"
+    },
+    { "name": "gmdi_publish",
+      "value": "gmdi_publish"
+    },
+    { "name": "gmdi_query_builder",
+      "value": "gmdi_query_builder"
+    },
+    { "name": "gmdi_question_answer",
+      "value": "gmdi_question_answer"
+    },
+    { "name": "gmdi_queue",
+      "value": "gmdi_queue"
+    },
+    { "name": "gmdi_queue_music",
+      "value": "gmdi_queue_music"
+    },
+    { "name": "gmdi_queue_play_next",
+      "value": "gmdi_queue_play_next"
+    },
+    { "name": "gmdi_radio",
+      "value": "gmdi_radio"
+    },
+    { "name": "gmdi_radio_button_checked",
+      "value": "gmdi_radio_button_checked"
+    },
+    { "name": "gmdi_radio_button_unchecked",
+      "value": "gmdi_radio_button_unchecked"
+    },
+    { "name": "gmdi_rate_review",
+      "value": "gmdi_rate_review"
+    },
+    { "name": "gmdi_receipt",
+      "value": "gmdi_receipt"
+    },
+    { "name": "gmdi_recenti_actors",
+      "value": "gmdi_recenti_actors"
+    },
+    { "name": "gmdi_record_voice_over",
+      "value": "gmdi_record_voice_over"
+    },
+    { "name": "gmdi_redeem",
+      "value": "gmdi_redeem"
+    },
+    { "name": "gmdi_redo",
+      "value": "gmdi_redo"
+    },
+    { "name": "gmdi_refresh",
+      "value": "gmdi_refresh"
+    },
+    { "name": "gmdi_remove",
+      "value": "gmdi_remove"
+    },
+    { "name": "gmdi_remove_circle",
+      "value": "gmdi_remove_circle"
+    },
+    { "name": "gmdi_remove_circle_outline",
+      "value": "gmdi_remove_circle_outline"
+    },
+    { "name": "gmdi_remove_from_queue",
+      "value": "gmdi_remove_from_queue"
+    },
+    { "name": "gmdi_remove_red_eye",
+      "value": "gmdi_remove_red_eye"
+    },
+    { "name": "gmdi_remove_shopping_cart",
+      "value": "gmdi_remove_shopping_cart"
+    },
+    { "name": "gmdi_reorder",
+      "value": "gmdi_reorder"
+    },
+    { "name": "gmdi_repeat",
+      "value": "gmdi_repeat"
+    },
+    { "name": "gmdi_repeat_one",
+      "value": "gmdi_repeat_one"
+    },
+    { "name": "gmdi_replay",
+      "value": "gmdi_replay"
+    },
+    { "name": "gmdi_replay_10",
+      "value": "gmdi_replay_10"
+    },
+    { "name": "gmdi_replay_30",
+      "value": "gmdi_replay_30"
+    },
+    { "name": "gmdi_replay_5",
+      "value": "gmdi_replay_5"
+    },
+    { "name": "gmdi_reply",
+      "value": "gmdi_reply"
+    },
+    { "name": "gmdi_reply_all",
+      "value": "gmdi_reply_all"
+    },
+    { "name": "gmdi_report",
+      "value": "gmdi_report"
+    },
+    { "name": "gmdi_report_problem",
+      "value": "gmdi_report_problem"
+    },
+    { "name": "gmdi_restaurant",
+      "value": "gmdi_restaurant"
+    },
+    { "name": "gmdi_restaurant_menu",
+      "value": "gmdi_restaurant_menu"
+    },
+    { "name": "gmdi_restore",
+      "value": "gmdi_restore"
+    },
+    { "name": "gmdi_restore_page",
+      "value": "gmdi_restore_page"
+    },
+    { "name": "gmdi_ring_volume",
+      "value": "gmdi_ring_volume"
+    },
+    { "name": "gmdi_room",
+      "value": "gmdi_room"
+    },
+    { "name": "gmdi_room_service",
+      "value": "gmdi_room_service"
+    },
+    { "name": "gmdi_rotate_90_degrees_ccw",
+      "value": "gmdi_rotate_90_degrees_ccw"
+    },
+    { "name": "gmdi_rotate_left",
+      "value": "gmdi_rotate_left"
+    },
+    { "name": "gmdi_rotate_right",
+      "value": "gmdi_rotate_right"
+    },
+    { "name": "gmdi_rounded_corner",
+      "value": "gmdi_rounded_corner"
+    },
+    { "name": "gmdi_router",
+      "value": "gmdi_router"
+    },
+    { "name": "gmdi_rowing",
+      "value": "gmdi_rowing"
+    },
+    { "name": "gmdi_rss_feed",
+      "value": "gmdi_rss_feed"
+    },
+    { "name": "gmdi_rv_hookup",
+      "value": "gmdi_rv_hookup"
+    },
+    { "name": "gmdi_satellite",
+      "value": "gmdi_satellite"
+    },
+    { "name": "gmdi_save",
+      "value": "gmdi_save"
+    },
+    { "name": "gmdi_scanner",
+      "value": "gmdi_scanner"
+    },
+    { "name": "gmdi_schedule",
+      "value": "gmdi_schedule"
+    },
+    { "name": "gmdi_school",
+      "value": "gmdi_school"
+    },
+    { "name": "gmdi_screen_lock_landscape",
+      "value": "gmdi_screen_lock_landscape"
+    },
+    { "name": "gmdi_screen_lock_portrait",
+      "value": "gmdi_screen_lock_portrait"
+    },
+    { "name": "gmdi_screen_lock_rotation",
+      "value": "gmdi_screen_lock_rotation"
+    },
+    { "name": "gmdi_screen_rotation",
+      "value": "gmdi_screen_rotation"
+    },
+    { "name": "gmdi_screen_share",
+      "value": "gmdi_screen_share"
+    },
+    { "name": "gmdi_sd_card",
+      "value": "gmdi_sd_card"
+    },
+    { "name": "gmdi_sd_storage",
+      "value": "gmdi_sd_storage"
+    },
+    { "name": "gmdi_search",
+      "value": "gmdi_search"
+    },
+    { "name": "gmdi_security",
+      "value": "gmdi_security"
+    },
+    { "name": "gmdi_select_all",
+      "value": "gmdi_select_all"
+    },
+    { "name": "gmdi_send",
+      "value": "gmdi_send"
+    },
+    { "name": "gmdi_sentimenti_dissatisfied",
+      "value": "gmdi_sentimenti_dissatisfied"
+    },
+    { "name": "gmdi_sentimenti_neutral",
+      "value": "gmdi_sentimenti_neutral"
+    },
+    { "name": "gmdi_sentimenti_satisfied",
+      "value": "gmdi_sentimenti_satisfied"
+    },
+    { "name": "gmdi_sentimenti_very_dissatisfied",
+      "value": "gmdi_sentimenti_very_dissatisfied"
+    },
+    { "name": "gmdi_sentimenti_very_satisfied",
+      "value": "gmdi_sentimenti_very_satisfied"
+    },
+    { "name": "gmdi_settings",
+      "value": "gmdi_settings"
+    },
+    { "name": "gmdi_settings_applications",
+      "value": "gmdi_settings_applications"
+    },
+    { "name": "gmdi_settings_backup_restore",
+      "value": "gmdi_settings_backup_restore"
+    },
+    { "name": "gmdi_settings_bluetooth",
+      "value": "gmdi_settings_bluetooth"
+    },
+    { "name": "gmdi_settings_brightness",
+      "value": "gmdi_settings_brightness"
+    },
+    { "name": "gmdi_settings_cell",
+      "value": "gmdi_settings_cell"
+    },
+    { "name": "gmdi_settings_ethernet",
+      "value": "gmdi_settings_ethernet"
+    },
+    { "name": "gmdi_settings_input_antenna",
+      "value": "gmdi_settings_input_antenna"
+    },
+    { "name": "gmdi_settings_input_component",
+      "value": "gmdi_settings_input_component"
+    },
+    { "name": "gmdi_settings_input_composite",
+      "value": "gmdi_settings_input_composite"
+    },
+    { "name": "gmdi_settings_input_hdmi",
+      "value": "gmdi_settings_input_hdmi"
+    },
+    { "name": "gmdi_settings_input_svideo",
+      "value": "gmdi_settings_input_svideo"
+    },
+    { "name": "gmdi_settings_overscan",
+      "value": "gmdi_settings_overscan"
+    },
+    { "name": "gmdi_settings_phone",
+      "value": "gmdi_settings_phone"
+    },
+    { "name": "gmdi_settings_power",
+      "value": "gmdi_settings_power"
+    },
+    { "name": "gmdi_settings_remote",
+      "value": "gmdi_settings_remote"
+    },
+    { "name": "gmdi_settings_system_daydream",
+      "value": "gmdi_settings_system_daydream"
+    },
+    { "name": "gmdi_settings_voice",
+      "value": "gmdi_settings_voice"
+    },
+    { "name": "gmdi_share",
+      "value": "gmdi_share"
+    },
+    { "name": "gmdi_shop",
+      "value": "gmdi_shop"
+    },
+    { "name": "gmdi_shop_two",
+      "value": "gmdi_shop_two"
+    },
+    { "name": "gmdi_shopping_basket",
+      "value": "gmdi_shopping_basket"
+    },
+    { "name": "gmdi_shopping_cart",
+      "value": "gmdi_shopping_cart"
+    },
+    { "name": "gmdi_short_text",
+      "value": "gmdi_short_text"
+    },
+    { "name": "gmdi_show_chart",
+      "value": "gmdi_show_chart"
+    },
+    { "name": "gmdi_shuffle",
+      "value": "gmdi_shuffle"
+    },
+    { "name": "gmdi_signal_cellular_4_bar",
+      "value": "gmdi_signal_cellular_4_bar"
+    },
+    { "name": "gmdi_signal_cellular_connected_no_internet_4_bar",
+      "value": "gmdi_signal_cellular_connected_no_internet_4_bar"
+    },
+    { "name": "gmdi_signal_cellular_no_sim",
+      "value": "gmdi_signal_cellular_no_sim"
+    },
+    { "name": "gmdi_signal_cellular_null",
+      "value": "gmdi_signal_cellular_null"
+    },
+    { "name": "gmdi_signal_cellular_off",
+      "value": "gmdi_signal_cellular_off"
+    },
+    { "name": "gmdi_signal_wifi_4_bar",
+      "value": "gmdi_signal_wifi_4_bar"
+    },
+    { "name": "gmdi_signal_wifi_4_bar_lock",
+      "value": "gmdi_signal_wifi_4_bar_lock"
+    },
+    { "name": "gmdi_signal_wifi_off",
+      "value": "gmdi_signal_wifi_off"
+    },
+    { "name": "gmdi_sim_card",
+      "value": "gmdi_sim_card"
+    },
+    { "name": "gmdi_sim_card_alert",
+      "value": "gmdi_sim_card_alert"
+    },
+    { "name": "gmdi_skip_next",
+      "value": "gmdi_skip_next"
+    },
+    { "name": "gmdi_skip_previous",
+      "value": "gmdi_skip_previous"
+    },
+    { "name": "gmdi_slideshow",
+      "value": "gmdi_slideshow"
+    },
+    { "name": "gmdi_slow_motion_video",
+      "value": "gmdi_slow_motion_video"
+    },
+    { "name": "gmdi_smartphone",
+      "value": "gmdi_smartphone"
+    },
+    { "name": "gmdi_smoke_free",
+      "value": "gmdi_smoke_free"
+    },
+    { "name": "gmdi_smoking_rooms",
+      "value": "gmdi_smoking_rooms"
+    },
+    { "name": "gmdi_sms",
+      "value": "gmdi_sms"
+    },
+    { "name": "gmdi_sms_failed",
+      "value": "gmdi_sms_failed"
+    },
+    { "name": "gmdi_snooze",
+      "value": "gmdi_snooze"
+    },
+    { "name": "gmdi_sort",
+      "value": "gmdi_sort"
+    },
+    { "name": "gmdi_sort_by_alpha",
+      "value": "gmdi_sort_by_alpha"
+    },
+    { "name": "gmdi_spa",
+      "value": "gmdi_spa"
+    },
+    { "name": "gmdi_space_bar",
+      "value": "gmdi_space_bar"
+    },
+    { "name": "gmdi_speaker",
+      "value": "gmdi_speaker"
+    },
+    { "name": "gmdi_speaker_group",
+      "value": "gmdi_speaker_group"
+    },
+    { "name": "gmdi_speaker_notes",
+      "value": "gmdi_speaker_notes"
+    },
+    { "name": "gmdi_speaker_notes_off",
+      "value": "gmdi_speaker_notes_off"
+    },
+    { "name": "gmdi_speaker_phone",
+      "value": "gmdi_speaker_phone"
+    },
+    { "name": "gmdi_spellcheck",
+      "value": "gmdi_spellcheck"
+    },
+    { "name": "gmdi_star",
+      "value": "gmdi_star"
+    },
+    { "name": "gmdi_star_border",
+      "value": "gmdi_star_border"
+    },
+    { "name": "gmdi_star_half",
+      "value": "gmdi_star_half"
+    },
+    { "name": "gmdi_stars",
+      "value": "gmdi_stars"
+    },
+    { "name": "gmdi_stay_currenti_landscape",
+      "value": "gmdi_stay_currenti_landscape"
+    },
+    { "name": "gmdi_stay_currenti_portrait",
+      "value": "gmdi_stay_currenti_portrait"
+    },
+    { "name": "gmdi_stay_primary_landscape",
+      "value": "gmdi_stay_primary_landscape"
+    },
+    { "name": "gmdi_stay_primary_portrait",
+      "value": "gmdi_stay_primary_portrait"
+    },
+    { "name": "gmdi_stop",
+      "value": "gmdi_stop"
+    },
+    { "name": "gmdi_stop_screen_share",
+      "value": "gmdi_stop_screen_share"
+    },
+    { "name": "gmdi_storage",
+      "value": "gmdi_storage"
+    },
+    { "name": "gmdi_store",
+      "value": "gmdi_store"
+    },
+    { "name": "gmdi_store_mall_directory",
+      "value": "gmdi_store_mall_directory"
+    },
+    { "name": "gmdi_straighten",
+      "value": "gmdi_straighten"
+    },
+    { "name": "gmdi_streetview",
+      "value": "gmdi_streetview"
+    },
+    { "name": "gmdi_strikethrough_s",
+      "value": "gmdi_strikethrough_s"
+    },
+    { "name": "gmdi_style",
+      "value": "gmdi_style"
+    },
+    { "name": "gmdi_subdirectory_arrow_left",
+      "value": "gmdi_subdirectory_arrow_left"
+    },
+    { "name": "gmdi_subdirectory_arrow_right",
+      "value": "gmdi_subdirectory_arrow_right"
+    },
+    { "name": "gmdi_subject",
+      "value": "gmdi_subject"
+    },
+    { "name": "gmdi_subscriptions",
+      "value": "gmdi_subscriptions"
+    },
+    { "name": "gmdi_subtitles",
+      "value": "gmdi_subtitles"
+    },
+    { "name": "gmdi_subway",
+      "value": "gmdi_subway"
+    },
+    { "name": "gmdi_supervisor_account",
+      "value": "gmdi_supervisor_account"
+    },
+    { "name": "gmdi_surround_sound",
+      "value": "gmdi_surround_sound"
+    },
+    { "name": "gmdi_swap_calls",
+      "value": "gmdi_swap_calls"
+    },
+    { "name": "gmdi_swap_horiz",
+      "value": "gmdi_swap_horiz"
+    },
+    { "name": "gmdi_swap_vert",
+      "value": "gmdi_swap_vert"
+    },
+    { "name": "gmdi_swap_vertical_circle",
+      "value": "gmdi_swap_vertical_circle"
+    },
+    { "name": "gmdi_switch_camera",
+      "value": "gmdi_switch_camera"
+    },
+    { "name": "gmdi_switch_video",
+      "value": "gmdi_switch_video"
+    },
+    { "name": "gmdi_sync",
+      "value": "gmdi_sync"
+    },
+    { "name": "gmdi_sync_disabled",
+      "value": "gmdi_sync_disabled"
+    },
+    { "name": "gmdi_sync_problem",
+      "value": "gmdi_sync_problem"
+    },
+    { "name": "gmdi_system_update",
+      "value": "gmdi_system_update"
+    },
+    { "name": "gmdi_system_update_alt",
+      "value": "gmdi_system_update_alt"
+    },
+    { "name": "gmdi_tab",
+      "value": "gmdi_tab"
+    },
+    { "name": "gmdi_tab_unselected",
+      "value": "gmdi_tab_unselected"
+    },
+    { "name": "gmdi_tablet",
+      "value": "gmdi_tablet"
+    },
+    { "name": "gmdi_tablet_mac",
+      "value": "gmdi_tablet_mac"
+    },
+    { "name": "gmdi_tag_faces",
+      "value": "gmdi_tag_faces"
+    },
+    { "name": "gmdi_tap_and_play",
+      "value": "gmdi_tap_and_play"
+    },
+    { "name": "gmdi_terrain",
+      "value": "gmdi_terrain"
+    },
+    { "name": "gmdi_text_fields",
+      "value": "gmdi_text_fields"
+    },
+    { "name": "gmdi_text_format",
+      "value": "gmdi_text_format"
+    },
+    { "name": "gmdi_textsms",
+      "value": "gmdi_textsms"
+    },
+    { "name": "gmdi_texture",
+      "value": "gmdi_texture"
+    },
+    { "name": "gmdi_theaters",
+      "value": "gmdi_theaters"
+    },
+    { "name": "gmdi_thumb_down",
+      "value": "gmdi_thumb_down"
+    },
+    { "name": "gmdi_thumb_up",
+      "value": "gmdi_thumb_up"
+    },
+    { "name": "gmdi_thumbs_up_down",
+      "value": "gmdi_thumbs_up_down"
+    },
+    { "name": "gmdi_time_to_leave",
+      "value": "gmdi_time_to_leave"
+    },
+    { "name": "gmdi_timelapse",
+      "value": "gmdi_timelapse"
+    },
+    { "name": "gmdi_timeline",
+      "value": "gmdi_timeline"
+    },
+    { "name": "gmdi_timer",
+      "value": "gmdi_timer"
+    },
+    { "name": "gmdi_timer_10",
+      "value": "gmdi_timer_10"
+    },
+    { "name": "gmdi_timer_3",
+      "value": "gmdi_timer_3"
+    },
+    { "name": "gmdi_timer_off",
+      "value": "gmdi_timer_off"
+    },
+    { "name": "gmdi_title",
+      "value": "gmdi_title"
+    },
+    { "name": "gmdi_toc",
+      "value": "gmdi_toc"
+    },
+    { "name": "gmdi_today",
+      "value": "gmdi_today"
+    },
+    { "name": "gmdi_toll",
+      "value": "gmdi_toll"
+    },
+    { "name": "gmdi_tonality",
+      "value": "gmdi_tonality"
+    },
+    { "name": "gmdi_touch_app",
+      "value": "gmdi_touch_app"
+    },
+    { "name": "gmdi_toys",
+      "value": "gmdi_toys"
+    },
+    { "name": "gmdi_track_changes",
+      "value": "gmdi_track_changes"
+    },
+    { "name": "gmdi_traffic",
+      "value": "gmdi_traffic"
+    },
+    { "name": "gmdi_train",
+      "value": "gmdi_train"
+    },
+    { "name": "gmdi_tram",
+      "value": "gmdi_tram"
+    },
+    { "name": "gmdi_transfer_within_a_station",
+      "value": "gmdi_transfer_within_a_station"
+    },
+    { "name": "gmdi_transform",
+      "value": "gmdi_transform"
+    },
+    { "name": "gmdi_translate",
+      "value": "gmdi_translate"
+    },
+    { "name": "gmdi_trending_down",
+      "value": "gmdi_trending_down"
+    },
+    { "name": "gmdi_trending_flat",
+      "value": "gmdi_trending_flat"
+    },
+    { "name": "gmdi_trending_up",
+      "value": "gmdi_trending_up"
+    },
+    { "name": "gmdi_tune",
+      "value": "gmdi_tune"
+    },
+    { "name": "gmdi_turned_in",
+      "value": "gmdi_turned_in"
+    },
+    { "name": "gmdi_turned_in_not",
+      "value": "gmdi_turned_in_not"
+    },
+    { "name": "gmdi_tv",
+      "value": "gmdi_tv"
+    },
+    { "name": "gmdi_unarchive",
+      "value": "gmdi_unarchive"
+    },
+    { "name": "gmdi_undo",
+      "value": "gmdi_undo"
+    },
+    { "name": "gmdi_unfold_less",
+      "value": "gmdi_unfold_less"
+    },
+    { "name": "gmdi_unfold_more",
+      "value": "gmdi_unfold_more"
+    },
+    { "name": "gmdi_update",
+      "value": "gmdi_update"
+    },
+    { "name": "gmdi_usb",
+      "value": "gmdi_usb"
+    },
+    { "name": "gmdi_verified_user",
+      "value": "gmdi_verified_user"
+    },
+    { "name": "gmdi_vertical_align_bottom",
+      "value": "gmdi_vertical_align_bottom"
+    },
+    { "name": "gmdi_vertical_align_center",
+      "value": "gmdi_vertical_align_center"
+    },
+    { "name": "gmdi_vertical_align_top",
+      "value": "gmdi_vertical_align_top"
+    },
+    { "name": "gmdi_vibration",
+      "value": "gmdi_vibration"
+    },
+    { "name": "gmdi_video_call",
+      "value": "gmdi_video_call"
+    },
+    { "name": "gmdi_video_label",
+      "value": "gmdi_video_label"
+    },
+    { "name": "gmdi_video_library",
+      "value": "gmdi_video_library"
+    },
+    { "name": "gmdi_videocam",
+      "value": "gmdi_videocam"
+    },
+    { "name": "gmdi_videocam_off",
+      "value": "gmdi_videocam_off"
+    },
+    { "name": "gmdi_videogame_asset",
+      "value": "gmdi_videogame_asset"
+    },
+    { "name": "gmdi_view_agenda",
+      "value": "gmdi_view_agenda"
+    },
+    { "name": "gmdi_view_array",
+      "value": "gmdi_view_array"
+    },
+    { "name": "gmdi_view_carousel",
+      "value": "gmdi_view_carousel"
+    },
+    { "name": "gmdi_view_column",
+      "value": "gmdi_view_column"
+    },
+    { "name": "gmdi_view_comfy",
+      "value": "gmdi_view_comfy"
+    },
+    { "name": "gmdi_view_compact",
+      "value": "gmdi_view_compact"
+    },
+    { "name": "gmdi_view_day",
+      "value": "gmdi_view_day"
+    },
+    { "name": "gmdi_view_headline",
+      "value": "gmdi_view_headline"
+    },
+    { "name": "gmdi_view_list",
+      "value": "gmdi_view_list"
+    },
+    { "name": "gmdi_view_module",
+      "value": "gmdi_view_module"
+    },
+    { "name": "gmdi_view_quilt",
+      "value": "gmdi_view_quilt"
+    },
+    { "name": "gmdi_view_stream",
+      "value": "gmdi_view_stream"
+    },
+    { "name": "gmdi_view_week",
+      "value": "gmdi_view_week"
+    },
+    { "name": "gmdi_vignette",
+      "value": "gmdi_vignette"
+    },
+    { "name": "gmdi_visibility",
+      "value": "gmdi_visibility"
+    },
+    { "name": "gmdi_visibility_off",
+      "value": "gmdi_visibility_off"
+    },
+    { "name": "gmdi_voice_chat",
+      "value": "gmdi_voice_chat"
+    },
+    { "name": "gmdi_voicemail",
+      "value": "gmdi_voicemail"
+    },
+    { "name": "gmdi_volume_down",
+      "value": "gmdi_volume_down"
+    },
+    { "name": "gmdi_volume_mute",
+      "value": "gmdi_volume_mute"
+    },
+    { "name": "gmdi_volume_off",
+      "value": "gmdi_volume_off"
+    },
+    { "name": "gmdi_volume_up",
+      "value": "gmdi_volume_up"
+    },
+    { "name": "gmdi_vpn_key",
+      "value": "gmdi_vpn_key"
+    },
+    { "name": "gmdi_vpn_lock",
+      "value": "gmdi_vpn_lock"
+    },
+    { "name": "gmdi_wallpaper",
+      "value": "gmdi_wallpaper"
+    },
+    { "name": "gmdi_warning",
+      "value": "gmdi_warning"
+    },
+    { "name": "gmdi_watch",
+      "value": "gmdi_watch"
+    },
+    { "name": "gmdi_watch_later",
+      "value": "gmdi_watch_later"
+    },
+    { "name": "gmdi_wb_auto",
+      "value": "gmdi_wb_auto"
+    },
+    { "name": "gmdi_wb_cloudy",
+      "value": "gmdi_wb_cloudy"
+    },
+    { "name": "gmdi_wb_incandescent",
+      "value": "gmdi_wb_incandescent"
+    },
+    { "name": "gmdi_wb_iridescent",
+      "value": "gmdi_wb_iridescent"
+    },
+    { "name": "gmdi_wb_sunny",
+      "value": "gmdi_wb_sunny"
+    },
+    { "name": "gmdi_wc",
+      "value": "gmdi_wc"
+    },
+    { "name": "gmdi_web",
+      "value": "gmdi_web"
+    },
+    { "name": "gmdi_web_asset",
+      "value": "gmdi_web_asset"
+    },
+    { "name": "gmdi_weekend",
+      "value": "gmdi_weekend"
+    },
+    { "name": "gmdi_whatshot",
+      "value": "gmdi_whatshot"
+    },
+    { "name": "gmdi_widgets",
+      "value": "gmdi_widgets"
+    },
+    { "name": "gmdi_wifi",
+      "value": "gmdi_wifi"
+    },
+    { "name": "gmdi_wifi_lock",
+      "value": "gmdi_wifi_lock"
+    },
+    { "name": "gmdi_wifi_tethering",
+      "value": "gmdi_wifi_tethering"
+    },
+    { "name": "gmdi_work",
+      "value": "gmdi_work"
+    },
+    { "name": "gmdi_wrap_text",
+      "value": "gmdi_wrap_text"
+    },
+    { "name": "gmdi_youtube_searched_for",
+      "value": "gmdi_youtube_searched_for"
+    },
+    { "name": "gmdi_zoom_in",
+      "value": "gmdi_zoom_in"
+    },
+    { "name": "gmdi_zoom_out",
+      "value": "gmdi_zoom_out"
+    },
+    { "name": "gmdi_zoom_out_map",
+      "value": "gmdi_zoom_out_map"
+    }]
+}

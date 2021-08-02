@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DirectionalLayout
+    xmlns:ohos="http://schemas.huawei.com/res/ohos"
+    ohos:height="match_parent"
+    ohos:width="match_parent"
+    ohos:left_padding="16vp"
+    ohos:right_padding="16vp"
+    ohos:top_padding="16vp"
+    ohos:bottom_padding="16vp">
+    <Text
+        ohos:height="match_content"
+        ohos:width="match_parent"
+        ohos:max_text_lines="4"
+        ohos:multiple_lines="true"
+        ohos:text_size="12fp"
+        ohos:text="$string:program_button_desc"/>
+    <DirectionalLayout
+        ohos:height="match_content"
+        ohos:width="match_parent"
+        ohos:id="$+id:programbuttons_container"
+        ohos:top_margin="24vp"
+        ohos:orientation="vertical"/>
+</DirectionalLayout>

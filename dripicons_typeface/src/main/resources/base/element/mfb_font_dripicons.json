@@ -1,0 +1,606 @@
+{
+  "string": [
+    { "name": "define_mfb_font_dripicons",
+      "value": "com.rilixtech.dripiconstypeface.Dripicons"
+    },
+    { "name": "drpi_alarm",
+      "value": "drpi_alarm"
+    },
+    { "name": "drpi_align_center",
+      "value": "drpi_align_center"
+    },
+    { "name": "drpi_align_justify",
+      "value": "drpi_align_justify"
+    },
+    { "name": "drpi_align_left",
+      "value": "drpi_align_left"
+    },
+    { "name": "drpi_align_right",
+      "value": "drpi_align_right"
+    },
+    { "name": "drpi_anchor",
+      "value": "drpi_anchor"
+    },
+    { "name": "drpi_archive",
+      "value": "drpi_archive"
+    },
+    { "name": "drpi_arrow_down",
+      "value": "drpi_arrow_down"
+    },
+    { "name": "drpi_arrow_left",
+      "value": "drpi_arrow_left"
+    },
+    { "name": "drpi_arrow_right",
+      "value": "drpi_arrow_right"
+    },
+    { "name": "drpi_arrow_thin_down",
+      "value": "drpi_arrow_thin_down"
+    },
+    { "name": "drpi_arrow_thin_left",
+      "value": "drpi_arrow_thin_left"
+    },
+    { "name": "drpi_arrow_thin_right",
+      "value": "drpi_arrow_thin_right"
+    },
+    { "name": "drpi_arrow_thin_up",
+      "value": "drpi_arrow_thin_up"
+    },
+    { "name": "drpi_arrow_up",
+      "value": "drpi_arrow_up"
+    },
+    { "name": "drpi_article",
+      "value": "drpi_article"
+    },
+    { "name": "drpi_backspace",
+      "value": "drpi_backspace"
+    },
+    { "name": "drpi_basket",
+      "value": "drpi_basket"
+    },
+    { "name": "drpi_basketball",
+      "value": "drpi_basketball"
+    },
+    { "name": "drpi_battery_empty",
+      "value": "drpi_battery_empty"
+    },
+    { "name": "drpi_battery_full",
+      "value": "drpi_battery_full"
+    },
+    { "name": "drpi_battery_low",
+      "value": "drpi_battery_low"
+    },
+    { "name": "drpi_battery_medium",
+      "value": "drpi_battery_medium"
+    },
+    { "name": "drpi_bell",
+      "value": "drpi_bell"
+    },
+    { "name": "drpi_blog",
+      "value": "drpi_blog"
+    },
+    { "name": "drpi_bluetooth",
+      "value": "drpi_bluetooth"
+    },
+    { "name": "drpi_bold",
+      "value": "drpi_bold"
+    },
+    { "name": "drpi_bookmark",
+      "value": "drpi_bookmark"
+    },
+    { "name": "drpi_bookmarks",
+      "value": "drpi_bookmarks"
+    },
+    { "name": "drpi_box",
+      "value": "drpi_box"
+    },
+    { "name": "drpi_briefcase",
+      "value": "drpi_briefcase"
+    },
+    { "name": "drpi_brightness_low",
+      "value": "drpi_brightness_low"
+    },
+    { "name": "drpi_brightness_max",
+      "value": "drpi_brightness_max"
+    },
+    { "name": "drpi_brightness_medium",
+      "value": "drpi_brightness_medium"
+    },
+    { "name": "drpi_broadcast",
+      "value": "drpi_broadcast"
+    },
+    { "name": "drpi_browser",
+      "value": "drpi_browser"
+    },
+    { "name": "drpi_browser_upload",
+      "value": "drpi_browser_upload"
+    },
+    { "name": "drpi_brush",
+      "value": "drpi_brush"
+    },
+    { "name": "drpi_calendar",
+      "value": "drpi_calendar"
+    },
+    { "name": "drpi_camcorder",
+      "value": "drpi_camcorder"
+    },
+    { "name": "drpi_camera",
+      "value": "drpi_camera"
+    },
+    { "name": "drpi_card",
+      "value": "drpi_card"
+    },
+    { "name": "drpi_cart",
+      "value": "drpi_cart"
+    },
+    { "name": "drpi_checklist",
+      "value": "drpi_checklist"
+    },
+    { "name": "drpi_checkmark",
+      "value": "drpi_checkmark"
+    },
+    { "name": "drpi_chevron_down",
+      "value": "drpi_chevron_down"
+    },
+    { "name": "drpi_chevron_left",
+      "value": "drpi_chevron_left"
+    },
+    { "name": "drpi_chevron_right",
+      "value": "drpi_chevron_right"
+    },
+    { "name": "drpi_chevron_up",
+      "value": "drpi_chevron_up"
+    },
+    { "name": "drpi_clipboard",
+      "value": "drpi_clipboard"
+    },
+    { "name": "drpi_clock",
+      "value": "drpi_clock"
+    },
+    { "name": "drpi_clockwise",
+      "value": "drpi_clockwise"
+    },
+    { "name": "drpi_cloud",
+      "value": "drpi_cloud"
+    },
+    { "name": "drpi_cloud_download",
+      "value": "drpi_cloud_download"
+    },
+    { "name": "drpi_cloud_upload",
+      "value": "drpi_cloud_upload"
+    },
+    { "name": "drpi_code",
+      "value": "drpi_code"
+    },
+    { "name": "drpi_contract",
+      "value": "drpi_contract"
+    },
+    { "name": "drpi_contract_2",
+      "value": "drpi_contract_2"
+    },
+    { "name": "drpi_conversation",
+      "value": "drpi_conversation"
+    },
+    { "name": "drpi_copy",
+      "value": "drpi_copy"
+    },
+    { "name": "drpi_crop",
+      "value": "drpi_crop"
+    },
+    { "name": "drpi_cross",
+      "value": "drpi_cross"
+    },
+    { "name": "drpi_crosshair",
+      "value": "drpi_crosshair"
+    },
+    { "name": "drpi_cutlery",
+      "value": "drpi_cutlery"
+    },
+    { "name": "drpi_device_desktop",
+      "value": "drpi_device_desktop"
+    },
+    { "name": "drpi_device_mobile",
+      "value": "drpi_device_mobile"
+    },
+    { "name": "drpi_device_tablet",
+      "value": "drpi_device_tablet"
+    },
+    { "name": "drpi_direction",
+      "value": "drpi_direction"
+    },
+    { "name": "drpi_disc",
+      "value": "drpi_disc"
+    },
+    { "name": "drpi_document",
+      "value": "drpi_document"
+    },
+    { "name": "drpi_document_delete",
+      "value": "drpi_document_delete"
+    },
+    { "name": "drpi_document_edit",
+      "value": "drpi_document_edit"
+    },
+    { "name": "drpi_document_new",
+      "value": "drpi_document_new"
+    },
+    { "name": "drpi_document_remove",
+      "value": "drpi_document_remove"
+    },
+    { "name": "drpi_dot",
+      "value": "drpi_dot"
+    },
+    { "name": "drpi_dots_2",
+      "value": "drpi_dots_2"
+    },
+    { "name": "drpi_dots_3",
+      "value": "drpi_dots_3"
+    },
+    { "name": "drpi_download",
+      "value": "drpi_download"
+    },
+    { "name": "drpi_duplicate",
+      "value": "drpi_duplicate"
+    },
+    { "name": "drpi_enter",
+      "value": "drpi_enter"
+    },
+    { "name": "drpi_exit",
+      "value": "drpi_exit"
+    },
+    { "name": "drpi_expand",
+      "value": "drpi_expand"
+    },
+    { "name": "drpi_expand_2",
+      "value": "drpi_expand_2"
+    },
+    { "name": "drpi_experiment",
+      "value": "drpi_experiment"
+    },
+    { "name": "drpi_export",
+      "value": "drpi_export"
+    },
+    { "name": "drpi_feed",
+      "value": "drpi_feed"
+    },
+    { "name": "drpi_flag",
+      "value": "drpi_flag"
+    },
+    { "name": "drpi_flashlight",
+      "value": "drpi_flashlight"
+    },
+    { "name": "drpi_folder",
+      "value": "drpi_folder"
+    },
+    { "name": "drpi_folder_open",
+      "value": "drpi_folder_open"
+    },
+    { "name": "drpi_forward",
+      "value": "drpi_forward"
+    },
+    { "name": "drpi_gaming",
+      "value": "drpi_gaming"
+    },
+    { "name": "drpi_gear",
+      "value": "drpi_gear"
+    },
+    { "name": "drpi_graduation",
+      "value": "drpi_graduation"
+    },
+    { "name": "drpi_graph_bar",
+      "value": "drpi_graph_bar"
+    },
+    { "name": "drpi_graph_line",
+      "value": "drpi_graph_line"
+    },
+    { "name": "drpi_graph_pie",
+      "value": "drpi_graph_pie"
+    },
+    { "name": "drpi_headset",
+      "value": "drpi_headset"
+    },
+    { "name": "drpi_heart",
+      "value": "drpi_heart"
+    },
+    { "name": "drpi_help",
+      "value": "drpi_help"
+    },
+    { "name": "drpi_home",
+      "value": "drpi_home"
+    },
+    { "name": "drpi_hourglass",
+      "value": "drpi_hourglass"
+    },
+    { "name": "drpi_inbox",
+      "value": "drpi_inbox"
+    },
+    { "name": "drpi_information",
+      "value": "drpi_information"
+    },
+    { "name": "drpi_italic",
+      "value": "drpi_italic"
+    },
+    { "name": "drpi_jewel",
+      "value": "drpi_jewel"
+    },
+    { "name": "drpi_lifting",
+      "value": "drpi_lifting"
+    },
+    { "name": "drpi_lightbulb",
+      "value": "drpi_lightbulb"
+    },
+    { "name": "drpi_link",
+      "value": "drpi_link"
+    },
+    { "name": "drpi_link_broken",
+      "value": "drpi_link_broken"
+    },
+    { "name": "drpi_list",
+      "value": "drpi_list"
+    },
+    { "name": "drpi_loading",
+      "value": "drpi_loading"
+    },
+    { "name": "drpi_location",
+      "value": "drpi_location"
+    },
+    { "name": "drpi_lock",
+      "value": "drpi_lock"
+    },
+    { "name": "drpi_lock_open",
+      "value": "drpi_lock_open"
+    },
+    { "name": "drpi_mail",
+      "value": "drpi_mail"
+    },
+    { "name": "drpi_map",
+      "value": "drpi_map"
+    },
+    { "name": "drpi_media_loop",
+      "value": "drpi_media_loop"
+    },
+    { "name": "drpi_media_next",
+      "value": "drpi_media_next"
+    },
+    { "name": "drpi_media_pause",
+      "value": "drpi_media_pause"
+    },
+    { "name": "drpi_media_play",
+      "value": "drpi_media_play"
+    },
+    { "name": "drpi_media_previous",
+      "value": "drpi_media_previous"
+    },
+    { "name": "drpi_media_record",
+      "value": "drpi_media_record"
+    },
+    { "name": "drpi_media_shuffle",
+      "value": "drpi_media_shuffle"
+    },
+    { "name": "drpi_media_stop",
+      "value": "drpi_media_stop"
+    },
+    { "name": "drpi_medical",
+      "value": "drpi_medical"
+    },
+    { "name": "drpi_menu",
+      "value": "drpi_menu"
+    },
+    { "name": "drpi_message",
+      "value": "drpi_message"
+    },
+    { "name": "drpi_meter",
+      "value": "drpi_meter"
+    },
+    { "name": "drpi_microphone",
+      "value": "drpi_microphone"
+    },
+    { "name": "drpi_minus",
+      "value": "drpi_minus"
+    },
+    { "name": "drpi_monitor",
+      "value": "drpi_monitor"
+    },
+    { "name": "drpi_move",
+      "value": "drpi_move"
+    },
+    { "name": "drpi_music",
+      "value": "drpi_music"
+    },
+    { "name": "drpi_network_1",
+      "value": "drpi_network_1"
+    },
+    { "name": "drpi_network_2",
+      "value": "drpi_network_2"
+    },
+    { "name": "drpi_network_3",
+      "value": "drpi_network_3"
+    },
+    { "name": "drpi_network_4",
+      "value": "drpi_network_4"
+    },
+    { "name": "drpi_network_5",
+      "value": "drpi_network_5"
+    },
+    { "name": "drpi_pamphlet",
+      "value": "drpi_pamphlet"
+    },
+    { "name": "drpi_paperclip",
+      "value": "drpi_paperclip"
+    },
+    { "name": "drpi_pencil",
+      "value": "drpi_pencil"
+    },
+    { "name": "drpi_phone",
+      "value": "drpi_phone"
+    },
+    { "name": "drpi_photo",
+      "value": "drpi_photo"
+    },
+    { "name": "drpi_photo_group",
+      "value": "drpi_photo_group"
+    },
+    { "name": "drpi_pill",
+      "value": "drpi_pill"
+    },
+    { "name": "drpi_pin",
+      "value": "drpi_pin"
+    },
+    { "name": "drpi_plus",
+      "value": "drpi_plus"
+    },
+    { "name": "drpi_power",
+      "value": "drpi_power"
+    },
+    { "name": "drpi_preview",
+      "value": "drpi_preview"
+    },
+    { "name": "drpi_print",
+      "value": "drpi_print"
+    },
+    { "name": "drpi_pulse",
+      "value": "drpi_pulse"
+    },
+    { "name": "drpi_question",
+      "value": "drpi_question"
+    },
+    { "name": "drpi_reply",
+      "value": "drpi_reply"
+    },
+    { "name": "drpi_reply_all",
+      "value": "drpi_reply_all"
+    },
+    { "name": "drpi_return",
+      "value": "drpi_return"
+    },
+    { "name": "drpi_retweet",
+      "value": "drpi_retweet"
+    },
+    { "name": "drpi_rocket",
+      "value": "drpi_rocket"
+    },
+    { "name": "drpi_scale",
+      "value": "drpi_scale"
+    },
+    { "name": "drpi_search",
+      "value": "drpi_search"
+    },
+    { "name": "drpi_shopping_bag",
+      "value": "drpi_shopping_bag"
+    },
+    { "name": "drpi_skip",
+      "value": "drpi_skip"
+    },
+    { "name": "drpi_stack",
+      "value": "drpi_stack"
+    },
+    { "name": "drpi_star",
+      "value": "drpi_star"
+    },
+    { "name": "drpi_stopwatch",
+      "value": "drpi_stopwatch"
+    },
+    { "name": "drpi_store",
+      "value": "drpi_store"
+    },
+    { "name": "drpi_suitcase",
+      "value": "drpi_suitcase"
+    },
+    { "name": "drpi_swap",
+      "value": "drpi_swap"
+    },
+    { "name": "drpi_tag",
+      "value": "drpi_tag"
+    },
+    { "name": "drpi_tag_delete",
+      "value": "drpi_tag_delete"
+    },
+    { "name": "drpi_tags",
+      "value": "drpi_tags"
+    },
+    { "name": "drpi_thumbs_down",
+      "value": "drpi_thumbs_down"
+    },
+    { "name": "drpi_thumbs_up",
+      "value": "drpi_thumbs_up"
+    },
+    { "name": "drpi_ticket",
+      "value": "drpi_ticket"
+    },
+    { "name": "drpi_time_reverse",
+      "value": "drpi_time_reverse"
+    },
+    { "name": "drpi_to_do",
+      "value": "drpi_to_do"
+    },
+    { "name": "drpi_toggles",
+      "value": "drpi_toggles"
+    },
+    { "name": "drpi_trash",
+      "value": "drpi_trash"
+    },
+    { "name": "drpi_trophy",
+      "value": "drpi_trophy"
+    },
+    { "name": "drpi_upload",
+      "value": "drpi_upload"
+    },
+    { "name": "drpi_user",
+      "value": "drpi_user"
+    },
+    { "name": "drpi_user_group",
+      "value": "drpi_user_group"
+    },
+    { "name": "drpi_user_id",
+      "value": "drpi_user_id"
+    },
+    { "name": "drpi_vibrate",
+      "value": "drpi_vibrate"
+    },
+    { "name": "drpi_view_apps",
+      "value": "drpi_view_apps"
+    },
+    { "name": "drpi_view_list",
+      "value": "drpi_view_list"
+    },
+    { "name": "drpi_view_list_large",
+      "value": "drpi_view_list_large"
+    },
+    { "name": "drpi_view_thumb",
+      "value": "drpi_view_thumb"
+    },
+    { "name": "drpi_volume_full",
+      "value": "drpi_volume_full"
+    },
+    { "name": "drpi_volume_low",
+      "value": "drpi_volume_low"
+    },
+    { "name": "drpi_volume_medium",
+      "value": "drpi_volume_medium"
+    },
+    { "name": "drpi_volume_off",
+      "value": "drpi_volume_off"
+    },
+    { "name": "drpi_wallet",
+      "value": "drpi_wallet"
+    },
+    { "name": "drpi_warning",
+      "value": "drpi_warning"
+    },
+    { "name": "drpi_web",
+      "value": "drpi_web"
+    },
+    { "name": "drpi_weight",
+      "value": "drpi_weight"
+    },
+    { "name": "drpi_wifi",
+      "value": "drpi_wifi"
+    },
+    { "name": "drpi_wrong",
+      "value": "drpi_wrong"
+    },
+    { "name": "drpi_zoom_in",
+      "value": "drpi_zoom_in"
+    },
+    { "name": "drpi_zoom_out",
+      "value": "drpi_zoom_out"
+    }]
+}

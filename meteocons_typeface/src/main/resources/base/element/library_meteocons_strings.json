@@ -1,0 +1,35 @@
+{
+  "string": [
+    { "name": "define_Meteocons",
+      "value": "author;libraryName;libraryWebsite"
+    },
+    { "name": "library_Meteocons_author",
+      "value": "Alessio Atzeni"
+    },
+    { "name": "library_Meteocons_authorWebsite",
+      "value": "http"
+    },
+    { "name": "library_Meteocons_libraryName",
+      "value": "Meteocons"
+    },
+    { "name": "library_Meteocons_libraryDescription",
+      "value": "Meteocons is a set of weather icons, it containing 40+ icons available in PSD, CSH, EPS, SVG, Desktop font and Web font. All icon and updates are free and always will be."
+    },
+    { "name": "library_Meteocons_libraryWebsite",
+      "value": "http"
+    },
+    { "name": "library_Meteocons_libraryVersion",
+      "value": "1.1.0.2"
+    },
+    { "name": "library_Meteocons_licenseId",
+      "value": "meteocons_custom"
+    },
+    { "name": "library_Meteocons_isOpenSource",
+      "value": "false"
+    },
+    { "name": "library_Meteocons_repositoryLink",
+      "value": ""
+    }
+
+  ]
+}

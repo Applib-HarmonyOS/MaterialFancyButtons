@@ -1,0 +1,37 @@
+{
+ "string": [
+{ "name": "define_Weather_Icons",
+"value": "year;author;libraryName;libraryWebsite"
+},
+{ "name": "library_Weather_Icons_author",
+"value": "Lukas Bischoff and Erik Flowers"
+},
+{ "name": "library_Weather_Icons_authorWebsite",
+"value": ""
+},
+{ "name": "library_Weather_Icons_libraryName",
+"value": "Weather Icons"
+},
+{ "name": "library_Weather_Icons_libraryDescription",
+"value": "Weather Icons is the only icon font and CSS with 222 weather themed icons, ready to be dropped right into Bootstrap, or any project that needs high quality weather, maritime, and meteorological based icons!"
+},
+{ "name": "library_Weather_Icons_libraryWebsite",
+"value": "https://erikflowers.github.io/weather-icons/"
+},
+{ "name": "library_Weather_Icons_libraryVersion",
+"value": "2.0.10.2"
+},
+{ "name": "library_Weather_Icons_licenseId",
+"value": "sil_ofl_1_1"
+},
+{ "name": "library_Weather_Icons_isOpenSource",
+"value": "true"
+},
+{ "name": "library_Weather_Icons_repositoryLink",
+"value": "https://github.com/erikflowers/weather-icons"
+},
+{ "name": "library_Weather_Icons_year",
+"value": " "
+}
+]
+}

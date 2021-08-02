@@ -1,0 +1,38 @@
+{
+  "string": [
+    { "name": "define_MaterialDesignIconicIcons",
+      "value": "year;author;libraryName;libraryWebsite"
+    },
+    { "name": "library_MaterialDesignIconicIcons_author",
+      "value": "Sergey Kupletsky"
+    },
+    { "name": "library_MaterialDesignIconicIcons_authorWebsite",
+      "value": "http"
+    },
+    { "name": "library_MaterialDesignIconicIcons_libraryName",
+      "value": "Material Design Iconics Icons"
+    },
+    { "name": "library_MaterialDesignIconicIcons_libraryDescription",
+      "value": "Material Design Iconic Font is a full suite of material design icons (created and maintained by Google) with additional community-designed and brands icons for easy scalable vector graphics on websites or desktop"
+    },
+    { "name": "library_MaterialDesignIconicIcons_libraryWebsite",
+      "value": "http"
+    },
+    { "name": "library_MaterialDesignIconicIcons_libraryVersion",
+      "value": "2.2.0.2"
+    },
+    { "name": "library_MaterialDesignIconicIcons_licenseId",
+      "value": "sil_ofl_1_1"
+    },
+    { "name": "library_MaterialDesignIconicIcons_isOpenSource",
+      "value": "true"
+    },
+    { "name": "library_MaterialDesignIconicIcons_repositoryLink",
+      "value": "https"
+    },
+    { "name": "library_MaterialDesignIconicIcons_year",
+      "value": "2012"
+    }
+
+  ]
+}

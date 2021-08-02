@@ -1,0 +1,37 @@
+{
+ "string": [
+{ "name": "define_openiconic",
+"value": "year;author;libraryName;libraryWebsite"
+},
+{ "name": "library_openiconic_author",
+"value": "Iconic"
+},
+{ "name": "library_openiconic_authorWebsite",
+"value": "https://useiconic.com/"
+},
+{ "name": "library_openiconic_libraryName",
+"value": "Open Iconic"
+},
+{ "name": "library_openiconic_libraryDescription",
+"value": "An open source icon set with 223 marks in SVG, webfont and raster formats"
+},
+{ "name": "library_openiconic_libraryWebsite",
+"value": "https://github.com/iconic/open-iconic"
+},
+{ "name": "library_openiconic_libraryVersion",
+"value": "1.1.1"
+},
+{ "name": "library_openiconic_licenseId",
+"value": "sil_ofl_1_1"
+},
+{ "name": "library_openiconic_isOpenSource",
+"value": "true"
+},
+{ "name": "library_openiconic_repositoryLink",
+"value": "https://github.com/iconic/open-iconic"
+},
+{ "name": "library_openiconic_year",
+"value": "2014"
+}
+]
+}

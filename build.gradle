@@ -1,47 +1,89 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
-ext {
-  compileSdkVersion = 28
-  targetSdkVersion = 28
-  minSdkVersion = 14
-  buildToolsVersion = '28.0.3'
-  supportLibVersion = '28.0.0'
+apply plugin: 'com.huawei.ohos.app'
+apply plugin: 'org.sonarqube'
+apply plugin: 'checkstyle'
 
-  // Bintray repo
-  bintrayRepo = 'maven'
-  publishedGroupId = 'com.rilixtech'
-  siteUrl = 'https://github.com/joielechong/MaterialFancyButtons'
-  gitUrl = 'https://github.com/joielechong/MaterialFancyButtons.git'
-  developerId = 'rilixtech'
-  developerName = 'Joielechong'
-  developerEmail = ''
-  organization = ''  // if you push to organization's repository.
-  licenseName = 'The Apache Software License, Version 2.0'
-  licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
-  allLicenses = "Apache-2.0"
-
-  materialFancyButtonLibraryVersionName = '1.8.8'
-  materialFancyButtonLibraryVersionCode = 188
-
+ohos {
+    compileSdkVersion 5
+    defaultConfig {
+        compatibleSdkVersion 5
+    }
 }
-
+	
 buildscript {
-  repositories {
-    jcenter()
-    google()
-  }
-  dependencies {
-    classpath 'com.android.tools.build:gradle:3.4.1'
-    classpath 'com.jfrog.bintray.gradle:gradle-bintray-plugin:1.8.4'
-    classpath 'com.github.dcendents:android-maven-gradle-plugin:2.1'
-  }
+    repositories {
+        maven {
+            url 'https://repo.huaweicloud.com/repository/maven/'
+        }
+        maven {
+            url 'https://developer.huawei.com/repo/'
+        }
+		jcenter()
+    }
+    dependencies {
+        classpath 'com.huawei.ohos:hap:2.4.2.7'
+        classpath 'com.huawei.ohos:decctest:1.0.0.7'
+        classpath "org.sonarsource.scanner.gradle:sonarqube-gradle-plugin:3.3"
+    }
 }
 
 allprojects {
-  repositories {
-    jcenter()
-    google()
-    maven {
-      url "http://dl.bintray.com/rilixtech/maven"
+    repositories {
+        maven {
+            url 'https://repo.huaweicloud.com/repository/maven/'
+        }
+        maven {
+            url 'https://developer.huawei.com/repo/'
+        }
+	    maven {
+            url 'https://mirrors.huaweicloud.com/repository/maven/'
+        }
+		jcenter()
     }
-  }
+    task checkstyle(type: Checkstyle) {
+        showViolations = true
+        configFile file("config/checkstyle.xml")
+        source 'entry/src/main/java'
+        source 'materialfancybutton/src/main/java'
+        source 'community_material_typeface/src/main/java'
+        source 'devicon_typeface/src/main/java'
+        source 'dripicons_typeface/src/main/java'
+        source 'entypo_typeface/src/main/java'
+        source 'fontawesome_typeface/src/main/java'
+        source 'foundation_icons_typeface/src/main/java'
+        source 'glyphicons_halflings_typeface/src/main/java'
+        source 'google_material_typeface/src/main/java'
+        source 'ionicons_typeface/src/main/java'
+        source 'material_design_iconic_typeface/src/main/java'
+        source 'meteocons_typeface/src/main/java'
+        source 'mfglabs_iconset_typeface/src/main/java'
+        source 'mobirise_icons_typeface/src/main/java'
+        source 'octicons_typeface/src/main/java'
+        source 'open_iconic_typeface/src/main/java'
+        source 'picol_typeface/src/main/java'
+        source 'pixeden_7_stroke_typeface/src/main/java'
+        source 'themify_icons_typeface/src/main/java'
+        source 'typicons_typeface/src/main/java'
+        source 'vaadin_icons_typeface/src/main/java'
+        source 'weather_icons_typeface/src/main/java'
+        include '**/*.java'
+
+        // empty classpath
+        classpath = files()
+    }
+}
+
+checkstyle {
+	toolVersion "8.43"
+}
+
+sonarqube {
+    properties {
+        property "sonar.projectKey", "applibgroup_MaterialFancyButtons"
+        property "sonar.organization", "applibgroup"
+        property "sonar.host.url", "https://sonarcloud.io"
+        property "sonar.sources", "entry,materialfancybutton,community_material_typeface,devicon_typeface,dripicons_typeface,entypo_typeface,fontawesome_typeface,foundation_icons_typeface,glyphicons_halflings_typeface,google_material_typeface,ionicons_typeface,material_design_iconic_typeface,meteocons_typeface,mfglabs_iconset_typeface,mobirise_icons_typeface,octicons_typeface,open_iconic_typeface,picol_typeface,pixeden_7_stroke_typeface,themify_icons_typeface,typicons_typeface,vaadin_icons_typeface,weather_icons_typeface"
+        property "sonar.java.binaries", "entry/build,materialfancybutton/build,community_material_typeface/build,devicon_typeface/build,dripicons_typeface/build,entypo_typeface/build,fontawesome_typeface/build,foundation_icons_typeface/build,glyphicons_halflings_typeface/build,google_material_typeface/build,ionicons_typeface/build,material_design_iconic_typeface/build,meteocons_typeface/build,mfglabs_iconset_typeface/build,mobirise_icons_typeface/build,octicons_typeface/build,open_iconic_typeface/build,picol_typeface/build,pixeden_7_stroke_typeface/build,themify_icons_typeface/build,typicons_typeface/build,vaadin_icons_typeface/build,weather_icons_typeface/build"
+        property "sonar.java.checkstyle.reportPaths", "build/reports/checkstyle/checkstyle.xml"
+    }
 }

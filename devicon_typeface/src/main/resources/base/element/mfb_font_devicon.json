@@ -1,0 +1,488 @@
+{
+  "string": [
+    { "name": "define_mfb_font_devicon",
+      "value": "com.rilixtech.devicontypeface.DevIcon"
+    },
+    { "name": "devi_ssh_plain_wordmark",
+      "value": "devi_ssh_plain_wordmark"
+    },
+    { "name": "devi_ssh_plain",
+      "value": "devi_ssh_plain"
+    },
+    { "name": "devi_sourcetree_plain_wordmark",
+      "value": "devi_sourcetree_plain_wordmark"
+    },
+    { "name": "devi_sourcetree_plain",
+      "value": "devi_sourcetree_plain"
+    },
+    { "name": "devi_phpstorm_plain_wordmark",
+      "value": "devi_phpstorm_plain_wordmark"
+    },
+    { "name": "devi_phpstorm_plain",
+      "value": "devi_phpstorm_plain"
+    },
+    { "name": "devi_jeet_plain_wordmark",
+      "value": "devi_jeet_plain_wordmark"
+    },
+    { "name": "devi_jeet_plain",
+      "value": "devi_jeet_plain"
+    },
+    { "name": "devi_gitlab_plain_wordmark",
+      "value": "devi_gitlab_plain_wordmark"
+    },
+    { "name": "devi_gitlab_plain",
+      "value": "devi_gitlab_plain"
+    },
+    { "name": "devi_github_plain_wordmark",
+      "value": "devi_github_plain_wordmark"
+    },
+    { "name": "devi_github_plain",
+      "value": "devi_github_plain"
+    },
+    { "name": "devi_d3js_plain",
+      "value": "devi_d3js_plain"
+    },
+    { "name": "devi_confluence_plain_wordmark",
+      "value": "devi_confluence_plain_wordmark"
+    },
+    { "name": "devi_confluence_plain",
+      "value": "devi_confluence_plain"
+    },
+    { "name": "devi_bitbucket_plain_wordmark",
+      "value": "devi_bitbucket_plain_wordmark"
+    },
+    { "name": "devi_bitbucket_plain",
+      "value": "devi_bitbucket_plain"
+    },
+    { "name": "devi_safari_line_wordmark",
+      "value": "devi_safari_line_wordmark"
+    },
+    { "name": "devi_safari_line",
+      "value": "devi_safari_line"
+    },
+    { "name": "devi_safari_plain_wordmark",
+      "value": "devi_safari_plain_wordmark"
+    },
+    { "name": "devi_safari_plain",
+      "value": "devi_safari_plain"
+    },
+    { "name": "devi_jetbrains_plain_wordmark",
+      "value": "devi_jetbrains_plain_wordmark"
+    },
+    { "name": "devi_django_line_wordmark",
+      "value": "devi_django_line_wordmark"
+    },
+    { "name": "devi_django_plain_wordmark",
+      "value": "devi_django_plain_wordmark"
+    },
+    { "name": "devi_gimp_plain",
+      "value": "devi_gimp_plain"
+    },
+    { "name": "devi_redhat_plain_wordmark",
+      "value": "devi_redhat_plain_wordmark"
+    },
+    { "name": "devi_redhat_plain",
+      "value": "devi_redhat_plain"
+    },
+    { "name": "devi_cplusplus_line_wordmark",
+      "value": "devi_cplusplus_line_wordmark"
+    },
+    { "name": "devi_cplusplus_plain_wordmark",
+      "value": "devi_cplusplus_plain_wordmark"
+    },
+    { "name": "devi_csharp_line_wordmark",
+      "value": "devi_csharp_line_wordmark"
+    },
+    { "name": "devi_csharp_plain_wordmark",
+      "value": "devi_csharp_plain_wordmark"
+    },
+    { "name": "devi_c_line_wordmark",
+      "value": "devi_c_line_wordmark"
+    },
+    { "name": "devi_c_plain_wordmark",
+      "value": "devi_c_plain_wordmark"
+    },
+    { "name": "devi_nodewebkit_line_wordmark",
+      "value": "devi_nodewebkit_line_wordmark"
+    },
+    { "name": "devi_nodewebkit_line",
+      "value": "devi_nodewebkit_line"
+    },
+    { "name": "devi_nodewebkit_plain_wordmark",
+      "value": "devi_nodewebkit_plain_wordmark"
+    },
+    { "name": "devi_nodewebkit_plain",
+      "value": "devi_nodewebkit_plain"
+    },
+    { "name": "devi_nginx_plain_wordmark",
+      "value": "devi_nginx_plain_wordmark"
+    },
+    { "name": "devi_erlang_plain_wordmark",
+      "value": "devi_erlang_plain_wordmark"
+    },
+    { "name": "devi_erlang_plain",
+      "value": "devi_erlang_plain"
+    },
+    { "name": "devi_doctrine_line_wordmark",
+      "value": "devi_doctrine_line_wordmark"
+    },
+    { "name": "devi_doctrine_line",
+      "value": "devi_doctrine_line"
+    },
+    { "name": "devi_doctrine_plain_wordmark",
+      "value": "devi_doctrine_plain_wordmark"
+    },
+    { "name": "devi_doctrine_plain",
+      "value": "devi_doctrine_plain"
+    },
+    { "name": "devi_apache_line_wordmark",
+      "value": "devi_apache_line_wordmark"
+    },
+    { "name": "devi_apache_line",
+      "value": "devi_apache_line"
+    },
+    { "name": "devi_apache_plain_wordmark",
+      "value": "devi_apache_plain_wordmark"
+    },
+    { "name": "devi_apache_plain",
+      "value": "devi_apache_plain"
+    },
+    { "name": "devi_go_line",
+      "value": "devi_go_line"
+    },
+    { "name": "devi_redis_plain_wordmark",
+      "value": "devi_redis_plain_wordmark"
+    },
+    { "name": "devi_redis_plain",
+      "value": "devi_redis_plain"
+    },
+    { "name": "devi_meteor_plain_wordmark",
+      "value": "devi_meteor_plain_wordmark"
+    },
+    { "name": "devi_meteor_plain",
+      "value": "devi_meteor_plain"
+    },
+    { "name": "devi_heroku_original_wordmark",
+      "value": "devi_heroku_original_wordmark"
+    },
+    { "name": "devi_heroku_original",
+      "value": "devi_heroku_original"
+    },
+    { "name": "devi_heroku_plain_wordmark",
+      "value": "devi_heroku_plain_wordmark"
+    },
+    { "name": "devi_heroku_plain",
+      "value": "devi_heroku_plain"
+    },
+    { "name": "devi_go_plain",
+      "value": "devi_go_plain"
+    },
+    { "name": "devi_docker_plain_wordmark",
+      "value": "devi_docker_plain_wordmark"
+    },
+    { "name": "devi_docker_plain",
+      "value": "devi_docker_plain"
+    },
+    { "name": "devi_amazonwebservices_plain",
+      "value": "devi_amazonwebservices_plain"
+    },
+    { "name": "devi_amazonwebservices_plain_wordmark",
+      "value": "devi_amazonwebservices_plain_wordmark"
+    },
+    { "name": "devi_angularjs_plain_wordmark",
+      "value": "devi_angularjs_plain_wordmark"
+    },
+    { "name": "devi_angularjs_plain",
+      "value": "devi_angularjs_plain"
+    },
+    { "name": "devi_appcelerator_plain",
+      "value": "devi_appcelerator_plain"
+    },
+    { "name": "devi_appcelerator_plain_wordmark",
+      "value": "devi_appcelerator_plain_wordmark"
+    },
+    { "name": "devi_apple_plain",
+      "value": "devi_apple_plain"
+    },
+    { "name": "devi_atom_plain_wordmark",
+      "value": "devi_atom_plain_wordmark"
+    },
+    { "name": "devi_atom_plain",
+      "value": "devi_atom_plain"
+    },
+    { "name": "devi_backbonejs_plain_wordmark",
+      "value": "devi_backbonejs_plain_wordmark"
+    },
+    { "name": "devi_backbonejs_plain",
+      "value": "devi_backbonejs_plain"
+    },
+    { "name": "devi_bootstrap_plain_wordmark",
+      "value": "devi_bootstrap_plain_wordmark"
+    },
+    { "name": "devi_bootstrap_plain",
+      "value": "devi_bootstrap_plain"
+    },
+    { "name": "devi_bower_line_wordmark",
+      "value": "devi_bower_line_wordmark"
+    },
+    { "name": "devi_bower_line",
+      "value": "devi_bower_line"
+    },
+    { "name": "devi_bower_plain_wordmark",
+      "value": "devi_bower_plain_wordmark"
+    },
+    { "name": "devi_bower_plain",
+      "value": "devi_bower_plain"
+    },
+    { "name": "devi_chrome_plain_wordmark",
+      "value": "devi_chrome_plain_wordmark"
+    },
+    { "name": "devi_chrome_plain",
+      "value": "devi_chrome_plain"
+    },
+    { "name": "devi_codeigniter_plain_wordmark",
+      "value": "devi_codeigniter_plain_wordmark"
+    },
+    { "name": "devi_codeigniter_plain",
+      "value": "devi_codeigniter_plain"
+    },
+    { "name": "devi_coffeescript_plain_wordmark",
+      "value": "devi_coffeescript_plain_wordmark"
+    },
+    { "name": "devi_coffeescript_plain",
+      "value": "devi_coffeescript_plain"
+    },
+    { "name": "devi_css3_plain_wordmark",
+      "value": "devi_css3_plain_wordmark"
+    },
+    { "name": "devi_css3_plain",
+      "value": "devi_css3_plain"
+    },
+    { "name": "devi_debian_plain_wordmark",
+      "value": "devi_debian_plain_wordmark"
+    },
+    { "name": "devi_debian_plain",
+      "value": "devi_debian_plain"
+    },
+    { "name": "devi_dot_net_plain_wordmark",
+      "value": "devi_dot_net_plain_wordmark"
+    },
+    { "name": "devi_dot_net_plain",
+      "value": "devi_dot_net_plain"
+    },
+    { "name": "devi_drupal_plain_wordmark",
+      "value": "devi_drupal_plain_wordmark"
+    },
+    { "name": "devi_drupal_plain",
+      "value": "devi_drupal_plain"
+    },
+    { "name": "devi_firefox_plain_wordmark",
+      "value": "devi_firefox_plain_wordmark"
+    },
+    { "name": "devi_firefox_plain",
+      "value": "devi_firefox_plain"
+    },
+    { "name": "devi_foundation_plain_wordmark",
+      "value": "devi_foundation_plain_wordmark"
+    },
+    { "name": "devi_foundation_plain",
+      "value": "devi_foundation_plain"
+    },
+    { "name": "devi_git_plain_wordmark",
+      "value": "devi_git_plain_wordmark"
+    },
+    { "name": "devi_git_plain",
+      "value": "devi_git_plain"
+    },
+    { "name": "devi_grunt_line_wordmark",
+      "value": "devi_grunt_line_wordmark"
+    },
+    { "name": "devi_grunt_line",
+      "value": "devi_grunt_line"
+    },
+    { "name": "devi_grunt_plain_wordmark",
+      "value": "devi_grunt_plain_wordmark"
+    },
+    { "name": "devi_grunt_plain",
+      "value": "devi_grunt_plain"
+    },
+    { "name": "devi_gulp_plain",
+      "value": "devi_gulp_plain"
+    },
+    { "name": "devi_html5_plain_wordmark",
+      "value": "devi_html5_plain_wordmark"
+    },
+    { "name": "devi_html5_plain",
+      "value": "devi_html5_plain"
+    },
+    { "name": "devi_ie10_plain",
+      "value": "devi_ie10_plain"
+    },
+    { "name": "devi_illustrator_line",
+      "value": "devi_illustrator_line"
+    },
+    { "name": "devi_illustrator_plain",
+      "value": "devi_illustrator_plain"
+    },
+    { "name": "devi_inkscape_plain_wordmark",
+      "value": "devi_inkscape_plain_wordmark"
+    },
+    { "name": "devi_inkscape_plain",
+      "value": "devi_inkscape_plain"
+    },
+    { "name": "devi_java_plain_wordmark",
+      "value": "devi_java_plain_wordmark"
+    },
+    { "name": "devi_java_plain",
+      "value": "devi_java_plain"
+    },
+    { "name": "devi_javascript_plain",
+      "value": "devi_javascript_plain"
+    },
+    { "name": "devi_jquery_plain_wordmark",
+      "value": "devi_jquery_plain_wordmark"
+    },
+    { "name": "devi_jquery_plain",
+      "value": "devi_jquery_plain"
+    },
+    { "name": "devi_krakenjs_plain_wordmark",
+      "value": "devi_krakenjs_plain_wordmark"
+    },
+    { "name": "devi_krakenjs_plain",
+      "value": "devi_krakenjs_plain"
+    },
+    { "name": "devi_laravel_plain_wordmark",
+      "value": "devi_laravel_plain_wordmark"
+    },
+    { "name": "devi_laravel_plain",
+      "value": "devi_laravel_plain"
+    },
+    { "name": "devi_less_plain_wordmark",
+      "value": "devi_less_plain_wordmark"
+    },
+    { "name": "devi_linux_plain",
+      "value": "devi_linux_plain"
+    },
+    { "name": "devi_mongodb_plain_wordmark",
+      "value": "devi_mongodb_plain_wordmark"
+    },
+    { "name": "devi_mongodb_plain",
+      "value": "devi_mongodb_plain"
+    },
+    { "name": "devi_moodle_plain_wordmark",
+      "value": "devi_moodle_plain_wordmark"
+    },
+    { "name": "devi_moodle_plain",
+      "value": "devi_moodle_plain"
+    },
+    { "name": "devi_mysql_plain_wordmark",
+      "value": "devi_mysql_plain_wordmark"
+    },
+    { "name": "devi_mysql_plain",
+      "value": "devi_mysql_plain"
+    },
+    { "name": "devi_nodejs_plain_wordmark",
+      "value": "devi_nodejs_plain_wordmark"
+    },
+    { "name": "devi_nodejs_plain",
+      "value": "devi_nodejs_plain"
+    },
+    { "name": "devi_oracle_plain",
+      "value": "devi_oracle_plain"
+    },
+    { "name": "devi_photoshop_line",
+      "value": "devi_photoshop_line"
+    },
+    { "name": "devi_photoshop_plain",
+      "value": "devi_photoshop_plain"
+    },
+    { "name": "devi_php_plain",
+      "value": "devi_php_plain"
+    },
+    { "name": "devi_postgresql_plain_wordmark",
+      "value": "devi_postgresql_plain_wordmark"
+    },
+    { "name": "devi_postgresql_plain",
+      "value": "devi_postgresql_plain"
+    },
+    { "name": "devi_python_plain_wordmark",
+      "value": "devi_python_plain_wordmark"
+    },
+    { "name": "devi_python_plain",
+      "value": "devi_python_plain"
+    },
+    { "name": "devi_rails_plain_wordmark",
+      "value": "devi_rails_plain_wordmark"
+    },
+    { "name": "devi_rails_plain",
+      "value": "devi_rails_plain"
+    },
+    { "name": "devi_react_plain_wordmark",
+      "value": "devi_react_plain_wordmark"
+    },
+    { "name": "devi_react_plain",
+      "value": "devi_react_plain"
+    },
+    { "name": "devi_ruby_plain_wordmark",
+      "value": "devi_ruby_plain_wordmark"
+    },
+    { "name": "devi_ruby_plain",
+      "value": "devi_ruby_plain"
+    },
+    { "name": "devi_sass_plain",
+      "value": "devi_sass_plain"
+    },
+    { "name": "devi_symfony_plain_wordmark",
+      "value": "devi_symfony_plain_wordmark"
+    },
+    { "name": "devi_symfony_plain",
+      "value": "devi_symfony_plain"
+    },
+    { "name": "devi_travis_plain_wordmark",
+      "value": "devi_travis_plain_wordmark"
+    },
+    { "name": "devi_travis_plain",
+      "value": "devi_travis_plain"
+    },
+    { "name": "devi_trello_plain_wordmark",
+      "value": "devi_trello_plain_wordmark"
+    },
+    { "name": "devi_trello_plain",
+      "value": "devi_trello_plain"
+    },
+    { "name": "devi_ubuntu_plain_wordmark",
+      "value": "devi_ubuntu_plain_wordmark"
+    },
+    { "name": "devi_ubuntu_plain",
+      "value": "devi_ubuntu_plain"
+    },
+    { "name": "devi_vim_plain",
+      "value": "devi_vim_plain"
+    },
+    { "name": "devi_windows8_plain_wordmark",
+      "value": "devi_windows8_plain_wordmark"
+    },
+    { "name": "devi_windows8_plain",
+      "value": "devi_windows8_plain"
+    },
+    { "name": "devi_wordpress_plain_wordmark",
+      "value": "devi_wordpress_plain_wordmark"
+    },
+    { "name": "devi_wordpress_plain",
+      "value": "devi_wordpress_plain"
+    },
+    { "name": "devi_yii_plain_wordmark",
+      "value": "devi_yii_plain_wordmark"
+    },
+    { "name": "devi_yii_plain",
+      "value": "devi_yii_plain"
+    },
+    { "name": "devi_zend_plain_wordmark",
+      "value": "devi_zend_plain_wordmark"
+    },
+    { "name": "devi_zend_plain",
+      "value": "devi_zend_plain"
+    }
+
+     ]
+}

@@ -1,0 +1,48 @@
+{
+    "string": [
+        {
+            "name": "define_Octicons",
+            "value": "year;author;libraryName;libraryWebsite"
+        },
+        {
+            "name": "library_Octicons_author",
+            "value": "GitHub Inc."
+        },
+        {
+            "name": "library_Octicons_authorWebsite",
+            "value": "https://github.com/"
+        },
+        {
+            "name": "library_Octicons_libraryName",
+            "value": "Octicons"
+        },
+        {
+            "name": "library_Octicons_libraryDescription",
+            "value": "Octicons are a scalable set of icons handcrafted with love by GitHub."
+        },
+        {
+            "name": "library_Octicons_libraryWebsite",
+            "value": "https://octicons.github.com/"
+        },
+        {
+            "name": "library_Octicons_libraryVersion",
+            "value": "3.2.0.2"
+        },
+        {
+            "name": "library_Octicons_licenseId",
+            "value": "sil_ofl_1_1"
+        },
+        {
+            "name": "library_Octicons_isOpenSource",
+            "value": "true"
+        },
+        {
+            "name": "library_Octicons_repositoryLink",
+            "value": "https://github.com/primer/octicons"
+        },
+        {
+            "name": "library_Octicons_year",
+            "value": "2012"
+        }
+    ]
+}

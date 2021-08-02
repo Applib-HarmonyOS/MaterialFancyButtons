@@ -1,0 +1,792 @@
+{
+  "string": [
+    { "name": "define_mfb_font_glyphicons_halflings",
+      "value": "com.rilixtech.glyphiconshalflingstypeface.GlyphiconsHalflings"
+    },
+    { "name": "glyi_asterisk",
+      "value": "glyi_asterisk"
+    },
+    { "name": "glyi_plus",
+      "value": "glyi_plus"
+    },
+    { "name": "glyi_eur",
+      "value": "glyi_eur"
+    },
+    { "name": "glyi_minus",
+      "value": "glyi_minus"
+    },
+    { "name": "glyi_cloud",
+      "value": "glyi_cloud"
+    },
+    { "name": "glyi_envelope",
+      "value": "glyi_envelope"
+    },
+    { "name": "glyi_pencil",
+      "value": "glyi_pencil"
+    },
+    { "name": "glyi_glass",
+      "value": "glyi_glass"
+    },
+    { "name": "glyi_music",
+      "value": "glyi_music"
+    },
+    { "name": "glyi_search",
+      "value": "glyi_search"
+    },
+    { "name": "glyi_heart",
+      "value": "glyi_heart"
+    },
+    { "name": "glyi_star",
+      "value": "glyi_star"
+    },
+    { "name": "glyi_star_empty",
+      "value": "glyi_star_empty"
+    },
+    { "name": "glyi_user",
+      "value": "glyi_user"
+    },
+    { "name": "glyi_film",
+      "value": "glyi_film"
+    },
+    { "name": "glyi_th_large",
+      "value": "glyi_th_large"
+    },
+    { "name": "glyi_th",
+      "value": "glyi_th"
+    },
+    { "name": "glyi_th_list",
+      "value": "glyi_th_list"
+    },
+    { "name": "glyi_ok",
+      "value": "glyi_ok"
+    },
+    { "name": "glyi_remove",
+      "value": "glyi_remove"
+    },
+    { "name": "glyi_zoom_in",
+      "value": "glyi_zoom_in"
+    },
+    { "name": "glyi_zoom_out",
+      "value": "glyi_zoom_out"
+    },
+    { "name": "glyi_off",
+      "value": "glyi_off"
+    },
+    { "name": "glyi_signal",
+      "value": "glyi_signal"
+    },
+    { "name": "glyi_cog",
+      "value": "glyi_cog"
+    },
+    { "name": "glyi_trash",
+      "value": "glyi_trash"
+    },
+    { "name": "glyi_home",
+      "value": "glyi_home"
+    },
+    { "name": "glyi_file",
+      "value": "glyi_file"
+    },
+    { "name": "glyi_time",
+      "value": "glyi_time"
+    },
+    { "name": "glyi_road",
+      "value": "glyi_road"
+    },
+    { "name": "glyi_download_alt",
+      "value": "glyi_download_alt"
+    },
+    { "name": "glyi_download",
+      "value": "glyi_download"
+    },
+    { "name": "glyi_upload",
+      "value": "glyi_upload"
+    },
+    { "name": "glyi_inbox",
+      "value": "glyi_inbox"
+    },
+    { "name": "glyi_play_circle",
+      "value": "glyi_play_circle"
+    },
+    { "name": "glyi_repeat",
+      "value": "glyi_repeat"
+    },
+    { "name": "glyi_refresh",
+      "value": "glyi_refresh"
+    },
+    { "name": "glyi_list_alt",
+      "value": "glyi_list_alt"
+    },
+    { "name": "glyi_lock",
+      "value": "glyi_lock"
+    },
+    { "name": "glyi_flag",
+      "value": "glyi_flag"
+    },
+    { "name": "glyi_headphones",
+      "value": "glyi_headphones"
+    },
+    { "name": "glyi_volume_off",
+      "value": "glyi_volume_off"
+    },
+    { "name": "glyi_volume_down",
+      "value": "glyi_volume_down"
+    },
+    { "name": "glyi_volume_up",
+      "value": "glyi_volume_up"
+    },
+    { "name": "glyi_qrcode",
+      "value": "glyi_qrcode"
+    },
+    { "name": "glyi_barcode",
+      "value": "glyi_barcode"
+    },
+    { "name": "glyi_tag",
+      "value": "glyi_tag"
+    },
+    { "name": "glyi_tags",
+      "value": "glyi_tags"
+    },
+    { "name": "glyi_book",
+      "value": "glyi_book"
+    },
+    { "name": "glyi_bookmark",
+      "value": "glyi_bookmark"
+    },
+    { "name": "glyi_print",
+      "value": "glyi_print"
+    },
+    { "name": "glyi_camera",
+      "value": "glyi_camera"
+    },
+    { "name": "glyi_font",
+      "value": "glyi_font"
+    },
+    { "name": "glyi_bold",
+      "value": "glyi_bold"
+    },
+    { "name": "glyi_italic",
+      "value": "glyi_italic"
+    },
+    { "name": "glyi_text_height",
+      "value": "glyi_text_height"
+    },
+    { "name": "glyi_text_width",
+      "value": "glyi_text_width"
+    },
+    { "name": "glyi_align_left",
+      "value": "glyi_align_left"
+    },
+    { "name": "glyi_align_center",
+      "value": "glyi_align_center"
+    },
+    { "name": "glyi_align_right",
+      "value": "glyi_align_right"
+    },
+    { "name": "glyi_align_justify",
+      "value": "glyi_align_justify"
+    },
+    { "name": "glyi_list",
+      "value": "glyi_list"
+    },
+    { "name": "glyi_indent_left",
+      "value": "glyi_indent_left"
+    },
+    { "name": "glyi_indent_right",
+      "value": "glyi_indent_right"
+    },
+    { "name": "glyi_facetime_video",
+      "value": "glyi_facetime_video"
+    },
+    { "name": "glyi_picture",
+      "value": "glyi_picture"
+    },
+    { "name": "glyi_map_marker",
+      "value": "glyi_map_marker"
+    },
+    { "name": "glyi_adjust",
+      "value": "glyi_adjust"
+    },
+    { "name": "glyi_tint",
+      "value": "glyi_tint"
+    },
+    { "name": "glyi_edit",
+      "value": "glyi_edit"
+    },
+    { "name": "glyi_share",
+      "value": "glyi_share"
+    },
+    { "name": "glyi_check",
+      "value": "glyi_check"
+    },
+    { "name": "glyi_move",
+      "value": "glyi_move"
+    },
+    { "name": "glyi_step_backward",
+      "value": "glyi_step_backward"
+    },
+    { "name": "glyi_fast_backward",
+      "value": "glyi_fast_backward"
+    },
+    { "name": "glyi_backward",
+      "value": "glyi_backward"
+    },
+    { "name": "glyi_play",
+      "value": "glyi_play"
+    },
+    { "name": "glyi_pause",
+      "value": "glyi_pause"
+    },
+    { "name": "glyi_stop",
+      "value": "glyi_stop"
+    },
+    { "name": "glyi_forward",
+      "value": "glyi_forward"
+    },
+    { "name": "glyi_fast_forward",
+      "value": "glyi_fast_forward"
+    },
+    { "name": "glyi_step_forward",
+      "value": "glyi_step_forward"
+    },
+    { "name": "glyi_eject",
+      "value": "glyi_eject"
+    },
+    { "name": "glyi_chevron_left",
+      "value": "glyi_chevron_left"
+    },
+    { "name": "glyi_chevron_right",
+      "value": "glyi_chevron_right"
+    },
+    { "name": "glyi_plus_sign",
+      "value": "glyi_plus_sign"
+    },
+    { "name": "glyi_minus_sign",
+      "value": "glyi_minus_sign"
+    },
+    { "name": "glyi_remove_sign",
+      "value": "glyi_remove_sign"
+    },
+    { "name": "glyi_ok_sign",
+      "value": "glyi_ok_sign"
+    },
+    { "name": "glyi_question_sign",
+      "value": "glyi_question_sign"
+    },
+    { "name": "glyi_info_sign",
+      "value": "glyi_info_sign"
+    },
+    { "name": "glyi_screenshot",
+      "value": "glyi_screenshot"
+    },
+    { "name": "glyi_remove_circle",
+      "value": "glyi_remove_circle"
+    },
+    { "name": "glyi_ok_circle",
+      "value": "glyi_ok_circle"
+    },
+    { "name": "glyi_ban_circle",
+      "value": "glyi_ban_circle"
+    },
+    { "name": "glyi_arrow_left",
+      "value": "glyi_arrow_left"
+    },
+    { "name": "glyi_arrow_right",
+      "value": "glyi_arrow_right"
+    },
+    { "name": "glyi_arrow_up",
+      "value": "glyi_arrow_up"
+    },
+    { "name": "glyi_arrow_down",
+      "value": "glyi_arrow_down"
+    },
+    { "name": "glyi_share_alt",
+      "value": "glyi_share_alt"
+    },
+    { "name": "glyi_resize_full",
+      "value": "glyi_resize_full"
+    },
+    { "name": "glyi_resize_small",
+      "value": "glyi_resize_small"
+    },
+    { "name": "glyi_exclamation_sign",
+      "value": "glyi_exclamation_sign"
+    },
+    { "name": "glyi_gift",
+      "value": "glyi_gift"
+    },
+    { "name": "glyi_leaf",
+      "value": "glyi_leaf"
+    },
+    { "name": "glyi_fire",
+      "value": "glyi_fire"
+    },
+    { "name": "glyi_eye_open",
+      "value": "glyi_eye_open"
+    },
+    { "name": "glyi_eye_close",
+      "value": "glyi_eye_close"
+    },
+    { "name": "glyi_warning_sign",
+      "value": "glyi_warning_sign"
+    },
+    { "name": "glyi_plane",
+      "value": "glyi_plane"
+    },
+    { "name": "glyi_calendar",
+      "value": "glyi_calendar"
+    },
+    { "name": "glyi_random",
+      "value": "glyi_random"
+    },
+    { "name": "glyi_comment",
+      "value": "glyi_comment"
+    },
+    { "name": "glyi_magnet",
+      "value": "glyi_magnet"
+    },
+    { "name": "glyi_chevron_up",
+      "value": "glyi_chevron_up"
+    },
+    { "name": "glyi_chevron_down",
+      "value": "glyi_chevron_down"
+    },
+    { "name": "glyi_retweet",
+      "value": "glyi_retweet"
+    },
+    { "name": "glyi_shopping_cart",
+      "value": "glyi_shopping_cart"
+    },
+    { "name": "glyi_folder_close",
+      "value": "glyi_folder_close"
+    },
+    { "name": "glyi_folder_open",
+      "value": "glyi_folder_open"
+    },
+    { "name": "glyi_resize_vertical",
+      "value": "glyi_resize_vertical"
+    },
+    { "name": "glyi_resize_horizontal",
+      "value": "glyi_resize_horizontal"
+    },
+    { "name": "glyi_hdd",
+      "value": "glyi_hdd"
+    },
+    { "name": "glyi_bullhorn",
+      "value": "glyi_bullhorn"
+    },
+    { "name": "glyi_bell",
+      "value": "glyi_bell"
+    },
+    { "name": "glyi_certificate",
+      "value": "glyi_certificate"
+    },
+    { "name": "glyi_thumbs_up",
+      "value": "glyi_thumbs_up"
+    },
+    { "name": "glyi_thumbs_down",
+      "value": "glyi_thumbs_down"
+    },
+    { "name": "glyi_hand_right",
+      "value": "glyi_hand_right"
+    },
+    { "name": "glyi_hand_left",
+      "value": "glyi_hand_left"
+    },
+    { "name": "glyi_hand_up",
+      "value": "glyi_hand_up"
+    },
+    { "name": "glyi_hand_down",
+      "value": "glyi_hand_down"
+    },
+    { "name": "glyi_circle_arrow_right",
+      "value": "glyi_circle_arrow_right"
+    },
+    { "name": "glyi_circle_arrow_left",
+      "value": "glyi_circle_arrow_left"
+    },
+    { "name": "glyi_circle_arrow_up",
+      "value": "glyi_circle_arrow_up"
+    },
+    { "name": "glyi_circle_arrow_down",
+      "value": "glyi_circle_arrow_down"
+    },
+    { "name": "glyi_globe",
+      "value": "glyi_globe"
+    },
+    { "name": "glyi_wrench",
+      "value": "glyi_wrench"
+    },
+    { "name": "glyi_tasks",
+      "value": "glyi_tasks"
+    },
+    { "name": "glyi_filter",
+      "value": "glyi_filter"
+    },
+    { "name": "glyi_briefcase",
+      "value": "glyi_briefcase"
+    },
+    { "name": "glyi_fullscreen",
+      "value": "glyi_fullscreen"
+    },
+    { "name": "glyi_dashboard",
+      "value": "glyi_dashboard"
+    },
+    { "name": "glyi_paperclip",
+      "value": "glyi_paperclip"
+    },
+    { "name": "glyi_heart_empty",
+      "value": "glyi_heart_empty"
+    },
+    { "name": "glyi_link",
+      "value": "glyi_link"
+    },
+    { "name": "glyi_phone",
+      "value": "glyi_phone"
+    },
+    { "name": "glyi_pushpin",
+      "value": "glyi_pushpin"
+    },
+    { "name": "glyi_usd",
+      "value": "glyi_usd"
+    },
+    { "name": "glyi_gbp",
+      "value": "glyi_gbp"
+    },
+    { "name": "glyi_sort",
+      "value": "glyi_sort"
+    },
+    { "name": "glyi_sort_by_alphabet",
+      "value": "glyi_sort_by_alphabet"
+    },
+    { "name": "glyi_sort_by_alphabet_alt",
+      "value": "glyi_sort_by_alphabet_alt"
+    },
+    { "name": "glyi_sort_by_order",
+      "value": "glyi_sort_by_order"
+    },
+    { "name": "glyi_sort_by_order_alt",
+      "value": "glyi_sort_by_order_alt"
+    },
+    { "name": "glyi_sort_by_attributes",
+      "value": "glyi_sort_by_attributes"
+    },
+    { "name": "glyi_sort_by_attributes_alt",
+      "value": "glyi_sort_by_attributes_alt"
+    },
+    { "name": "glyi_unchecked",
+      "value": "glyi_unchecked"
+    },
+    { "name": "glyi_expand",
+      "value": "glyi_expand"
+    },
+    { "name": "glyi_collapse_down",
+      "value": "glyi_collapse_down"
+    },
+    { "name": "glyi_collapse_up",
+      "value": "glyi_collapse_up"
+    },
+    { "name": "glyi_log_in",
+      "value": "glyi_log_in"
+    },
+    { "name": "glyi_flash",
+      "value": "glyi_flash"
+    },
+    { "name": "glyi_log_out",
+      "value": "glyi_log_out"
+    },
+    { "name": "glyi_new_window",
+      "value": "glyi_new_window"
+    },
+    { "name": "glyi_record",
+      "value": "glyi_record"
+    },
+    { "name": "glyi_save",
+      "value": "glyi_save"
+    },
+    { "name": "glyi_open",
+      "value": "glyi_open"
+    },
+    { "name": "glyi_saved",
+      "value": "glyi_saved"
+    },
+    { "name": "glyi_import",
+      "value": "glyi_import"
+    },
+    { "name": "glyi_export",
+      "value": "glyi_export"
+    },
+    { "name": "glyi_send",
+      "value": "glyi_send"
+    },
+    { "name": "glyi_floppy_disk",
+      "value": "glyi_floppy_disk"
+    },
+    { "name": "glyi_floppy_saved",
+      "value": "glyi_floppy_saved"
+    },
+    { "name": "glyi_floppy_remove",
+      "value": "glyi_floppy_remove"
+    },
+    { "name": "glyi_floppy_save",
+      "value": "glyi_floppy_save"
+    },
+    { "name": "glyi_floppy_open",
+      "value": "glyi_floppy_open"
+    },
+    { "name": "glyi_credit_card",
+      "value": "glyi_credit_card"
+    },
+    { "name": "glyi_transfer",
+      "value": "glyi_transfer"
+    },
+    { "name": "glyi_cutlery",
+      "value": "glyi_cutlery"
+    },
+    { "name": "glyi_header",
+      "value": "glyi_header"
+    },
+    { "name": "glyi_compressed",
+      "value": "glyi_compressed"
+    },
+    { "name": "glyi_earphone",
+      "value": "glyi_earphone"
+    },
+    { "name": "glyi_phone_alt",
+      "value": "glyi_phone_alt"
+    },
+    { "name": "glyi_tower",
+      "value": "glyi_tower"
+    },
+    { "name": "glyi_stats",
+      "value": "glyi_stats"
+    },
+    { "name": "glyi_sd_video",
+      "value": "glyi_sd_video"
+    },
+    { "name": "glyi_hd_video",
+      "value": "glyi_hd_video"
+    },
+    { "name": "glyi_subtitles",
+      "value": "glyi_subtitles"
+    },
+    { "name": "glyi_sound_stereo",
+      "value": "glyi_sound_stereo"
+    },
+    { "name": "glyi_sound_dolby",
+      "value": "glyi_sound_dolby"
+    },
+    { "name": "glyi_sound_5_1",
+      "value": "glyi_sound_5_1"
+    },
+    { "name": "glyi_sound_6_1",
+      "value": "glyi_sound_6_1"
+    },
+    { "name": "glyi_sound_7_1",
+      "value": "glyi_sound_7_1"
+    },
+    { "name": "glyi_copyright_mark",
+      "value": "glyi_copyright_mark"
+    },
+    { "name": "glyi_registration_mark",
+      "value": "glyi_registration_mark"
+    },
+    { "name": "glyi_cloud_download",
+      "value": "glyi_cloud_download"
+    },
+    { "name": "glyi_cloud_upload",
+      "value": "glyi_cloud_upload"
+    },
+    { "name": "glyi_tree_conifer",
+      "value": "glyi_tree_conifer"
+    },
+    { "name": "glyi_tree_deciduous",
+      "value": "glyi_tree_deciduous"
+    },
+    { "name": "glyi_cd",
+      "value": "glyi_cd"
+    },
+    { "name": "glyi_save_file",
+      "value": "glyi_save_file"
+    },
+    { "name": "glyi_open_file",
+      "value": "glyi_open_file"
+    },
+    { "name": "glyi_level_up",
+      "value": "glyi_level_up"
+    },
+    { "name": "glyi_copy",
+      "value": "glyi_copy"
+    },
+    { "name": "glyi_paste",
+      "value": "glyi_paste"
+    },
+    { "name": "glyi_alert",
+      "value": "glyi_alert"
+    },
+    { "name": "glyi_equalizer",
+      "value": "glyi_equalizer"
+    },
+    { "name": "glyi_king",
+      "value": "glyi_king"
+    },
+    { "name": "glyi_queen",
+      "value": "glyi_queen"
+    },
+    { "name": "glyi_pawn",
+      "value": "glyi_pawn"
+    },
+    { "name": "glyi_bishop",
+      "value": "glyi_bishop"
+    },
+    { "name": "glyi_knight",
+      "value": "glyi_knight"
+    },
+    { "name": "glyi_baby_formula",
+      "value": "glyi_baby_formula"
+    },
+    { "name": "glyi_tent",
+      "value": "glyi_tent"
+    },
+    { "name": "glyi_blackboard",
+      "value": "glyi_blackboard"
+    },
+    { "name": "glyi_bed",
+      "value": "glyi_bed"
+    },
+    { "name": "glyi_apple",
+      "value": "glyi_apple"
+    },
+    { "name": "glyi_erase",
+      "value": "glyi_erase"
+    },
+    { "name": "glyi_hourglass",
+      "value": "glyi_hourglass"
+    },
+    { "name": "glyi_lamp",
+      "value": "glyi_lamp"
+    },
+    { "name": "glyi_duplicate",
+      "value": "glyi_duplicate"
+    },
+    { "name": "glyi_piggy_bank",
+      "value": "glyi_piggy_bank"
+    },
+    { "name": "glyi_scissors",
+      "value": "glyi_scissors"
+    },
+    { "name": "glyi_bitcoin",
+      "value": "glyi_bitcoin"
+    },
+    { "name": "glyi_btc",
+      "value": "glyi_btc"
+    },
+    { "name": "glyi_xbt",
+      "value": "glyi_xbt"
+    },
+    { "name": "glyi_yen",
+      "value": "glyi_yen"
+    },
+    { "name": "glyi_jpy",
+      "value": "glyi_jpy"
+    },
+    { "name": "glyi_ruble",
+      "value": "glyi_ruble"
+    },
+    { "name": "glyi_rub",
+      "value": "glyi_rub"
+    },
+    { "name": "glyi_scale",
+      "value": "glyi_scale"
+    },
+    { "name": "glyi_ice_lolly",
+      "value": "glyi_ice_lolly"
+    },
+    { "name": "glyi_ice_lolly_tasted",
+      "value": "glyi_ice_lolly_tasted"
+    },
+    { "name": "glyi_education",
+      "value": "glyi_education"
+    },
+    { "name": "glyi_option_horizontal",
+      "value": "glyi_option_horizontal"
+    },
+    { "name": "glyi_option_vertical",
+      "value": "glyi_option_vertical"
+    },
+    { "name": "glyi_menu_hamburger",
+      "value": "glyi_menu_hamburger"
+    },
+    { "name": "glyi_modal_window",
+      "value": "glyi_modal_window"
+    },
+    { "name": "glyi_oil",
+      "value": "glyi_oil"
+    },
+    { "name": "glyi_grain",
+      "value": "glyi_grain"
+    },
+    { "name": "glyi_sunglasses",
+      "value": "glyi_sunglasses"
+    },
+    { "name": "glyi_text_size",
+      "value": "glyi_text_size"
+    },
+    { "name": "glyi_text_color",
+      "value": "glyi_text_color"
+    },
+    { "name": "glyi_text_background",
+      "value": "glyi_text_background"
+    },
+    { "name": "glyi_object_align_top",
+      "value": "glyi_object_align_top"
+    },
+    { "name": "glyi_object_align_bottom",
+      "value": "glyi_object_align_bottom"
+    },
+    { "name": "glyi_object_align_horizontal",
+      "value": "glyi_object_align_horizontal"
+    },
+    { "name": "glyi_object_align_left",
+      "value": "glyi_object_align_left"
+    },
+    { "name": "glyi_object_align_vertical",
+      "value": "glyi_object_align_vertical"
+    },
+    { "name": "glyi_object_align_right",
+      "value": "glyi_object_align_right"
+    },
+    { "name": "glyi_triangle_right",
+      "value": "glyi_triangle_right"
+    },
+    { "name": "glyi_triangle_left",
+      "value": "glyi_triangle_left"
+    },
+    { "name": "glyi_triangle_bottom",
+      "value": "glyi_triangle_bottom"
+    },
+    { "name": "glyi_triangle_top",
+      "value": "glyi_triangle_top"
+    },
+    { "name": "glyi_console",
+      "value": "glyi_console"
+    },
+    { "name": "glyi_superscript",
+      "value": "glyi_superscript"
+    },
+    { "name": "glyi_subscript",
+      "value": "glyi_subscript"
+    },
+    { "name": "glyi_menu_left",
+      "value": "glyi_menu_left"
+    },
+    { "name": "glyi_menu_right",
+      "value": "glyi_menu_right"
+    },
+    { "name": "glyi_menu_down",
+      "value": "glyi_menu_down"
+    },
+    { "name": "glyi_menu_up",
+      "value": "glyi_menu_up"
+    }]
+}

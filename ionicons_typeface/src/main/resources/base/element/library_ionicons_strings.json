@@ -1,0 +1,36 @@
+{
+  "string": [
+    { "name": "define_Ionicons",
+      "value": "year;author;libraryName;libraryWebsite"
+    },
+    { "name": "library_Ionicons_author",
+      "value": "Drifty"
+    },
+    { "name": "library_Ionicons_authorWebsite",
+      "value": "http"
+    },
+    { "name": "library_Ionicons_libraryName",
+      "value": "Ionicons"
+    },
+    { "name": "library_Ionicons_libraryDescription",
+      "value": "The premium icon font for Ionic."
+    },
+    { "name": "library_Ionicons_libraryWebsite",
+      "value": "http"
+    },
+    { "name": "library_Ionicons_libraryVersion",
+      "value": "2.0.1.2"
+    },
+    { "name": "library_Ionicons_licenseId",
+      "value": "mit"
+    },
+    { "name": "library_Ionicons_isOpenSource",
+      "value": "true"
+    },
+    { "name": "library_Ionicons_repositoryLink",
+      "value": "https"
+    },
+    { "name": "library_Ionicons_year",
+      "value": "2016"
+    }]
+}
